@@ -7,4 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on the DevTools team
-- 🌱 I’m currently learning ebverything I can
+- 🌱 I’m currently learning everything I can
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
