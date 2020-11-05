@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the DevTools team
 - 🌱 I’m currently learning everything I can
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ---
 
 # Blog posts
@@ -23,3 +25,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: https://linkedin.com/in/craig-teel-b8786771
