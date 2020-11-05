@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Craig Teel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
+
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
