@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=criagteelfugro)](https://github.com/anuraghazra/github-readme-stats)
+[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
