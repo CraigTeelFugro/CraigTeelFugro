@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ---
 
-# Blog posts
+# GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Availability Report: October 2020](https://github.blog/2020-11-04-github-availability-report-october-2020/)
