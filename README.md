@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The evolving role of operations in DevOps](https://github.blog/2020-12-03-the-evolving-role-of-operations-in-devops/)
 - [Improving the GHES release process: release candidates](https://github.blog/2020-12-03-improving-the-ghes-release-process-release-candidates/)
 - [Join our panel with WHO at GitHub Universe 2020!](https://github.blog/2020-12-03-join-our-panel-with-who-at-github-universe-2020/)
 - [GitHub Availability Report: November 2020](https://github.blog/2020-12-02-availability-report-november-2020/)
 - [The State of the Octoverse 2020](https://github.blog/2020-12-02-the-state-of-the-octoverse-2020/)
-- [The ReadME Project shares innovative paths to DevOps success](https://github.blog/2020-12-01-devops-success-readme/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
