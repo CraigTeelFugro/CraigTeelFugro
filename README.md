@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [linkedin]: https://linkedin.com/in/craig-teel-b8786771
