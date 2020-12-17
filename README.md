@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Commits are shapshots, not diffs](https://github.blog/2020-12-17-commits-are-shapshots-not-diffs/)
+- [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - [No cookie for you](https://github.blog/2020-12-17-no-cookie-for-you/)
 - [Reducing flaky builds by 18x](https://github.blog/2020-12-16-reducing-flaky-builds-by-18x/)
 - [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
