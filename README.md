@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to launch a tech career in 2020](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2020/)
+- [Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/)
+- [Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/)
 - [Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 - [GitHub joins amicus brief warning of systemic risk from private sector offensive actors](https://github.blog/2020-12-21-github-joins-amicus-brief-warning-of-systemic-risk-from-private-sector-offensive-actors/)
-- [Visualizing GitHub’s global community](https://github.blog/2020-12-21-visualizing-githubs-global-community/)
-- [How we built the GitHub globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
-- [How to make DevOps your competitive advantage](https://github.blog/2020-12-18-how-to-make-devops-your-competitive-advantage/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
