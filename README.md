@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - [Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 - [GitHub joins amicus brief warning of systemic risk from private sector offensive actors](https://github.blog/2020-12-21-github-joins-amicus-brief-warning-of-systemic-risk-from-private-sector-offensive-actors/)
 
-- https://opensource.com/feed
+
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
