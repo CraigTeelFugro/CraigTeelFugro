@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to launch a tech career in 2020](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2020/)
+- [How to launch a tech career in 2021](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2021/)
 - [Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/)
 - [Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/)
 - [Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
