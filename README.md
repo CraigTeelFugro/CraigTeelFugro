@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlights from Game Off 2020](https://github.blog/2020-12-23-highlights-from-game-off-2020/)
 - [How to use the Eclipse IDE as your text editor](https://opensource.com/article/20/12/eclipse)
 - [10 Raspberry Pi project ideas from 2020](https://opensource.com/article/20/12/raspberry-pi)
 - [9 stories about switching to an open source alternative in 2020](https://opensource.com/article/20/12/open-source-alternatives)
 - [How to launch a tech career in 2021](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2021/)
-- [Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
