@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the Eclipse IDE as your text editor](https://opensource.com/article/20/12/eclipse)
+- [10 Raspberry Pi project ideas from 2020](https://opensource.com/article/20/12/raspberry-pi)
+- [9 stories about switching to an open source alternative in 2020](https://opensource.com/article/20/12/open-source-alternatives)
 - [How to launch a tech career in 2021](https://github.blog/2020-12-22-how-to-launch-a-tech-career-in-2021/)
 - [Let’s talk about securing open source projects](https://github.blog/2020-12-22-lets-talk-about-securing-open-source-projects/)
-- [Git clone: a data-driven study on cloning behaviors](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/)
-- [Get up to speed with partial clone and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
-- [GitHub joins amicus brief warning of systemic risk from private sector offensive actors](https://github.blog/2020-12-21-github-joins-amicus-brief-warning-of-systemic-risk-from-private-sector-offensive-actors/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
