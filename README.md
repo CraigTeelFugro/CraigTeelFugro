@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Try GNU nano, a lightweight alternative to Vim](https://opensource.com/article/20/12/gnu-nano)
 - [10 open source news headlines of 2020](https://opensource.com/article/20/12/open-source-news)
 - [How to use heredoc as a text editor](https://opensource.com/article/20/12/heredoc)
 - [4 ways open source transformed education in 2020](https://opensource.com/article/20/12/open-source-education)
 - [3 critical DevOps concepts we explored in 2020](https://opensource.com/article/20/12/devops)
-- [5 reasons to use the Atom text editor](https://opensource.com/article/20/12/atom)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
