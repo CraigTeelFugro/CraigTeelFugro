@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python by coding a simple game](https://opensource.com/article/20/12/learn-python)
+- [Learn to use the JOE text editor on Linux](https://opensource.com/article/20/12/joe)
 - [9 insights from pivoting to remote work in 2020](https://opensource.com/article/20/12/remote-work)
 - [Jot down your ideas in a digital notebook](https://opensource.com/article/20/12/kjots)
 - [Try GNU nano, a lightweight alternative to Vim](https://opensource.com/article/20/12/gnu-nano)
-- [10 open source news headlines of 2020](https://opensource.com/article/20/12/open-source-news)
-- [How to use heredoc as a text editor](https://opensource.com/article/20/12/heredoc)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
