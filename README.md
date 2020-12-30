@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the GitHub Education Classroom Report 2020](https://github.blog/2020-12-30-announcing-the-github-education-classroom-report-2020/)
 - [Use the Markdown Editor app in Nextcloud](https://opensource.com/article/20/12/nextcloud-markdown)
 - [10 examples of using Python in 2020](https://opensource.com/article/20/12/python)
 - [Learn Lua by writing a &quot;guess the number&quot; game](https://opensource.com/article/20/12/lua-guess-number-game)
 - [Bring an old MacBook back to life with Linux](https://opensource.com/article/20/12/linux-macbook)
-- [Show progress in your Python apps with tqdm](https://opensource.com/article/20/12/tqdm-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
