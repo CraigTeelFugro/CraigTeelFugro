@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solve a charity&#039;s problem with the Julia programming language](https://opensource.com/article/21/1/solve-problem-julia)
+- [Happy New Year! 5 things we learned last year](https://opensource.com/article/21/1/happy-new-year-advice)
 - [Build your own text editor in Java](https://opensource.com/article/20/12/write-your-own-text-editor)
 - [10 things to love about Git](https://opensource.com/article/20/12/git)
 - [4 considerations for getting started with CI/CD in 2021](https://opensource.com/article/20/12/cicd)
-- [Announcing the GitHub Education Classroom Report 2020](https://github.blog/2020-12-30-announcing-the-github-education-classroom-report-2020/)
-- [Use the Markdown Editor app in Nextcloud](https://opensource.com/article/20/12/nextcloud-markdown)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
