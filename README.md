@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 ways to advance your JavaScript journey in 2021](https://opensource.com/article/21/1/javascript)
+- [Why I like the FED text editor](https://opensource.com/article/21/1/fed-editor)
+- [What is an open source evangelist?](https://opensource.com/article/21/1/open-source-evangelist)
 - [8 open source software cheat sheets you&#039;ll need in 2021](https://opensource.com/article/21/1/cheat-sheets)
 - [A hands-on tutorial for using the GNU Project Debugger](https://opensource.com/article/21/1/gnu-project-debugger)
-- [3 serverless strategies to look for in 2021](https://opensource.com/article/21/1/devapps-strategies)
-- [GitHub Availability Report: December 2020](https://github.blog/2021-01-06-github-availability-report-december-2020/)
-- [Building On-Call Culture at GitHub](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
