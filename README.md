@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 plain text note-taking tools](https://opensource.com/article/21/1/plain-text)
+- [Learn awk by coding a &quot;guess the number&quot; game](https://opensource.com/article/21/1/learn-awk)
+- [How open source builds distributed trust](https://opensource.com/article/21/1/open-source-distributed-trust)
 - [How I prioritize tasks on my to-do list](https://opensource.com/article/21/1/prioritize-tasks)
 - [Cross-compiling made easy with Golang](https://opensource.com/article/21/1/go-cross-compiling)
-- [5 things we learned about Java in 2020](https://opensource.com/article/21/1/java)
-- [Gain control of your calendar with this simple strategy](https://opensource.com/article/21/1/calendar-time-boxing)
-- [Turn your Raspberry Pi into a HiFi music system](https://opensource.com/article/21/1/raspberry-pi-hifi)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
