@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 DevOps books to read this year](https://opensource.com/article/21/1/devops-books)
+- [How to use KDE&#039;s productivity suite, Kontact](https://opensource.com/article/21/1/kde-kontact)
 - [GitHub Enterprise Server 3.0 is here!](https://github.blog/2021-01-15-github-enterprise-server-3-0-is-here/)
 - [3 plain text note-taking tools](https://opensource.com/article/21/1/plain-text)
 - [Learn awk by coding a &quot;guess the number&quot; game](https://opensource.com/article/21/1/learn-awk)
-- [How open source builds distributed trust](https://opensource.com/article/21/1/open-source-distributed-trust)
-- [How I prioritize tasks on my to-do list](https://opensource.com/article/21/1/prioritize-tasks)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
