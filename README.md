@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up a Linux cloud on bare metal](https://opensource.com/article/21/1/cloud-image-virt-install)
+- [10 ways big data and data science impacted the world in 2020](https://opensource.com/article/21/1/big-data)
+- [Organize your task list using labels](https://opensource.com/article/21/1/labels)
 - [Set up a minimal server on a Raspberry Pi](https://opensource.com/article/21/1/minimal-server-raspberry-pi)
 - [10 ways to get started with open source in 2021](https://opensource.com/article/21/1/getting-started-open-source)
-- [Tips for incorporating self-care into your daily routine](https://opensource.com/article/21/1/self-care)
-- [Update on an employee matter](https://github.blog/2021-01-17-update-on-an-employee-matter/)
-- [Top 50 authors: Opensource.com Community Awards 2021](https://opensource.com/article/21/1/community-awards-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
