@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert your Windows install into a VM on Linux](https://opensource.com/article/21/1/virtualbox-windows-linux)
+- [How Nextcloud is the ultimate open source productivity suite](https://opensource.com/article/21/1/nextcloud-productivity)
+- [How to thrive in our changing work environments](https://opensource.com/open-organization/21/1/thrive-future-work)
 - [Learn JavaScript by writing a guessing game](https://opensource.com/article/21/1/learn-javascript)
 - [Why keeping a journal improves productivity](https://opensource.com/article/21/1/open-source-journal)
-- [Help safeguard your Linux server from attack with this REST API](https://opensource.com/article/21/1/crowdsec-rest-api)
-- [Set up a Linux cloud on bare metal](https://opensource.com/article/21/1/cloud-image-virt-install)
-- [10 ways big data and data science impacted the world in 2020](https://opensource.com/article/21/1/big-data)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
