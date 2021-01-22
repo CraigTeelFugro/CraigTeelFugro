@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Configure a Linux workspace remotely from the command line](https://opensource.com/article/21/1/remote-configuration-xfce4)
+- [3 tips for automating your email filters](https://opensource.com/article/21/1/email-filter)
+- [How to implement a DevOps toolchain](https://opensource.com/article/21/1/devops-tool-chain)
+- [Why KubeEdge is my favorite open source project of 2020](https://opensource.com/article/21/1/kubeedge)
 - [The best of Changelog • 2020 Edition](https://github.blog/2021-01-21-changelog-2020-edition/)
-- [Convert your Windows install into a VM on Linux](https://opensource.com/article/21/1/virtualbox-windows-linux)
-- [How Nextcloud is the ultimate open source productivity suite](https://opensource.com/article/21/1/nextcloud-productivity)
-- [How to thrive in our changing work environments](https://opensource.com/open-organization/21/1/thrive-future-work)
-- [Learn JavaScript by writing a guessing game](https://opensource.com/article/21/1/learn-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
