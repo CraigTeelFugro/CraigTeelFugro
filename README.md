@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Schedule appointments with an open source alternative to Doodle](https://opensource.com/article/21/1/open-source-scheduler)
+- [How I programmed a virtual gift exchange](https://opensource.com/article/21/1/open-source-gift-exchange)
 - [Level up your code with TwilioQuest](https://github.blog/2021-01-22-level-up-your-code-with-twilioquest/)
 - [Configure a Linux workspace remotely from the command line](https://opensource.com/article/21/1/remote-configuration-xfce4)
 - [3 tips for automating your email filters](https://opensource.com/article/21/1/email-filter)
-- [How to implement a DevOps toolchain](https://opensource.com/article/21/1/devops-tool-chain)
-- [Why KubeEdge is my favorite open source project of 2020](https://opensource.com/article/21/1/kubeedge)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
