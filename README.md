@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 open practices for a sustainable technology transition](https://opensource.com/article/21/1/open-practices-sustainable-technology-transition)
 - [Start programming in Racket by writing a &quot;guess the number&quot; game](https://opensource.com/article/21/1/racket-guess-number)
 - [4 tips for preventing notification fatigue](https://opensource.com/article/21/1/alert-fatigue)
 - [Open source leader in White House, Mapbox gets open source alternative, and more](https://opensource.com/article/21/1/open-source-news)
 - [Build a programmable light display on Raspberry Pi](https://opensource.com/article/21/1/light-display-raspberry-pi)
-- [Why I use the D programming language for scripting](https://opensource.com/article/21/1/d-scripting)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
