@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I build and expand application development and testing](https://opensource.com/article/21/2/build-expand-software)
 - [GitHub Campus Experts applications are open](https://github.blog/2021-02-01-github-campus-experts-applications-are-open/)
 - [Use Mac-style emoji on Linux](https://opensource.com/article/21/2/emoji-linux)
 - [My handy guide to software development and testing](https://opensource.com/article/21/2/development-guide)
 - [Generate QR codes with this open source tool](https://opensource.com/article/21/2/zint-barcode-generator)
-- [3 wishes for open source productivity in 2021](https://opensource.com/article/21/1/productivity-wishlist)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
