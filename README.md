@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deployment reliability at GitHub](https://github.blog/2021-02-03-deployment-reliability-at-github/)
 - [Improve your productivity with this Linux automation tool](https://opensource.com/article/21/2/linux-autokey)
 - [Defining boundaries and interfaces in software development](https://opensource.com/article/21/2/boundaries-interfaces)
+- [GitHub Availability Report: January 2021](https://github.blog/2021-02-02-github-availability-report-january-2021/)
 - [What’s next for DevOps: Q&A with Lightstep CEO Ben Sigelman](https://github.blog/2021-02-02-whats-next-for-devops-qa-with-lightstep-ceo-ben-sigelman/)
-- [npm 7 is now generally available!](https://github.blog/2021-02-02-npm-7-is-now-generally-available/)
-- [Convert audio files with this versatile Linux command](https://opensource.com/article/20/2/linux-sox)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
