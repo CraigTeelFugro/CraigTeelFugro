@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fighting for developers: GitHub policy 2020 in review](https://github.blog/2021-02-03-fighting-for-developers-github-policy-2020-in-review/)
 - [Deployment reliability at GitHub](https://github.blog/2021-02-03-deployment-reliability-at-github/)
 - [Improve your productivity with this Linux automation tool](https://opensource.com/article/21/2/linux-autokey)
 - [Defining boundaries and interfaces in software development](https://opensource.com/article/21/2/boundaries-interfaces)
 - [GitHub Availability Report: January 2021](https://github.blog/2021-02-02-github-availability-report-january-2021/)
-- [What’s next for DevOps: Q&A with Lightstep CEO Ben Sigelman](https://github.blog/2021-02-02-whats-next-for-devops-qa-with-lightstep-ceo-ben-sigelman/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
