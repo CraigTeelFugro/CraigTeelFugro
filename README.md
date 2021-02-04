@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub reduces Marketplace transaction fees, revamps Technology Partner Program](https://github.blog/2021-02-04-github-reduces-marketplace-transaction-fees-revamps-technology-partner-program/)
 - [How We Illustrate at GitHub](https://github.blog/2021-02-04-how-we-illustrate-at-github/)
 - [A hands-on tutorial of SQLite3](https://opensource.com/article/21/2/sqlite3-cheat-sheet)
 - [A guide to understanding Linux software libraries in C](https://opensource.com/article/21/2/linux-software-libraries)
 - [Get started with distributed tracing using Grafana Tempo](https://opensource.com/article/21/2/tempo-distributed-tracing)
-- [How to implement business requirements in software development](https://opensource.com/article/21/2/exceptional-behavior)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
