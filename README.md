@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Linus&#039;s Law for open source security](https://opensource.com/article/21/2/open-source-security)
+- [Try Deno as an alternative to Node.js](https://opensource.com/article/21/2/deno)
 - [My open source disaster recovery strategy for the home office](https://opensource.com/article/21/2/high-availability-home-office)
 - [How to set up custom sensors in Home Assistant](https://opensource.com/article/21/2/home-assistant-custom-sensors)
 - [3 open source tools that make Linux the ideal workstation](https://opensource.com/article/21/2/linux-workday)
-- [Why choose Plausible for an open source alternative to Google Analytics](https://opensource.com/article/21/2/plausible)
-- [Why the success of open source depends on empathy](https://opensource.com/article/21/2/open-source-empathy)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
