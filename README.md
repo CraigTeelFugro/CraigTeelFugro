@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Linux to do your taxes](https://opensource.com/article/21/2/linux-tax-software)
+- [31 open source text editors you need to try](https://opensource.com/article/21/2/open-source-text-editors)
+- [What&#039;s new with ownCloud in 2021?](https://opensource.com/article/21/2/owncloud)
 - [New global ID format coming to GraphQL](https://github.blog/2021-02-10-new-global-id-format-coming-to-graphql/)
 - [Manage your budget on Linux with this open source finance tool](https://opensource.com/article/21/2/linux-skrooge)
-- [Configure multi-tenancy with Kubernetes namespaces](https://opensource.com/article/21/2/kubernetes-namespaces)
-- [Draw Mandelbrot fractals with GIMP scripting](https://opensource.com/article/21/2/gimp-mandelbrot)
-- [Using CWE and CVSS scores to get more context on a security advisory](https://github.blog/2021-02-09-using-cwe-and-cvss-scores-to-get-more-context-on-a-security-advisory/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
