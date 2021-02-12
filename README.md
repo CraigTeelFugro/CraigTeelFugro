@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [18 ways to differentiate open source products from upstream suppliers](https://opensource.com/article/21/2/differentiating-products-upstream-suppliers)
+- [How to adopt DevSecOps successfully](https://opensource.com/article/21/2/devsecops)
 - [How we designed and wrote the narrative for our homepage](https://github.blog/2021-02-11-how-we-designed-and-wrote-the-narrative-for-our-homepage/)
 - [Use Linux to do your taxes](https://opensource.com/article/21/2/linux-tax-software)
 - [31 open source text editors you need to try](https://opensource.com/article/21/2/open-source-text-editors)
-- [What&#039;s new with ownCloud in 2021?](https://opensource.com/article/21/2/owncloud)
-- [New global ID format coming to GraphQL](https://github.blog/2021-02-10-new-global-id-format-coming-to-graphql/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
