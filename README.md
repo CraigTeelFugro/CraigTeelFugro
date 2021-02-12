@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding npm substitution attacks](https://github.blog/2021-02-12-avoiding-npm-substitution-attacks/)
 - [4 reasons to choose Linux for art and design](https://opensource.com/article/21/2/linux-art-design)
 - [How the OpenStack community is collaborating during the pandemic](https://opensource.com/article/21/2/openstack-community)
 - [18 ways to differentiate open source products from upstream suppliers](https://opensource.com/article/21/2/differentiating-products-upstream-suppliers)
 - [How to adopt DevSecOps successfully](https://opensource.com/article/21/2/devsecops)
-- [How we designed and wrote the narrative for our homepage](https://github.blog/2021-02-11-how-we-designed-and-wrote-the-narrative-for-our-homepage/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
