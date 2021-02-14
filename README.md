@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Give something from the heart to the public domain](https://opensource.com/article/21/2/public-domain)
 - [Why programmers love Linux packaging](https://opensource.com/article/21/2/linux-packaging)
 - [5 reasons why I love coding on Linux](https://opensource.com/article/21/2/linux-programming)
 - [How open source provides students with real-world experience](https://opensource.com/article/21/2/open-source-student)
 - [Avoiding npm substitution attacks](https://github.blog/2021-02-12-avoiding-npm-substitution-attacks/)
-- [4 reasons to choose Linux for art and design](https://opensource.com/article/21/2/linux-art-design)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
