@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why everyone should try using Linux](https://opensource.com/article/21/2/try-linux)
+- [Protect your Home Assistant with these backups](https://opensource.com/article/21/2/home-assistant-backups)
+- [A practical guide to JavaScript closures](https://opensource.com/article/21/2/javascript-closures)
 - [Give something from the heart to the public domain](https://opensource.com/article/21/2/public-domain)
 - [Why programmers love Linux packaging](https://opensource.com/article/21/2/linux-packaging)
-- [5 reasons why I love coding on Linux](https://opensource.com/article/21/2/linux-programming)
-- [How open source provides students with real-world experience](https://opensource.com/article/21/2/open-source-student)
-- [Avoiding npm substitution attacks](https://github.blog/2021-02-12-avoiding-npm-substitution-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
