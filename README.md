@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Enterprise Server 3.0 is now generally available](https://github.blog/2021-02-16-github-enterprise-server-3-0-is-now-generally-available/)
 - [How to install Linux in 3 steps](https://opensource.com/article/21/2/linux-installation)
 - [How Ansible got started and grew](https://opensource.com/article/21/2/ansible-origin-story)
 - [What does being &#039;technical&#039; mean?](https://opensource.com/article/21/2/what-technical)
 - [Why everyone should try using Linux](https://opensource.com/article/21/2/try-linux)
-- [Protect your Home Assistant with these backups](https://opensource.com/article/21/2/home-assistant-backups)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
