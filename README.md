@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not an engineer? Find out where you belong](https://opensource.com/article/21/2/advice-non-technical)
 - [Introducing GitHub Campus TV!](https://github.blog/2021-02-17-introducing-github-campus-tv/)
 - [5 reasons to use Linux package managers](https://opensource.com/article/21/2/linux-package-management)
 - [Use this bootable USB drive on Linux to rescue Windows users](https://opensource.com/article/21/2/linux-woeusb)
 - [4 tech jobs for people who don&#039;t code](https://opensource.com/article/21/2/non-engineering-jobs-tech)
-- [GitHub Enterprise Server 3.0 is now generally available](https://github.blog/2021-02-16-github-enterprise-server-3-0-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
