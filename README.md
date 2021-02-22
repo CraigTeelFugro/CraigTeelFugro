@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A friendly guide to the syntax of C++ method pointers](https://opensource.com/article/21/2/ccc-method-pointers)
+- [A step-by-step guide to Knative eventing](https://opensource.com/article/21/2/knative-eventing)
+- [5 benefits of choosing Linux](https://opensource.com/article/21/2/linux-choice)
 - [Run your favorite Windows applications on Linux](https://opensource.com/article/21/2/linux-wine)
 - [Your guide to Developer Experience Week at GitHub InFocus](https://github.blog/2021-02-19-your-guide-developer-experience-week-github-infocus/)
-- [MLH Fellowship, powered by GitHub, welcomes American Express and Adobe to the Summer 2021 Program](https://github.blog/2021-02-19-mlh-fellowship-welcomes-american-express-adobe-summer-2021/)
-- [Unlock your Chromebook&#039;s hidden potential with Linux](https://opensource.com/article/21/2/chromebook-linux)
-- [Why every job in the tech industry is technical](https://opensource.com/article/21/2/every-job-technical)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
