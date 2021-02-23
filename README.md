@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to Python virtual environments with virtualenvwrapper](https://opensource.com/article/21/2/python-virtualenvwrapper)
 - [What makes the Linux community special?](https://opensource.com/article/21/2/linux-community)
 - [A friendly guide to the syntax of C++ method pointers](https://opensource.com/article/21/2/ccc-method-pointers)
 - [A step-by-step guide to Knative eventing](https://opensource.com/article/21/2/knative-eventing)
 - [5 benefits of choosing Linux](https://opensource.com/article/21/2/linux-choice)
-- [Run your favorite Windows applications on Linux](https://opensource.com/article/21/2/linux-wine)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
