@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 new open source licenses](https://opensource.com/article/21/2/osi-licenses-cal-cern-ohl)
 - [Hello from GitHub’s new Chief Security Officer](https://github.blog/2021-02-24-hello-from-githubs-new-chief-security-officer/)
 - [Black History Month Spotlight: Honoring Black creators, activists, and community builders](https://github.blog/2021-02-24-black-history-month-spotlight-honoring-black-creators-activists-and-community-builders/)
 - [Let’s talk about tech internships](https://github.blog/2021-02-24-lets-talk-about-tech-internships/)
 - [Why Linux is critical to edge computing](https://opensource.com/article/21/2/linux-edge-computing)
-- [Set your path in FreeDOS](https://opensource.com/article/21/2/path-freedos)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
