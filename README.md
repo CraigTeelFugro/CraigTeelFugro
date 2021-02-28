@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edit video on Linux with this Python app](https://opensource.com/article/21/2/linux-python-video)
 - [Build your own technology on Linux](https://opensource.com/article/21/2/linux-technology)
 - [3 Linux terminals you need to try](https://opensource.com/article/21/2/linux-terminals)
 - [How I became a Kubernetes maintainer in 4 hours a week](https://opensource.com/article/21/2/kubernetes-maintainer)
 - [Navigate your FreeDOS system](https://opensource.com/article/21/2/freedos-dir)
-- [The little bug that couldn’t: Securing OpenSSL](https://github.blog/2021-02-25-the-little-bug-that-couldnt-securing-openssl/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
