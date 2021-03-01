@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a home thermostat with a Raspberry Pi](https://opensource.com/article/21/3/thermostat-raspberry-pi)
+- [4 open source tools for running a Linux server](https://opensource.com/article/21/3/linux-server)
 - [5 tips for choosing an Ansible collection that&#039;s right for you](https://opensource.com/article/21/3/ansible-collections)
 - [Edit video on Linux with this Python app](https://opensource.com/article/21/2/linux-python-video)
 - [Build your own technology on Linux](https://opensource.com/article/21/2/linux-technology)
-- [3 Linux terminals you need to try](https://opensource.com/article/21/2/linux-terminals)
-- [How I became a Kubernetes maintainer in 4 hours a week](https://opensource.com/article/21/2/kubernetes-maintainer)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
