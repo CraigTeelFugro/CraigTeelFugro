@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week at GitHub InFocus: Code security and DevSecOps](https://github.blog/2021-03-08-github-infocus-code-security-devsecops/)
 - [Cast your Android device with a Raspberry Pi](https://opensource.com/article/21/3/android-raspberry-pi)
 - [6 open source tools for wedding planning](https://opensource.com/article/21/3/open-source-wedding-planning)
 - [10 articles you should read right now by women in tech](https://opensource.com/article/21/3/women-in-tech)
 - [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
-- [Manage containers on Raspberry Pi with this open source tool](https://opensource.com/article/21/3/bastille-raspberry-pi)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
