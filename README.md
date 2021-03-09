@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Collect sensor data with your Raspberry Pi and open source tools](https://opensource.com/article/21/3/sensor-data-raspberry-pi)
+- [Learn Python dictionary values with Jupyter](https://opensource.com/article/21/3/dictionary-values-python)
+- [Take the first global open source maintainer survey](https://opensource.com/article/21/3/open-source-maintainer-survey)
 - [GitHub security update: A bug related to handling of authenticated sessions](https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/)
 - [This week at GitHub InFocus: Code security and DevSecOps](https://github.blog/2021-03-08-github-infocus-code-security-devsecops/)
-- [Release Radar · February 2021 Edition](https://github.blog/2021-03-05-release-radar-feb-2021/)
-- [4 things you didn’t know you could do with GitHub Actions](https://github.blog/2021-03-04-4-things-you-didnt-know-you-could-do-with-github-actions/)
-- [GitHub Availability Report: February 2021](https://github.blog/2021-03-03-github-availability-report-february-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
