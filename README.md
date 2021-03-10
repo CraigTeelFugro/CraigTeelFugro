@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshoot WiFi problems with Go and a Raspberry Pi](https://opensource.com/article/21/3/troubleshoot-wifi-go-raspberry-pi)
+- [3 open source tools for producing video tutorials](https://opensource.com/article/21/3/video-open-source-tools)
 - [Understanding file names and directories in FreeDOS](https://opensource.com/article/21/3/files-freedos)
 - [GitHub Discussions now available for private repositories](https://github.blog/2021-03-09-github-discussions-now-available-for-private-repositories/)
 - [Git clone vulnerability announced](https://github.blog/2021-03-09-git-clone-vulnerability-announced/)
-- [Collect sensor data with your Raspberry Pi and open source tools](https://opensource.com/article/21/3/sensor-data-raspberry-pi)
-- [Learn Python dictionary values with Jupyter](https://opensource.com/article/21/3/dictionary-values-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
