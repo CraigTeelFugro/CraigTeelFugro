@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up network parental controls on a Raspberry Pi](https://opensource.com/article/21/3/raspberry-pi-parental-control)
+- [Test cases and open source license enforcement](https://opensource.com/article/21/3/test-cases-open-source-licenses)
+- [4 questions for the OSI board of directors candidates](https://opensource.com/article/21/3/board-elections-osi)
 - [An open approach to recovering from burnout](https://opensource.com/open-organization/21/3/open-approach-burnout)
 - [Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
-- [Troubleshoot WiFi problems with Go and a Raspberry Pi](https://opensource.com/article/21/3/troubleshoot-wifi-go-raspberry-pi)
-- [3 open source tools for producing video tutorials](https://opensource.com/article/21/3/video-open-source-tools)
-- [Understanding file names and directories in FreeDOS](https://opensource.com/article/21/3/files-freedos)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
