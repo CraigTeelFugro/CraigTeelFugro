@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualize multi-threaded Python programs with an open source tool](https://opensource.com/article/21/3/python-viztracer)
 - [Scripting with GitHub CLI](https://github.blog/2021-03-11-scripting-with-github-cli/)
 - [How MLOps can drive governance for machine learning: A conversation with Algorithmia](https://github.blog/2021-03-11-mlops-governance-for-machine-learning-algorithmia/)
 - [Set up network parental controls on a Raspberry Pi](https://opensource.com/article/21/3/raspberry-pi-parental-control)
 - [Test cases and open source license enforcement](https://opensource.com/article/21/3/test-cases-open-source-licenses)
-- [4 questions for the OSI board of directors candidates](https://opensource.com/article/21/3/board-elections-osi)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
