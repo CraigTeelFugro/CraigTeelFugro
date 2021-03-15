@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependabot ❤️s private dependencies](https://github.blog/2021-03-15-dependabot-private-dependencies/)
 - [Learn how file input and output works in C](https://opensource.com/article/21/3/file-io-c)
 - [6 things to know about using WebAssembly on Firefox](https://opensource.com/article/21/3/webassembly-firefox)
 - [GitOps vs. DevOps: What&#039;s the difference?](https://opensource.com/article/21/3/gitops)
 - [12 Raspberry Pi projects to try this year](https://opensource.com/articles/21/3/raspberry-pi-projects)
-- [My review of the Raspberry Pi 400](https://opensource.com/article/21/3/raspberry-pi-400-review)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
