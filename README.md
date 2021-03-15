@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn how file input and output works in C](https://opensource.com/article/21/3/file-io-c)
+- [6 things to know about using WebAssembly on Firefox](https://opensource.com/article/21/3/webassembly-firefox)
 - [GitOps vs. DevOps: What&#039;s the difference?](https://opensource.com/article/21/3/gitops)
 - [12 Raspberry Pi projects to try this year](https://opensource.com/articles/21/3/raspberry-pi-projects)
 - [My review of the Raspberry Pi 400](https://opensource.com/article/21/3/raspberry-pi-400-review)
-- [Build an open source theremin](https://opensource.com/article/21/3/open-source-theremin)
-- [Build a router with mobile connectivity using Raspberry Pi](https://opensource.com/article/21/3/router-raspberry-pi)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
