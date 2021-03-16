@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write &#039;Hello World&#039; in WebAssembly](https://opensource.com/article/21/3/hello-world-webassembly)
+- [Get started with edge computing by programming embedded systems](https://opensource.com/article/21/3/rtos-embedded-development)
 - [FUD chills: GitHub stands with security researchers on DMCA Section 1201](https://github.blog/2021-03-15-fud-chills-github-stands-with-security-researchers-on-dmca-section-1201/)
 - [Highlights from Git 2.31](https://github.blog/2021-03-15-highlights-from-git-2-31/)
 - [Dependabot ❤️s private dependencies](https://github.blog/2021-03-15-dependabot-private-dependencies/)
-- [Learn how file input and output works in C](https://opensource.com/article/21/3/file-io-c)
-- [6 things to know about using WebAssembly on Firefox](https://opensource.com/article/21/3/webassembly-firefox)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
