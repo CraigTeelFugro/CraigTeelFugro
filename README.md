@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/)
 - [Practice using the Linux grep command](https://opensource.com/article/21/3/grep-cheat-sheet)
 - [Get started with an open source customer data platform](https://opensource.com/article/21/3/rudderstack-customer-data-platform)
 - [&quot;Going out of your way to be open&quot;: An important practice for executive leaders](https://opensource.com/open-organization/21/3/open-practices-executive-leaders)
 - [Track aircraft with a Raspberry Pi](https://opensource.com/article/21/3/tracking-flights-raspberry-pi)
-- [Programming 101: Input and output with Java](https://opensource.com/article/21/3/io-java)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
