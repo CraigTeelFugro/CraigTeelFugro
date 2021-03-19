@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [Create a countdown clock with a Raspberry Pi](https://opensource.com/article/21/3/raspberry-pi-countdown-clock)
-- [Manage Linux software packages with this Pulp plugin](https://opensource.com/article/21/3/linux-foreman)
+- [Managing deb Content in Foreman](https://opensource.com/article/21/3/linux-foreman)
 - [How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
 - [What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/)
 - [Practice using the Linux grep command](https://opensource.com/article/21/3/grep-cheat-sheet)
