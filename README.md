@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 everyday sysadmin tasks to automate with Ansible](https://opensource.com/article/21/3/ansible-sysadmin)
+- [Why I use exa instead of ls on Linux](https://opensource.com/article/21/3/replace-ls-exa)
 - [6 WordPress plugins for restaurants and retailers](https://opensource.com/article/21/3/wordpress-plugins-retail)
 - [New software service for the supply chain, fuzzing Java, and more](https://opensource.com/article/21/3/linux-kubernetes-industry-trends)
 - [Create a countdown clock with a Raspberry Pi](https://opensource.com/article/21/3/raspberry-pi-countdown-clock)
-- [Managing deb Content in Foreman](https://opensource.com/article/21/3/linux-foreman)
-- [How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
