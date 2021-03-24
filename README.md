@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Read and write files with Bash](https://opensource.com/article/21/3/input-output-bash)
 - [Build a to-do list app in React with hooks](https://opensource.com/article/21/3/react-app-hooks)
 - [Solving the innersource discovery problem](https://github.blog/2021-03-23-solving-the-innersource-discovery-problem/)
 - [Start programming in Deno, an alternative to Node.js](https://opensource.com/article/21/3/deno-programming)
 - [3 new Java tools to try in 2021](https://opensource.com/article/21/3/enterprise-java-tools)
-- [Affordable high-temperature 3D printers at home](https://opensource.com/article/21/3/desktop-3d-printer)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
