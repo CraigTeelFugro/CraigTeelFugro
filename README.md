@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/)
 - [Solving the innersource discovery problem](https://github.blog/2021-03-23-solving-the-innersource-discovery-problem/)
 - [GitHub Capture the Flag results](https://github.blog/2021-03-22-github-ctf-results/)
 - [Open innovation will be the winning strategy for digital sovereignty and human progress in the new decade](https://github.blog/2021-03-22-open-innovation-winning-strategy-digital-sovereignty-human-progress/)
 - [How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
-- [What’s up with these new not-open source licenses?](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
