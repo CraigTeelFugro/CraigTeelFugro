@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux powers the internet, confirms EU commissioner](https://opensource.com/article/21/3/linux-powers-internet)
 - [One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/)
 - [Read and write files with Bash](https://opensource.com/article/21/3/input-output-bash)
 - [Build a to-do list app in React with hooks](https://opensource.com/article/21/3/react-app-hooks)
 - [Solving the innersource discovery problem](https://github.blog/2021-03-23-solving-the-innersource-discovery-problem/)
-- [Start programming in Deno, an alternative to Node.js](https://opensource.com/article/21/3/deno-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
