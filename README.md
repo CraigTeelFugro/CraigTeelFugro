@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [One day short of a full chain: Real world exploit chains explained](https://github.blog/2021-03-24-real-world-exploit-chains-explained/)
+- [Read and write files with Bash](https://opensource.com/article/21/3/input-output-bash)
+- [Build a to-do list app in React with hooks](https://opensource.com/article/21/3/react-app-hooks)
 - [Solving the innersource discovery problem](https://github.blog/2021-03-23-solving-the-innersource-discovery-problem/)
-- [GitHub Capture the Flag results](https://github.blog/2021-03-22-github-ctf-results/)
-- [Open innovation will be the winning strategy for digital sovereignty and human progress in the new decade](https://github.blog/2021-03-22-open-innovation-winning-strategy-digital-sovereignty-human-progress/)
-- [How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+- [Start programming in Deno, an alternative to Node.js](https://opensource.com/article/21/3/deno-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
