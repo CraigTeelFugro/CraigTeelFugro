@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Access Python package index JSON APIs with requests](https://opensource.com/article/21/3/python-package-index-json-apis-requests)
+- [A DevOps guide to documentation](https://opensource.com/article/21/3/devops-documentation)
 - [6 actionable steps to becoming an open leader](https://opensource.com/article/21/3/open-leadership)
 - [Women’s History Month spotlight: Honoring women developers](https://github.blog/2021-03-29-womens-history-month-spotlight-honoring-women-developers/)
 - [Rapidly configure SD cards for your Raspberry Pi cluster](https://opensource.com/article/21/3/raspberry-pi-cluster)
-- [Why I love using the IPython shell and Jupyter notebooks](https://opensource.com/article/21/3/ipython-shell-jupyter-notebooks)
-- [Manipulate data in files with Lua](https://opensource.com/article/21/3/lua-files)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
