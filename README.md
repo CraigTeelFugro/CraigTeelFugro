@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeDOS commands you need to know](https://opensource.com/article/21/4/freedos-commands)
 - [A practical guide to using the git stash command](https://opensource.com/article/21/4/git-stash)
 - [20 ways to be more productive and respect yourself](https://opensource.com/article/21/4/productivity-roundup)
 - [Read and write files with Groovy](https://opensource.com/article/21/4/groovy-io)
 - [Partition a drive on Linux with GNU Parted](https://opensource.com/article/21/4/linux-parted-cheat-sheet)
-- [Find what changed in a Git commit](https://opensource.com/article/21/4/git-whatchanged)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
