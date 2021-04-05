@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
 - [7 Git tips for managing your home directory](https://opensource.com/article/21/4/git-home)
 - [How different programming languages do the same thing](https://opensource.com/article/21/4/compare-programming-languages)
 - [What motivates open source software contributors?](https://opensource.com/article/21/4/motivates-open-source-contributors)
 - [FreeDOS commands you need to know](https://opensource.com/article/21/4/freedos-commands)
-- [A practical guide to using the git stash command](https://opensource.com/article/21/4/git-stash)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
