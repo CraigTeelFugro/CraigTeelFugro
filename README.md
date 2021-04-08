@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protect external storage with this Linux encryption system](https://opensource.com/article/21/3/encryption-luks)
 - [GitHub Availability Report: March 2021](https://github.blog/2021-04-07-github-availability-report-march-2021/)
 - [Why I love using bspwm for my Linux window manager](https://opensource.com/article/21/4/bspwm-linux)
 - [What is Git cherry-picking?](https://opensource.com/article/21/4/cherry-picking-git)
 - [Get started with batch files in FreeDOS](https://opensource.com/article/21/3/batch-files-freedos)
-- [Supreme Court sides with developers in Google v. Oracle](https://github.blog/2021-04-06-supreme-court-sides-with-developers-in-google-v-oracle/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
