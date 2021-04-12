@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Send your scans to a Linux machine over your network](https://opensource.com/article/21/4/linux-scan-samba)
 - [Why Crate.io has returned to its pure open source roots](https://opensource.com/article/21/4/crate-open-source)
 - [5 signs you&#039;re a groff programmer](https://opensource.com/article/21/4/groff-programmer)
 - [Release Radar · March 2021 Edition](https://github.blog/2021-04-09-release-radar-mar-2021/)
 - [Stream event data with this open source tool](https://opensource.com/article/21/4/event-streaming-rudderstack)
-- [4 ways open source gives you a competitive edge](https://opensource.com/article/21/4/open-source-competitive-advantage)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
