@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an encrypted file vault on Linux](https://opensource.com/article/21/4/linux-encryption)
+- [What&#039;s new with Drupal in 2021?](https://opensource.com/article/21/4/drupal-updates)
 - [Make Conway&#039;s Game of Life in WebAssembly](https://opensource.com/article/21/4/game-life-simulation-webassembly)
 - [6 open source tools and tips to securing a Linux server for beginners](https://opensource.com/article/21/4/securing-linux-servers)
 - [Encrypt your files with this open source software](https://opensource.com/article/21/4/open-source-encryption)
-- [Send your scans to a Linux machine over your network](https://opensource.com/article/21/4/linux-scan-samba)
-- [Why Crate.io has returned to its pure open source roots](https://opensource.com/article/21/4/crate-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
