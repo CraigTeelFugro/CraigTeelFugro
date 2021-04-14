@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 essential Linux cheat sheets for productivity](https://opensource.com/article/21/4/linux-cheat-sheets)
+- [4 tips for context switching in Git](https://opensource.com/article/21/4/context-switching-git)
+- [Make your data boss-friendly with this open source tool](https://opensource.com/article/21/4/visualize-data-eda)
 - [Implementing least privilege for secrets in GitHub Actions](https://github.blog/2021-04-13-implementing-least-privilege-for-secrets-in-github-actions/)
 - [Create an encrypted file vault on Linux](https://opensource.com/article/21/4/linux-encryption)
-- [What&#039;s new with Drupal in 2021?](https://opensource.com/article/21/4/drupal-updates)
-- [Make Conway&#039;s Game of Life in WebAssembly](https://opensource.com/article/21/4/game-life-simulation-webassembly)
-- [6 open source tools and tips to securing a Linux server for beginners](https://opensource.com/article/21/4/securing-linux-servers)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
