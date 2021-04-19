@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [21 reasons why I think everyone should try Linux](https://opensource.com/article/21/4/linux-reasons)
+- [4 steps to customizing your Mac terminal theme with open source tools](https://opensource.com/article/21/4/zsh-mac)
 - [13 ways to get involved with your favorite open source project](https://opensource.com/article/21/4/open-source-project-level)
 - [What job did you do before tech?](https://opensource.com/article/21/4/jobs-before-tech)
 - [How I digitized my CD collection with open source tools](https://opensource.com/article/21/4/digitize-cd-open-source-tools)
-- [Play a fun math game with Linux commands](https://opensource.com/article/21/4/math-game-linux-commands)
-- [3 things great open source leaders do](https://opensource.com/article/21/4/traits-open-source-leader)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
