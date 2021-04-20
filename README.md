@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New and simplified Enterprise and Partner terms](https://github.blog/2021-04-20-new-simplified-enterprise-and-partner-terms/)
+- [New and simplified Enterprise and Partner Terms](https://github.blog/2021-04-20-new-simplified-enterprise-and-partner-terms/)
 - [5 ways to protect your documents with open source software](https://opensource.com/article/21/4/secure-documents-open-source)
 - [A beginner&#039;s guide to network management](https://opensource.com/article/21/4/network-management)
 - [Application observability with Apache Kafka and SigNoz](https://opensource.com/article/21/4/observability-apache-kafka-signoz)
