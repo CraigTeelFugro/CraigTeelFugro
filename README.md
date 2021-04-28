@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Share files between Linux and Windows computers](https://opensource.com/article/21/4/share-files-linux-windows)
+- [5 ways to process JSON data in Ansible](https://opensource.com/article/21/4/process-json-data-ansible)
+- [How to create your first Quarkus application](https://opensource.com/article/21/4/quarkus-tutorial)
 - [How we ship code faster and safer with feature flags](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/)
 - [Upgrade your Linux PC hardware using open source tools](https://opensource.com/article/21/4/upgrade-linux-hardware)
-- [Perform Linux memory forensics with this open source tool](https://opensource.com/article/21/4/linux-memory-forensics)
-- [3 beloved USB drive Linux distros](https://opensource.com/article/21/4/usb-drive-linux-distro)
-- [How we built an open source design system to create new community logos](https://opensource.com/article/21/4/ansible-community-logos)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
