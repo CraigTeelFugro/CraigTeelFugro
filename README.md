@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 unusual paths to tech](https://opensource.com/article/21/5/unusual-tech-career-paths)
 - [Flipping burgers to flipping switches: A tech guy&#039;s journey](https://opensource.com/article/21/5/open-source-story-burgers)
 - [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
 - [Building an open infrastructure for civic participation](https://opensource.com/article/21/4/open-source-cities)
 - [Goodbye Dependabot Preview, hello Dependabot!](https://github.blog/2021-04-29-goodbye-dependabot-preview-hello-dependabot/)
-- [A call for feedback on our policies around exploits and malware](https://github.blog/2021-04-29-call-for-feedback-policies-exploits-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
