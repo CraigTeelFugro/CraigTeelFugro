@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I support systemd&#039;s plan to take over the world](https://opensource.com/article/21/5/systemd)
+- [Learn the Lisp programming language in 2021](https://opensource.com/article/21/5/learn-lisp)
+- [Open source on Mars, in smartwatches, 3D printed art, and more](https://opensource.com/article/21/5/open-source-news)
 - [15 unusual paths to tech](https://opensource.com/article/21/5/unusual-tech-career-paths)
 - [Flipping burgers to flipping switches: A tech guy&#039;s journey](https://opensource.com/article/21/5/open-source-story-burgers)
-- [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
-- [Building an open infrastructure for civic participation](https://opensource.com/article/21/4/open-source-cities)
-- [Goodbye Dependabot Preview, hello Dependabot!](https://github.blog/2021-04-29-goodbye-dependabot-preview-hello-dependabot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
