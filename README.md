@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: April 2021](https://github.blog/2021-05-05-github-availability-report-april-2021/)
 - [How I recognize and prevent burnout in open source](https://opensource.com/article/21/5/open-source-burnout)
 - [What Google v. Oracle means for open source](https://opensource.com/article/21/5/google-v-oracle)
 - [Drop telnet for OpenSSL](https://opensource.com/article/21/5/drop-telnet-openssl)
 - [How we use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
-- [Keep multiple Linux distros on a USB with this open source tool](https://opensource.com/article/21/5/linux-ventoy)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
