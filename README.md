@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Join GitHub on June 5 to celebrate the Class of 2021](https://github.blog/2021-05-11-join-github-june-5-celebrate-class-of-2021/)
 - [Use the Alpine email client in your Linux terminal](https://opensource.com/article/21/5/alpine-linux-email)
 - [What is fog computing?](https://opensource.com/article/21/5/fog-computing)
 - [Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
 - [Make Jenkins logs pretty](https://opensource.com/article/21/5/jenkins-logs)
-- [Getting started with edge development on Linux using open source](https://opensource.com/article/21/5/edge-quarkus-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
