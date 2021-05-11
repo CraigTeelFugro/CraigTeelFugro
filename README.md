@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use the Alpine email client in your Linux terminal](https://opensource.com/article/21/5/alpine-linux-email)
+- [What is fog computing?](https://opensource.com/article/21/5/fog-computing)
 - [Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
 - [Make Jenkins logs pretty](https://opensource.com/article/21/5/jenkins-logs)
 - [Getting started with edge development on Linux using open source](https://opensource.com/article/21/5/edge-quarkus-linux)
-- [My first tech job: 8 stories from the community](https://opensource.com/article/21/4/my-first-tech-job)
-- [My weird jobs before tech](https://opensource.com/article/21/5/weird-jobs-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
