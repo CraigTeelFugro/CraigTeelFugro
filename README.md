@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 features released in Python 3.1 you should use in 2021](https://opensource.com/article/21/5/python-31-features)
+- [5 reasons to host your container registry with Pulp](https://opensource.com/article/21/5/container-management-pulp)
+- [Building open organizations to make a better life more sustainable for everyone](https://opensource.com/open-organization/21/5/sustainable-development-human-impacts)
 - [4 Linux terminal multiplexers to try](https://opensource.com/article/21/5/linux-terminal-multiplexer)
 - [3 features that debuted in Python 3.0 you should use now](https://opensource.com/article/21/5/python-30-features)
-- [Join GitHub on June 5 to celebrate the Class of 2021](https://github.blog/2021-05-11-join-github-june-5-celebrate-class-of-2021/)
-- [Use the Alpine email client in your Linux terminal](https://opensource.com/article/21/5/alpine-linux-email)
-- [What is fog computing?](https://opensource.com/article/21/5/fog-computing)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
