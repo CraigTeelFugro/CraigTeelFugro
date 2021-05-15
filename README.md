@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Python 3.3 did to improve exception handling in your code](https://opensource.com/article/21/5/python-33)
 - [3 Python 3.2 features that are still relevant today](https://opensource.com/article/21/5/python-32)
 - [Drop Autotools for CMake](https://opensource.com/article/21/5/cmake)
 - [Video uploads now available across GitHub](https://github.blog/2021-05-13-video-uploads-available-github/)
 - [3 features released in Python 3.1 you should use in 2021](https://opensource.com/article/21/5/python-31-features)
-- [5 reasons to host your container registry with Pulp](https://opensource.com/article/21/5/container-management-pulp)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
