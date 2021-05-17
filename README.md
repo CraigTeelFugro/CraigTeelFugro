@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Headphones on, volume up: Introducing The ReadME Podcast](https://github.blog/2021-05-17-introducing-readme-podcast/)
 - [Use open source tools to set up a private VPN](https://opensource.com/article/21/5/open-source-private-vpn)
 - [Convenient matrices and other improvements Python 3.5 brought us](https://opensource.com/article/21/5/python-35-features)
 - [Looking back at what Python 3.4 did for enum](https://opensource.com/article/21/5/python-34-features)
 - [What Python 3.3 did to improve exception handling in your code](https://opensource.com/article/21/5/python-33)
-- [3 Python 3.2 features that are still relevant today](https://opensource.com/article/21/5/python-32)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
