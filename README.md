@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A beginner&#039;s guide for contributing to Apache Cassandra](https://opensource.com/article/21/5/apache-cassandra)
+- [What is serverless with Java?](https://opensource.com/article/21/5/what-serverless-java)
+- [Slice infinite generators with this Python 3.7 feature](https://opensource.com/article/21/5/python-37-features)
 - [GitHub Artifact Exporter open source release](https://github.blog/2021-05-18-github-artifact-exporter-open-source-release/)
 - [Manage your Raspberry Pi with Cockpit](https://opensource.com/article/21/5/raspberry-pi-cockpit)
-- [Are you using this magic method for filesystems from Python 3.6?](https://opensource.com/article/21/5/python-36-features)
-- [4 essential characteristics of successful APIs](https://opensource.com/article/21/5/successful-apis)
-- [Headphones on, volume up: Introducing The ReadME Podcast](https://github.blog/2021-05-17-introducing-readme-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
