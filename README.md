@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remap your Caps Lock key on Linux](https://opensource.com/article/21/5/remap-caps-lock-key-linux)
+- [Make your API better with this positional trick from Python 3.8](https://opensource.com/article/21/5/python-38-features)
 - [Ludum Dare 48 staff picks](https://github.blog/2021-05-19-ludum-dare-48-staff-picks/)
 - [A beginner&#039;s guide for contributing to Apache Cassandra](https://opensource.com/article/21/5/apache-cassandra)
 - [What is serverless with Java?](https://opensource.com/article/21/5/what-serverless-java)
-- [Slice infinite generators with this Python 3.7 feature](https://opensource.com/article/21/5/python-37-features)
-- [GitHub Artifact Exporter open source release](https://github.blog/2021-05-18-github-artifact-exporter-open-source-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
