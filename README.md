@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 reasons to learn Java in 2021](https://opensource.com/article/21/5/java)
 - [17 true stories about switching to Linux](https://opensource.com/article/21/5/switch-to-linux)
 - [How Python 3.9 fixed decorators and improved dictionaries](https://opensource.com/article/21/5/python-39-features)
 - [Play the Busy Beaver Game through a simulator](https://opensource.com/article/21/5/busy-beaver-game-c)
 - [Remap your Caps Lock key on Linux](https://opensource.com/article/21/5/remap-caps-lock-key-linux)
-- [Make your API better with this positional trick from Python 3.8](https://opensource.com/article/21/5/python-38-features)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
