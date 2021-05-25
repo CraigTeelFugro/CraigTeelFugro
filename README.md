@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pen testing with Linux security tools](https://opensource.com/article/21/5/linux-security-tools)
+- [Launch Flatpaks from your Linux terminal](https://opensource.com/article/21/5/launch-flatpaks-linux-terminal)
 - [4 steps to set up global modals in React](https://opensource.com/article/21/5/global-modals-react)
 - [Keep tabs on your Linux computer specs with this desktop application](https://opensource.com/article/21/5/linux-kinfocenter)
 - [3 reasons to learn Java in 2021](https://opensource.com/article/21/5/java)
-- [17 true stories about switching to Linux](https://opensource.com/article/21/5/switch-to-linux)
-- [How Python 3.9 fixed decorators and improved dictionaries](https://opensource.com/article/21/5/python-39-features)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
