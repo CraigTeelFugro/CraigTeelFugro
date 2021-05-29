@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My family&#039;s Linux story](https://opensource.com/article/21/5/my-linux-story)
 - [What you need to know about Quarkus in 2021](https://opensource.com/article/21/5/quarkus)
 - [3 key considerations for your trusted compute base](https://opensource.com/article/21/5/trusted-compute-base)
 - [Processing modular and dynamic configuration files in shell](https://opensource.com/article/21/5/processing-configuration-files-shell)
 - [How Linux made a school pandemic-ready](https://opensource.com/article/21/5/linux-school-servers)
-- [Port operating systems to new chip architectures](https://opensource.com/article/21/5/port-chip-architectures)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
