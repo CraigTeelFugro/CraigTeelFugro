@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Social Impact: How we’re driving change with social sector organizations](https://github.blog/2021-06-01-github-social-impact-driving-change-social-sector/)
 - [Start monitoring your Kubernetes cluster with Prometheus and Grafana](https://opensource.com/article/21/6/chaos-grafana-prometheus)
 - [Get started with FreeDOS](https://opensource.com/article/21/6/get-started-freedos)
 - [Get started with Java serverless functions](https://opensource.com/article/21/6/java-serverless-functions)
 - [Get started with Kubernetes using chaos engineering](https://opensource.com/article/21/5/kubernetes-chaos)
-- [Join upstream maintainers in this new free online event](https://opensource.com/article/21/5/upstream-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
