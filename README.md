@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Kubernetes cluster failures and experiments in your terminal](https://opensource.com/article/21/6/kubernetes-litmus-chaos)
+- [Establish an SSH connection between Windows and Linux](https://opensource.com/article/21/6/ssh-windows)
+- [How to navigate FreeDOS with CD and DIR](https://opensource.com/article/21/6/navigate-freedos-cd-dir)
+- [New ways to learn about open organizations](https://opensource.com/open-organization/21/6/celebrate-sixth-anniversary)
 - [Github Social Impact: How we’re driving change with social sector organizations](https://github.blog/2021-06-01-github-social-impact-driving-change-social-sector/)
-- [Start monitoring your Kubernetes cluster with Prometheus and Grafana](https://opensource.com/article/21/6/chaos-grafana-prometheus)
-- [Get started with FreeDOS](https://opensource.com/article/21/6/get-started-freedos)
-- [Get started with Java serverless functions](https://opensource.com/article/21/6/java-serverless-functions)
-- [Get started with Kubernetes using chaos engineering](https://opensource.com/article/21/5/kubernetes-chaos)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
