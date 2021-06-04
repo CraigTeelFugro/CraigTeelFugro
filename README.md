@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Updates to our policies regarding exploits, malware, and vulnerability research](https://github.blog/2021-06-04-updates-to-our-policies-regarding-exploits-malware-and-vulnerability-research/)
 - [Release Radar · May 2021 Edition](https://github.blog/2021-06-04-release-radar-may-2021/)
 - [Set and use environment variables in FreeDOS](https://opensource.com/article/21/6/freedos-environment-variables)
 - [Optimize Java serverless functions in Kubernetes](https://opensource.com/article/21/6/java-serverless-functions-kubernetes)
 - [GitHub Enterprise Server 3.1 is now generally available](https://github.blog/2021-06-03-github-enterprise-server-3-1-is-now-generally-available/)
-- [Explore the Kubernetes ecosystem in 2021](https://opensource.com/article/21/6/kubernetes-ebook)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
