@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Play Doom on Kubernetes](https://opensource.com/article/21/6/kube-doom)
+- [Tune your MySQL queries like a pro](https://opensource.com/article/21/5/mysql-query-tuning)
+- [How FreeDOS boots](https://opensource.com/article/21/6/freedos-boots)
+- [Analyze community health metrics with this open source tool](https://opensource.com/article/21/6/health-metrics-cauldron)
 - [Identify security properties on Linux using checksec](https://opensource.com/article/21/6/linux-checksec)
-- [Test arbitrary pod failures on Kubernetes with kube-monkey](https://opensource.com/article/21/6/chaos-kubernetes-kube-monkey)
-- [Automate tasks with BAT files on FreeDOS](https://opensource.com/article/21/6/automate-tasks-bat-files-freedos)
-- [5 handy guides to open source for teachers](https://opensource.com/article/21/6/open-source-guides-teachers)
-- [Why my need for control made me switch to Linux](https://opensource.com/article/21/6/switch-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
