@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use the FreeDOS text editor](https://opensource.com/article/21/6/freedos-text-editor)
+- [How hypertext can establish application state in REST](https://opensource.com/article/21/6/hateoas)
+- [To nurture open leaders, managers must learn to let go](https://opensource.com/open-organization/21/6/nurture-leaders-let-go)
 - [Blacktocats turn five](https://github.blog/2021-06-10-blacktocats-turn-five/)
 - [What’s new from GitHub Changelog? May 2021 Recap](https://github.blog/2021-06-10-whats-new-from-github-changelog-may-2021-recap/)
-- [Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/)
-- [Why choose open source for your home automation project](https://opensource.com/article/21/6/home-automation-ebook)
-- [Install and remove software packages on FreeDOS](https://opensource.com/article/21/6/freedos-package-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
