@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [13 open source tools for developers](https://opensource.com/article/21/6/open-source-developer-tools)
+- [What is a CI/CD pipeline?](https://opensource.com/article/21/6/what-cicd-pipeline)
+- [Install FreeDOS without the installer](https://opensource.com/article/21/6/install-freedos-without-installer)
 - [10 go-to breakfasts for open source technologists today](https://opensource.com/article/21/6/breakfast)
 - [How I teach Python on the Raspberry Pi 400 at the public library](https://opensource.com/article/21/6/teach-python-raspberry-pi)
-- [How to use the FreeDOS text editor](https://opensource.com/article/21/6/freedos-text-editor)
-- [How hypertext can establish application state in REST](https://opensource.com/article/21/6/hateoas)
-- [To nurture open leaders, managers must learn to let go](https://opensource.com/open-organization/21/6/nurture-leaders-let-go)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
