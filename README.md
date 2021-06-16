@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Desktop 2.9 includes squashing, reordering, amending, and more!](https://github.blog/2021-06-16-github-desktop-2-9-squashing-reordering-amending/)
 - [Migrate virtual machines to Kubernetes with this new tool](https://opensource.com/article/21/6/migrate-vms-kubernetes-forklift)
 - [Set up a service mesh on Istio](https://opensource.com/article/21/6/service-mesh-serverless)
 - [How to use FreeDOS as an embedded system](https://opensource.com/article/21/6/freedos-embedded-system)
 - [Try this new open source tool for data analytics](https://opensource.com/article/21/6/cubejs)
-- [Build a static website with Eleventy](https://opensource.com/article/21/6/static-site-builder)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
