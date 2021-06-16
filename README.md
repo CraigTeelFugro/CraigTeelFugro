@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrate virtual machines to Kubernetes with this new tool](https://opensource.com/article/21/6/migrate-vms-kubernetes-forklift)
+- [Set up a service mesh on Istio](https://opensource.com/article/21/6/service-mesh-serverless)
+- [How to use FreeDOS as an embedded system](https://opensource.com/article/21/6/freedos-embedded-system)
 - [Try this new open source tool for data analytics](https://opensource.com/article/21/6/cubejs)
 - [Build a static website with Eleventy](https://opensource.com/article/21/6/static-site-builder)
-- [Keep track of your IRC chats with ZNC](https://opensource.com/article/21/6/irc-matrix-bridge-znc)
-- [Listen to music on FreeDOS](https://opensource.com/article/21/6/listen-music-freedos)
-- [13 open source tools for developers](https://opensource.com/article/21/6/open-source-developer-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
