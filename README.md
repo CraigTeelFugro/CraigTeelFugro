@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactor your applications to Kubernetes](https://opensource.com/article/21/6/tackle-diva-kubernetes)
+- [Linux package management with dnf](https://opensource.com/article/21/6/dnf-linux)
+- [Why FreeDOS has 16 colors](https://opensource.com/article/21/6/freedos-sixteen-colors)
+- [A more sustainable future should be a more open future](https://opensource.com/open-organization/21/6/open-future-sustainable-future)
 - [GitHub Desktop 2.9 includes squashing, reordering, amending, and more!](https://github.blog/2021-06-16-github-desktop-2-9-squashing-reordering-amending/)
-- [Migrate virtual machines to Kubernetes with this new tool](https://opensource.com/article/21/6/migrate-vms-kubernetes-forklift)
-- [Set up a service mesh on Istio](https://opensource.com/article/21/6/service-mesh-serverless)
-- [How to use FreeDOS as an embedded system](https://opensource.com/article/21/6/freedos-embedded-system)
-- [Try this new open source tool for data analytics](https://opensource.com/article/21/6/cubejs)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
