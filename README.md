@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Try quantum computing with this open source software development kit](https://opensource.com/article/21/6/qiskit)
 - [5 more reasons to run Kubernetes in your Linux homelab](https://opensource.com/article/21/6/kubernetes-linux-homelab)
 - [DevSecOps: An open source story](https://opensource.com/article/21/6/open-sourcing-devsecops)
 - [Use this nostalgic text editor on FreeDOS](https://opensource.com/article/21/6/edlin-freedos)
 - [Refactor your applications to Kubernetes](https://opensource.com/article/21/6/tackle-diva-kubernetes)
-- [Linux package management with dnf](https://opensource.com/article/21/6/dnf-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
