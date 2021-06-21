@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace man pages with Tealdeer on Linux](https://opensource.com/article/21/6/tealdeer-linux)
+- [Why I love programming on FreeDOS with GW-BASIC](https://opensource.com/article/21/6/freedos-gw-basic)
+- [Why transparency is critical to your open source project&#039;s security](https://opensource.com/article/21/6/security-transparency)
 - [8 books open source technologists should read this summer](https://opensource.com/article/21/6/2021-opensourcecom-summer-reading-list)
 - [Try quantum computing with this open source software development kit](https://opensource.com/article/21/6/qiskit)
-- [5 more reasons to run Kubernetes in your Linux homelab](https://opensource.com/article/21/6/kubernetes-linux-homelab)
-- [DevSecOps: An open source story](https://opensource.com/article/21/6/open-sourcing-devsecops)
-- [Use this nostalgic text editor on FreeDOS](https://opensource.com/article/21/6/edlin-freedos)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
