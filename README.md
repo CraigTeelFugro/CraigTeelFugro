@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace du with dust on Linux](https://opensource.com/article/21/6/dust-linux)
+- [What is a config file?](https://opensource.com/article/21/6/what-config-files)
+- [Edit text like Emacs in FreeDOS](https://opensource.com/article/21/6/freemacs)
 - [GitHub Packages Container registry is generally available](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
 - [Replace man pages with Tealdeer on Linux](https://opensource.com/article/21/6/tealdeer-linux)
-- [Why I love programming on FreeDOS with GW-BASIC](https://opensource.com/article/21/6/freedos-gw-basic)
-- [Why transparency is critical to your open source project&#039;s security](https://opensource.com/article/21/6/security-transparency)
-- [8 books open source technologists should read this summer](https://opensource.com/article/21/6/2021-opensourcecom-summer-reading-list)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
