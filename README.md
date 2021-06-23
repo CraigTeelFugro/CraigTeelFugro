@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the new GitHub Issues](https://github.blog/2021-06-23-introducing-new-github-issues/)
 - [Replace find with fd on Linux](https://opensource.com/article/21/6/fd-linux)
 - [Parsing config files with Lua](https://opensource.com/article/21/6/parsing-config-files-lua)
 - [Program on FreeDOS with Bywater BASIC](https://opensource.com/article/21/6/freedos-bywater-basic)
 - [A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/)
-- [Replace du with dust on Linux](https://opensource.com/article/21/6/dust-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
