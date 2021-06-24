@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux package management with apt](https://opensource.com/article/21/6/apt-linux)
+- [View statistics about your code with Tokei](https://opensource.com/article/21/6/tokei)
 - [Copy files between Linux and FreeDOS](https://opensource.com/article/21/6/copy-files-linux-freedos)
 - [Introducing the new GitHub Issues](https://github.blog/2021-06-23-introducing-new-github-issues/)
 - [Replace find with fd on Linux](https://opensource.com/article/21/6/fd-linux)
-- [Parsing config files with Lua](https://opensource.com/article/21/6/parsing-config-files-lua)
-- [Program on FreeDOS with Bywater BASIC](https://opensource.com/article/21/6/freedos-bywater-basic)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
