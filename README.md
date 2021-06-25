@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/)
 - [Use Python to parse configuration files](https://opensource.com/article/21/6/parse-configuration-files-python)
 - [How to program in C on FreeDOS](https://opensource.com/article/21/6/program-c-freedos)
 - [How the Apache Software Foundation selects open source projects](https://opensource.com/article/21/6/apache-software-foundation)
 - [Run online campus events with your favorite tools at no cost with the new GitHub Virtual Event Kit](https://github.blog/2021-06-24-run-online-campus-events-github-virtual-event-kit/)
-- [Linux package management with apt](https://opensource.com/article/21/6/apt-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
