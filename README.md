@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Try Chatwoot, an open source customer relationship platform](https://opensource.com/article/21/6/chatwoot)
 - [How I helped my mom switch from Windows to Linux](https://opensource.com/article/21/6/mom-switch-linux)
 - [Seven years of the GitHub Security Bug Bounty program](https://github.blog/2021-06-25-seven-years-github-security-bug-bounty-program/)
 - [Use Python to parse configuration files](https://opensource.com/article/21/6/parse-configuration-files-python)
 - [How to program in C on FreeDOS](https://opensource.com/article/21/6/program-c-freedos)
-- [How the Apache Software Foundation selects open source projects](https://opensource.com/article/21/6/apache-software-foundation)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
