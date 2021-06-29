@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing GitHub Copilot: your AI pair programmer](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)
 - [Try Linux on any operating system with VirtualBox](https://opensource.com/article/21/6/try-linux-virtualbox)
 - [A brief history of FreeDOS](https://opensource.com/article/21/6/history-freedos)
 - [What next-generation leaders expect: the choice to work openly](https://opensource.com/open-organization/21/6/open-leaders-choice-work-openly)
 - [Query your Linux operating system like a database](https://opensource.com/article/21/6/osquery-linux)
-- [How to parse Bash program configuration files](https://opensource.com/article/21/6/bash-config)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
