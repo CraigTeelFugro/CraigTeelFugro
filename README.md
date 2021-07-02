@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Prometheus at home in a container](https://opensource.com/article/21/7/run-prometheus-home-container)
 - [Bind a cloud event to Knative](https://opensource.com/article/21/7/cloudevents-bind-java-knative)
 - [How I build my personal website using containers with a Makefile](https://opensource.com/article/21/7/manage-containers-makefile)
 - [Try Dolibarr, an open source customer relationship management platform](https://opensource.com/article/21/7/open-source-dolibarr)
 - [9 reasons I love to use the Qt Creator IDE](https://opensource.com/article/21/6/qtcreator)
-- [Parse JSON configuration files with Groovy](https://opensource.com/article/21/6/groovy-parse-json)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
