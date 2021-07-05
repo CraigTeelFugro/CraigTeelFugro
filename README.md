@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I avoid breaking functionality when modifying legacy code](https://opensource.com/article/21/7/legacy-code)
 - [7 guides about open source to keep your brain busy this summer](https://opensource.com/article/21/7/open-source-guides)
 - [Identify flowers and trees with this open source mobile app](https://opensource.com/article/21/7/open-source-plantnet)
 - [Run Prometheus at home in a container](https://opensource.com/article/21/7/run-prometheus-home-container)
 - [Bind a cloud event to Knative](https://opensource.com/article/21/7/cloudevents-bind-java-knative)
-- [How I build my personal website using containers with a Makefile](https://opensource.com/article/21/7/manage-containers-makefile)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
