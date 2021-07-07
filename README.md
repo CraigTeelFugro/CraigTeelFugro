@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parsing config files with Java](https://opensource.com/article/21/7/parsing-config-files-java)
 - [Send and receive Gmail from the Linux command line](https://opensource.com/article/21/7/gmail-linux-terminal)
 - [Edit PDFs on the Linux command line](https://opensource.com/article/21/7/qpdf-command-line)
 - [Why you need to use Kubernetes schema validation tools](https://opensource.com/article/21/7/kubernetes-schema-validation)
 - [Enter invisible passwords using this Python module](https://opensource.com/article/21/7/invisible-passwords-python)
-- [How I avoid breaking functionality when modifying legacy code](https://opensource.com/article/21/7/legacy-code)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
