@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up temperature sensors in your home with a Raspberry Pi](https://opensource.com/article/21/7/temperature-sensors-pi)
+- [Reading and writing files with Python](https://opensource.com/article/21/7/read-write-files-python)
 - [What is XML?](https://opensource.com/article/21/7/what-xml)
 - [Explore waterways with this open source nautical navigation tool](https://opensource.com/article/21/7/open-source-nautical-navigation)
 - [A new open source operating system for embedded systems](https://opensource.com/article/21/7/rt-thread-smart)
-- [What you need to know about security policies](https://opensource.com/article/21/7/what-security-policy)
-- [Troubleshooting bugs in an API implementation](https://opensource.com/article/21/7/listing-prefixes-s3-implementations)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
