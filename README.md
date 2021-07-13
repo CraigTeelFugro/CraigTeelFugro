@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use VS Code to develop in containers](https://opensource.com/article/21/7/vs-code-remote-containers-podman)
+- [Use XMLStarlet to parse XML in your the Linux terminal](https://opensource.com/article/21/7/parse-xml-linux)
 - [Open source sustainable cities, AI on Arduino, supply chain security, and more](https://opensource.com/article/21/7/open-source-news)
 - [Adding support for cross-cluster associations to Rails 7](https://github.blog/2021-07-12-adding-support-cross-cluster-associations-rails-7/)
 - [Set up temperature sensors in your home with a Raspberry Pi](https://opensource.com/article/21/7/temperature-sensors-pi)
-- [Reading and writing files with Python](https://opensource.com/article/21/7/read-write-files-python)
-- [What is XML?](https://opensource.com/article/21/7/what-xml)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
