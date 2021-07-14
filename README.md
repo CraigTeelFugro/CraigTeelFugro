@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Rust tools worth trying on the Linux command line](https://opensource.com/article/21/7/rust-tools-linux)
 - [How different programming languages read and write data](https://opensource.com/article/21/7/programming-read-write)
 - [What’s new from GitHub Changelog? June 2021 Recap](https://github.blog/2021-07-13-whats-new-github-changelog-june-2021/)
 - [Use VS Code to develop in containers](https://opensource.com/article/21/7/vs-code-remote-containers-podman)
 - [Use XMLStarlet to parse XML in your the Linux terminal](https://opensource.com/article/21/7/parse-xml-linux)
-- [Open source sustainable cities, AI on Arduino, supply chain security, and more](https://opensource.com/article/21/7/open-source-news)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
