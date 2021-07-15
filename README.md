@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/)
 - [Monitor your home&#039;s temperature and humidity with Raspberry Pis and Prometheus](https://opensource.com/article/21/7/home-temperature-raspberry-pi-prometheus)
 - [5 hidden gems in Python 3](https://opensource.com/article/21/7/python-3)
 - [Japan at a crossroads: How open organization principles aided the country&#039;s economic resurgence](https://opensource.com/open-organization/21/7/japan-innovation-crossroads)
 - [5 Rust tools worth trying on the Linux command line](https://opensource.com/article/21/7/rust-tools-linux)
-- [How different programming languages read and write data](https://opensource.com/article/21/7/programming-read-write)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
