@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17 open source technologists share their work-from-home uniforms](https://opensource.com/article/21/7/work-home-uniforms)
 - [How to avoid waste when writing code](https://opensource.com/article/21/7/avoid-waste-coding)
 - [What does the Open-Closed Principle mean for refactoring?](https://opensource.com/article/21/7/open-closed-principle-refactoring)
 - [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/)
 - [Monitor your home&#039;s temperature and humidity with Raspberry Pis and Prometheus](https://opensource.com/article/21/7/home-temperature-raspberry-pi-prometheus)
-- [5 hidden gems in Python 3](https://opensource.com/article/21/7/python-3)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
