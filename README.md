@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux package managers: dnf vs apt](https://opensource.com/article/21/7/dnf-vs-apt)
 - [Run Python applications in virtual environments](https://opensource.com/article/21/7/python-pipx)
 - [17 open source technologists share their work-from-home uniforms](https://opensource.com/article/21/7/work-home-uniforms)
 - [How to avoid waste when writing code](https://opensource.com/article/21/7/avoid-waste-coding)
 - [What does the Open-Closed Principle mean for refactoring?](https://opensource.com/article/21/7/open-closed-principle-refactoring)
-- [Student leaders are taking GitHub Campus TV to the next level](https://github.blog/2021-07-15-student-leaders-github-campus-tv-next-level/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
