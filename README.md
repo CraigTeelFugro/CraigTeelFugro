@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility in open source for people with ADHD, dyslexia, and Autism Spectrum Disorder](https://opensource.com/article/21/7/open-source-neurodiversity)
+- [Write your first web component](https://opensource.com/article/21/7/web-components)
 - [Access cloud files on Windows with ownCloud](https://opensource.com/article/21/7/owncloud-windows-files)
 - [Run a Linux virtual machine in Podman](https://opensource.com/article/21/7/linux-podman)
 - [Linux package managers: dnf vs apt](https://opensource.com/article/21/7/dnf-vs-apt)
-- [Run Python applications in virtual environments](https://opensource.com/article/21/7/python-pipx)
-- [17 open source technologists share their work-from-home uniforms](https://opensource.com/article/21/7/work-home-uniforms)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
