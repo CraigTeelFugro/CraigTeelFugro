@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid this common open source scanning error](https://opensource.com/article/21/7/open-source-scanning-error)
+- [Check used disk space on Linux with du](https://opensource.com/article/21/7/check-disk-space-linux-du)
 - [Analyze the Linux kernel with ftrace](https://opensource.com/article/21/7/linux-kernel-ftrace)
 - [How to use cron on Linux](https://opensource.com/article/21/7/cron-linux)
 - [Get started with WildFly for Java web development](https://opensource.com/article/21/7/wildfly)
-- [Making PDFs more accessible to screen readers with open source](https://opensource.com/article/21/7/pdf-latex)
-- [28 books recommended by open source technologists to read right now](https://opensource.com/article/21/7/open-source-books)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
