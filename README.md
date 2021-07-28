@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create your own custom Raspberry Pi image](https://opensource.com/article/21/7/custom-raspberry-pi-image)
 - [Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/)
 - [Avoid this common open source scanning error](https://opensource.com/article/21/7/open-source-scanning-error)
 - [Check used disk space on Linux with du](https://opensource.com/article/21/7/check-disk-space-linux-du)
 - [Analyze the Linux kernel with ftrace](https://opensource.com/article/21/7/linux-kernel-ftrace)
-- [How to use cron on Linux](https://opensource.com/article/21/7/cron-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
