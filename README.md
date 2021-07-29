@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 reasons you should run your apps on WildFly](https://opensource.com/article/21/7/run-apps-wildfly)
 - [15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/)
 - [Kernel tracing with trace-cmd](https://opensource.com/article/21/7/linux-kernel-trace-cmd)
 - [Create your own custom Raspberry Pi image](https://opensource.com/article/21/7/custom-raspberry-pi-image)
 - [Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/)
-- [Avoid this common open source scanning error](https://opensource.com/article/21/7/open-source-scanning-error)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
