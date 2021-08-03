@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up a VPN server on your Linux PC](https://opensource.com/article/21/8/openvpn-server-linux)
+- [Get started with Argo CD](https://opensource.com/article/21/8/argo-cd)
 - [How to open and close directories in the Linux terminal](https://opensource.com/article/21/8/linux-change-directories)
 - [Use the Linux terminal to see what files are on your computer](https://opensource.com/article/21/8/linux-list-files)
 - [Dealing with burnout in open source](https://opensource.com/article/21/7/burnout-open-source)
-- [What do we call post-modern system administrators?](https://opensource.com/article/21/7/system-administrators)
-- [Use df to check free disk space on Linux](https://opensource.com/article/21/7/check-disk-space-linux-df)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
