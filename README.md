@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/)
 - [Move files in the Linux terminal](https://opensource.com/article/21/8/move-files-linux)
 - [Install OpenVPN on your Linux PC](https://opensource.com/article/21/7/openvpn-router)
 - [Use the Linux terminal to navigate throughout your computer](https://opensource.com/article/21/8/navigate-linux-directories)
 - [Set up a VPN server on your Linux PC](https://opensource.com/article/21/8/openvpn-server-linux)
-- [Get started with Argo CD](https://opensource.com/article/21/8/argo-cd)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
