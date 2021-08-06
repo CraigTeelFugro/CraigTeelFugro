@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Copy files in the Linux terminal](https://opensource.com/article/21/8/copy-files-linux-terminal)
 - [Access OpenVPN from a client computer](https://opensource.com/article/21/7/openvpn-client)
 - [Release Radar · Mid-year 2021 Edition](https://github.blog/2021-08-05-release-radar-jun-jul-2021/)
 - [Rename a file in the Linux terminal](https://opensource.com/article/21/8/rename-file-linux-terminal)
 - [Configure your OpenVPN server on Linux](https://opensource.com/article/21/7/openvpn-firewall)
-- [Your one-on-one meeting doesn&#039;t have to be this way](https://opensource.com/open-organization/21/8/one-on-one-meeting-tips)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
