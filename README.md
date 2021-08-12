@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#039;s guide to the Linux terminal](https://opensource.com/article/21/8/linux-terminal)
+- [A guide to the Linux terminal for beginners](https://opensource.com/article/21/8/linux-terminal)
 - [Automatically create multiple applications in Argo CD](https://opensource.com/article/21/7/automating-argo-cd)
 - [A Java developer&#039;s guide to Quarkus](https://opensource.com/article/21/8/java-quarkus-ebook)
 - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
