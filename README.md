@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parse command-line arguments with argparse in Python](https://opensource.com/article/21/8/python-argparse)
 - [Schedule a task with the Linux at command](https://opensource.com/article/21/8/linux-at-command)
 - [Install Linux with LVM](https://opensource.com/article/21/8/install-linux-mint-lvm)
 - [Code memory safety and efficiency by example](https://opensource.com/article/21/8/memory-programming-c)
 - [Parse command options in Java with commons-cli](https://opensource.com/article/21/8/java-commons-cli)
-- [What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
