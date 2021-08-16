@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What was your first programming language?](https://opensource.com/article/21/8/first-programming-language)
 - [Parse command-line arguments with argparse in Python](https://opensource.com/article/21/8/python-argparse)
 - [Schedule a task with the Linux at command](https://opensource.com/article/21/8/linux-at-command)
 - [Install Linux with LVM](https://opensource.com/article/21/8/install-linux-mint-lvm)
 - [Code memory safety and efficiency by example](https://opensource.com/article/21/8/memory-programming-c)
-- [Parse command options in Java with commons-cli](https://opensource.com/article/21/8/java-commons-cli)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
