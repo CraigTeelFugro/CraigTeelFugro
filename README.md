@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 alternatives to cron in Linux](https://opensource.com/article/21/7/alternatives-cron-linux)
 - [Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/)
 - [Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/)
 - [What was your first programming language?](https://opensource.com/article/21/8/first-programming-language)
 - [Parse command-line arguments with argparse in Python](https://opensource.com/article/21/8/python-argparse)
-- [Schedule a task with the Linux at command](https://opensource.com/article/21/8/linux-at-command)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
