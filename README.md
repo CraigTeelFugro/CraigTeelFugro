@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Access your iPhone on Linux with this open source tool](https://opensource.com/article/21/8/libimobiledevice-iphone-linux)
 - [Write a chess game using bit-fields and masks](https://opensource.com/article/21/8/binary-bit-fields-masks)
 - [How to set up your printer on Linux](https://opensource.com/article/21/8/add-printer-linux)
 - [Check file status on Linux with the stat command](https://opensource.com/article/21/8/linux-stat-file-status)
 - [3 steps for managing a beginner-friendly open source community](https://opensource.com/article/21/8/beginner-open-source-community)
-- [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
