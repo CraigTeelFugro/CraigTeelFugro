@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
 - [Use this open source tool for automated unit testing](https://opensource.com/article/21/8/tackle-test)
 - [10 steps to more open, focused, and energizing meetings](https://opensource.com/open-organization/21/8/10-steps-better-meetings)
 - [GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/)
 - [How to include options in your Bash shell scripts](https://opensource.com/article/21/8/option-parsing-bash)
-- [Solve the repository impedance mismatch in CI/CD](https://opensource.com/article/21/8/impedance-mismatch-cicd)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
