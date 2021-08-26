@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [30 things you didn&#039;t know about the Linux kernel](https://opensource.com/article/21/8/linux-kernel)
+- [Know your organization&#039;s rule makers and rule breakers](https://opensource.com/open-organization/21/8/rule-makers-rule-breakers)
+- [How open source software shapes AI policy, open source comes to medical datasets, and more](https://opensource.com/article/21/8/open-source-news)
 - [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
 - [30 free and open source Linux games – part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
-- [Use this open source tool for automated unit testing](https://opensource.com/article/21/8/tackle-test)
-- [10 steps to more open, focused, and energizing meetings](https://opensource.com/open-organization/21/8/10-steps-better-meetings)
-- [GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
