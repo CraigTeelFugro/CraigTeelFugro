@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculate date and time ranges in Groovy](https://opensource.com/article/21/8/groovy-date-time)
+- [Linux kernel modules we can&#039;t live without](https://opensource.com/article/21/8/linux-kernel-module)
 - [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
 - [30 things you didn&#039;t know about the Linux kernel](https://opensource.com/article/21/8/linux-kernel)
 - [Know your organization&#039;s rule makers and rule breakers](https://opensource.com/open-organization/21/8/rule-makers-rule-breakers)
-- [How open source software shapes AI policy, open source comes to medical datasets, and more](https://opensource.com/article/21/8/open-source-news)
-- [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
