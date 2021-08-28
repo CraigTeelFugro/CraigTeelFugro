@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parse command-line options in Groovy](https://opensource.com/article/21/8/parsing-command-options-groovy)
 - [30 free and open source Linux games – part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
 - [Calculate date and time ranges in Groovy](https://opensource.com/article/21/8/groovy-date-time)
 - [Linux kernel modules we can&#039;t live without](https://opensource.com/article/21/8/linux-kernel-module)
 - [30 free and open source Linux games – part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
-- [30 things you didn&#039;t know about the Linux kernel](https://opensource.com/article/21/8/linux-kernel)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
