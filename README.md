@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/)
 - [What is a container image?](https://opensource.com/article/21/8/container-image)
 - [How my team built an open source learning experience platform](https://opensource.com/article/21/8/open-source-lms)
 - [Print from anywhere with CUPS on Linux](https://opensource.com/article/21/8/share-printer-cups)
 - [Write a guessing game in ncurses on Linux](https://opensource.com/article/21/8/guess-number-game-ncurses-linux)
-- [Position text on your screen in Linux with ncurses](https://opensource.com/article/21/8/ncurses-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
