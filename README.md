@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 essential Linux commands for every user](https://opensource.com/article/21/9/essential-linux-commands)
+- [Control your Raspberry Pi remotely with your smartphone](https://opensource.com/article/21/9/raspberry-pi-remote-control)
 - [What are container runtimes?](https://opensource.com/article/21/9/container-runtimes)
 - [Vague infringement allegations considered harmful](https://github.blog/2021-08-31-vague-infringement-allegations-considered-harmful/)
 - [Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/)
-- [What is a container image?](https://opensource.com/article/21/8/container-image)
-- [How my team built an open source learning experience platform](https://opensource.com/article/21/8/open-source-lms)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
