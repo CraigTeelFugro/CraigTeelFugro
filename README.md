@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing recipients of the GitHub Open Source Grants and GitHub Sponsors now open in India](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
 - [What I miss about open source conferences](https://opensource.com/article/21/9/why-i-miss-conferences)
 - [Play with model trains in OpenTTD](https://opensource.com/article/21/9/model-trains-openttd)
 - [Building an open source community health analytics platform](https://opensource.com/article/21/9/openrit-mystic)
 - [5 tips for recruiting an open source job candidate](https://opensource.com/article/21/9/open-source-recruiting)
-- [GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
