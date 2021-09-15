@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to web scraping in Python using Beautiful Soup](https://opensource.com/article/21/9/web-scraping-python-beautiful-soup)
 - [Build a data sharding service with DistSQL](https://opensource.com/article/21/9/distsql)
 - [A conversation about open source design and ethical funding](https://opensource.com/article/21/9/open-source-design)
 - [The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/)
 - [9 underrated responsibilities of an open source community manager](https://opensource.com/article/21/9/community-manager)
-- [Managing the open source product roadmap](https://opensource.com/article/21/9/open-source-product-roadmap)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
