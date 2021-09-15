@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a data sharding service with DistSQL](https://opensource.com/article/21/9/distsql)
+- [A conversation about open source design and ethical funding](https://opensource.com/article/21/9/open-source-design)
 - [The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/)
 - [9 underrated responsibilities of an open source community manager](https://opensource.com/article/21/9/community-manager)
 - [Managing the open source product roadmap](https://opensource.com/article/21/9/open-source-product-roadmap)
-- [What’s new from GitHub Changelog? August 2021 Recap](https://github.blog/2021-09-13-whats-new-from-github-changelog-august-2021-recap/)
-- [Replace smart quotes with the Linux sed command](https://opensource.com/article/21/9/sed-replace-smart-quotes)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
