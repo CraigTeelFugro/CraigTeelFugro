@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use this Linux command-line tool to learn more about your NVMe drives](https://opensource.com/article/21/9/nvme-cli)
 - [Use Vagrant to test your scripts on different operating systems](https://opensource.com/article/21/9/test-vagrant)
 - [5 best practices for using open source community leaderboards](https://opensource.com/article/21/9/community-leaderboard)
 - [Why my public library chooses Linux and open source](https://opensource.com/article/21/9/library-linux)
 - [Organize your Magic: The Gathering decks with Magic Assistant](https://opensource.com/article/21/9/magic-the-gathering-assistant)
-- [Start using YAML now](https://opensource.com/article/21/9/intro-yaml)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
