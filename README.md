@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 ways to test your API with Python](https://opensource.com/article/21/9/unit-test-python)
 - [Run containers on your Mac with Lima](https://opensource.com/article/21/9/run-containers-mac-lima)
 - [Use this Linux command-line tool to learn more about your NVMe drives](https://opensource.com/article/21/9/nvme-cli)
 - [Use Vagrant to test your scripts on different operating systems](https://opensource.com/article/21/9/test-vagrant)
 - [5 best practices for using open source community leaderboards](https://opensource.com/article/21/9/community-leaderboard)
-- [Why my public library chooses Linux and open source](https://opensource.com/article/21/9/library-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
