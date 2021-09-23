@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/)
 - [5 reasons to switch to Firefox right now](https://opensource.com/article/21/9/switch-to-firefox)
 - [Build your website with Jekyll](https://opensource.com/article/21/9/build-website-jekyll)
 - [My favorite LibreOffice productivity tips](https://opensource.com/article/21/9/libreoffice-tips)
 - [Add storage with LVM](https://opensource.com/article/21/9/add-storage-lvm)
-- [3 ways to test your API with Python](https://opensource.com/article/21/9/unit-test-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
