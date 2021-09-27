@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
 - [5 open source alternatives to Zoom](https://opensource.com/article/21/9/alternatives-zoom)
 - [Why nonprofit organizations choose open source software](https://opensource.com/article/21/9/nonprofit-open-source)
 - [Install Java from your Linux distribution&#039;s repositories](https://opensource.com/article/21/9/install-java-linux-repositories)
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [6 open source tools for orchestral composers](https://opensource.com/article/21/9/open-source-orchestral-composers)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
