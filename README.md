@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert your Raspberry Pi into a trading bot with Pythonic](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
+- [What is port forwarding?](https://opensource.com/article/21/9/what-port-forwarding)
 - [Modeling open management practices](https://opensource.com/open-organization/21/9/modeling-open-management)
 - [Revised enterprise DPA with new standard contractual clauses](https://github.blog/2021-09-27-revised-enterprise-dpa-new-standard-contractual-clauses/)
 - [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
-- [5 open source alternatives to Zoom](https://opensource.com/article/21/9/alternatives-zoom)
-- [Why nonprofit organizations choose open source software](https://opensource.com/article/21/9/nonprofit-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
