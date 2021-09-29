@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manage CentOS Stream with Foreman](https://opensource.com/article/21/9/centos-stream-foreman)
+- [Install Java manually on Linux](https://opensource.com/article/21/9/install-java-manually-linux)
 - [GitHub Enterprise Server 3.2 is now generally available](https://github.blog/2021-09-28-github-enterprise-server-3-2-generally-available/)
 - [Convert your Raspberry Pi into a trading bot with Pythonic](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
 - [What is port forwarding?](https://opensource.com/article/21/9/what-port-forwarding)
-- [Modeling open management practices](https://opensource.com/open-organization/21/9/modeling-open-management)
-- [Revised enterprise DPA with new standard contractual clauses](https://github.blog/2021-09-27-revised-enterprise-dpa-new-standard-contractual-clauses/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
