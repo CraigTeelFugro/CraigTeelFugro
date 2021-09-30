@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make YAML as easy as it looks](https://opensource.com/article/21/9/yaml-cheat-sheet)
 - [How I use Ansible and anacron for automation](https://opensource.com/article/21/9/ansible-anacron-automation)
 - [Using Ansible with REST APIs](https://opensource.com/article/21/9/ansible-rest-apis)
 - [How I keep my file folders tidy with Ansible](https://opensource.com/article/21/9/keep-folders-tidy-ansible)
 - [Manage CentOS Stream with Foreman](https://opensource.com/article/21/9/centos-stream-foreman)
-- [Install Java manually on Linux](https://opensource.com/article/21/9/install-java-manually-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
