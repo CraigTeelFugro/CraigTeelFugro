@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/)
 - [8 reasons why I learned Core Java](https://opensource.com/article/21/10/why-i-learned-core-java)
 - [Enterprise managed users are now generally available for GitHub Enterprise Cloud](https://github.blog/2021-09-30-enterprise-managed-users-generally-available-github-enterprise-cloud/)
 - [Make YAML as easy as it looks](https://opensource.com/article/21/9/yaml-cheat-sheet)
 - [How I use Ansible and anacron for automation](https://opensource.com/article/21/9/ansible-anacron-automation)
-- [Using Ansible with REST APIs](https://opensource.com/article/21/9/ansible-rest-apis)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
