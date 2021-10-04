@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I use Vagrant with libvirt](https://opensource.com/article/21/10/vagrant-libvirt)
 - [Launching a DevOps to DevSecOps transformation](https://opensource.com/article/21/10/devops-to-devsecops)
 - [Monitor your Java on Linux with jconsole](https://opensource.com/article/21/10/monitor-java-linux-jconsole)
 - [Cybersecurity spotlight on bug bounty researchers @chen-robert and @ginkoid](https://github.blog/2021-10-01-cybersecurity-spotlight-bug-bounty-researchers-chen-robert-ginkoid/)
 - [8 reasons why I learned Core Java](https://opensource.com/article/21/10/why-i-learned-core-java)
-- [Enterprise managed users are now generally available for GitHub Enterprise Cloud](https://github.blog/2021-09-30-enterprise-managed-users-generally-available-github-enterprise-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
