@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Advisory Database now powers npm audit](https://github.blog/2021-10-07-github-advisory-database-now-powers-npm-audit/)
 - [Rotate and archive logs with the Linux logrotate command](https://opensource.com/article/21/10/linux-logrotate)
 - [3 phases to start a DevSecOps transformation](https://opensource.com/article/21/10/first-phases-devsecops-transformation)
 - [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
 - [Check Java processes on Linux with the jps command](https://opensource.com/article/21/10/check-java-jps)
-- [Following a DevSecOps maturity model](https://opensource.com/article/21/10/devsecops-maturity-model)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
