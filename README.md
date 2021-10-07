@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 phases to start a DevSecOps transformation](https://opensource.com/article/21/10/first-phases-devsecops-transformation)
 - [GitHub Availability Report: September 2021](https://github.blog/2021-10-06-github-availability-report-september-2021/)
 - [Check Java processes on Linux with the jps command](https://opensource.com/article/21/10/check-java-jps)
 - [Following a DevSecOps maturity model](https://opensource.com/article/21/10/devsecops-maturity-model)
 - [13 tiny and terrific entries from the js13kGames competition](https://github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition/)
-- [Get podman up and running on Windows using Linux](https://opensource.com/article/21/10/podman-windows-wsl)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
