@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to change a hostname in Linux](https://opensource.com/article/21/10/change-hostname-linux)
 - [What is a hostname?](https://opensource.com/article/21/10/what-hostname)
 - [How disagreement creates unity in open source](https://opensource.com/article/21/10/disagreement-open-source)
 - [Release Radar · September 2021 Edition](https://github.blog/2021-10-08-release-radar-aug-2021/)
 - [3 more phases of DevSecOps transformation](https://opensource.com/article/21/10/last-phases-devsecops-transformation)
-- [3 new features of the latest OpenPGP.js version](https://opensource.com/article/21/10/openpgpjs)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
