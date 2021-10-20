@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Diagnose connectivity issues with the Linux ping command](https://opensource.com/article/21/10/linux-ping-command)
 - [Inspect the capabilities of ELF binaries with this open source tool](https://opensource.com/article/21/10/linux-elf-capa)
 - [What’s new from GitHub Changelog? September 2021 recap](https://github.blog/2021-10-19-whats-new-from-github-changelog-september-2021-recap/)
 - [Why Mark Text is my favorite markdown editor](https://opensource.com/article/21/10/mark-text-markdown-editor)
 - [Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/)
-- [4 Linux tools to erase your data](https://opensource.com/article/21/10/linux-tools-erase-data)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
