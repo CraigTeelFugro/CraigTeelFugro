@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/)
 - [Use Rust for embedded development](https://opensource.com/article/21/10/rust-embedded-development)
 - [Open source gets dirty with 3D printing](https://opensource.com/article/21/10/open-source-soil-science)
 - [Our journey to open source during Google Summer of Code](https://opensource.com/article/21/10/google-summer-code)
 - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
-- [3 tips for printing with Linux](https://opensource.com/article/21/10/print-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
