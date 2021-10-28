@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 lessons I learned about chaos engineering for Kubernetes](https://opensource.com/article/21/10/chaos-engineering-kubernetes-ebook)
 - [Open source recognized as a key economic pillar in EU study](https://opensource.com/article/21/10/open-source-eu-economy)
 - [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
 - [How I made an automated Jack-o&#039;-lantern with a Raspberry Pi](https://opensource.com/article/21/10/halloween-raspberry-pi)
 - [Global communication in open source projects](https://opensource.com/article/21/10/global-communication-open-source)
-- [Deploy Quarkus applications to Kubernetes using a Helm chart](https://opensource.com/article/21/10/quarkus-helm-chart)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
