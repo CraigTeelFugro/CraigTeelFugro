@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue-teaming for Exiv2, part 1: creating a security advisory process](https://github.blog/2021-11-02-blue-teaming-create-security-advisory-process/)
 - [4 ways to edit photos on the Linux command line](https://opensource.com/article/21/11/edit-photos-linux-command-line)
 - [What you need to know about containers for Python](https://opensource.com/article/21/11/containers-python)
 - [Game Off 2021 theme announcement](https://github.blog/2021-11-01-game-off-2021-theme-announcement/)
 - [Cybersecurity spotlight on bug bounty researcher @yvvdwf](https://github.blog/2021-11-01-cybersecurity-spotlight-bug-bounty-researcher-yvvdwf/)
-- [GitHub keeps getting better for open source maintainers](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
