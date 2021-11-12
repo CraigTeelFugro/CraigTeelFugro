@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What you need to know about cluster logging in Kubernetes](https://opensource.com/article/21/11/cluster-logging-kubernetes)
 - [7 Linux commands to use just for fun](https://opensource.com/article/21/11/fun-linux-commands)
 - [7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/)
 - [Make your monorepo feel small with Git’s sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
 - [Transfer files between your phone and Linux with this open source tool](https://opensource.com/article/21/11/transfer-files-phone-linux)
-- [How Knative unleashes the power of serverless](https://opensource.com/article/21/11/knative-serving-serverless)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
