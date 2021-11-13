@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why now is a great time to consider a career in open source hardware](https://opensource.com/article/21/11/open-source-hardware-careers)
 - [Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/)
 - [Highlights from GitHub’s security roadmap at Universe 2021](https://github.blog/2021-11-12-highlights-github-security-roadmap-universe-2021/)
 - [What you need to know about cluster logging in Kubernetes](https://opensource.com/article/21/11/cluster-logging-kubernetes)
 - [7 Linux commands to use just for fun](https://opensource.com/article/21/11/fun-linux-commands)
-- [7 unique software collaboration features in GitHub Discussions](https://github.blog/2021-11-10-7-unique-software-collaboration-features-in-github-discussions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
