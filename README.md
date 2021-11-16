@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement client-side search on your website with this JavaScript tool](https://opensource.com/article/21/11/client-side-javascript-search-lunrjs)
+- [How I use data to connect with my open source project&amp;#039;s contributors](https://opensource.com/article/21/11/data-open-source-contributors)
 - [GitHub’s commitment to npm ecosystem security](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/)
 - [Highlights from Git 2.34](https://github.blog/2021-11-15-highlights-from-git-2-34/)
 - [Linux tips for using cron to schedule tasks](https://opensource.com/article/21/11/cron-linux)
-- [Why now is a great time to consider a career in open source hardware](https://opensource.com/article/21/11/open-source-hardware-careers)
-- [Release Radar · October 2021 Edition](https://github.blog/2021-11-12-release-radar-oct-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
