@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/)
 - [Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/)
 - [The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/)
 - [Implement client-side search on your website with this JavaScript tool](https://opensource.com/article/21/11/client-side-javascript-search-lunrjs)
 - [How I use data to connect with my open source project&amp;#039;s contributors](https://opensource.com/article/21/11/data-open-source-contributors)
-- [GitHub’s commitment to npm ecosystem security](https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
