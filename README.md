@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is open core?](https://opensource.com/article/21/11/open-core-vs-open-source)
 - [Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/)
 - [7 key components of observability in Python](https://opensource.com/article/21/11/observability-python)
 - [4 open source ways to create holiday greetings](https://opensource.com/article/21/11/open-source-holiday-greetings)
 - [Open source powers the United Nations&amp;#039; sustainability goals](https://opensource.com/article/21/11/open-source-un-sustainability)
-- [In case you missed it, GitHub Education at Universe 2021!](https://github.blog/2021-11-19-in-case-you-missed-it-github-education-at-universe-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
