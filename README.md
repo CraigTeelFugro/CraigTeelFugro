@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
 - [How to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/)
 - [The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/)
 - [What is open core?](https://opensource.com/article/21/11/open-core-vs-open-source)
 - [Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/)
-- [7 key components of observability in Python](https://opensource.com/article/21/11/observability-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
