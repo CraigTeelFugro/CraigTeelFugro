@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 holiday gift ideas for open source enthusiasts](https://opensource.com/article/21/11/open-source-holiday-gifts)
 - [Tips for formatting when printing to console from C++](https://opensource.com/article/21/11/c-stdcout-cheat-sheet)
 - [What are you thankful for at work?](https://opensource.com/article/21/11/what-are-you-thankful-work)
 - [5 open source alternatives to Microsoft Exchange](https://opensource.com/article/21/11/open-source-alternatives-microsoft-exchange)
 - [Secure deployments with OpenID Connect &amp; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
-- [How to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
