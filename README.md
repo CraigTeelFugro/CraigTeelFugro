@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edit audio on Linux with Audacity](https://opensource.com/article/21/12/audacity-linux-creative-app)
 - [GitHub Externships: enabling India’s next generation of developers](https://github.blog/2021-11-30-github-externships-enabling-indias-next-generation-of-developers/)
 - [5 DevOps tips to speed up your developer workflow](https://github.blog/2021-11-30-5-devops-tips-to-speed-up-your-developer-workflow/)
 - [Collaborate on a file using Linux diff and patch](https://opensource.com/article/21/11/linux-diff-patch)
 - [GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
-- [Anyone can compile open source code in these three simple steps](https://opensource.com/article/21/11/compiling-code)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
