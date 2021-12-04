@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 tips for virtual mentorship in open source](https://opensource.com/article/21/12/virtual-mentorship-open-source)
+- [Convert audio in batches on Linux with SoundConverter](https://opensource.com/article/21/12/soundconverter-linux)
 - [Release Radar · November 2021 Edition](https://github.blog/2021-12-03-release-radar-nov-2021/)
 - [Quick video editing on Linux with Flowblade](https://opensource.com/article/21/11/flowblade-linux-video-editing)
 - [Edit video on Linux with Kdenlive](https://opensource.com/article/21/12/kdenlive-linux-creative-app)
-- [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
-- [Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
