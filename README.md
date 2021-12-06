@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 surprising reasons I use Krita for photo editing on Linux](https://opensource.com/article/21/12/open-source-photo-editing-krita)
+- [Sign and verify container images with this open source tool](https://opensource.com/article/21/12/sigstore-container-images)
 - [Open source mind mapping with Draw.io](https://opensource.com/article/21/12/open-source-mind-mapping-drawio)
 - [7 tips for virtual mentorship in open source](https://opensource.com/article/21/12/virtual-mentorship-open-source)
 - [Convert audio in batches on Linux with SoundConverter](https://opensource.com/article/21/12/soundconverter-linux)
-- [Release Radar · November 2021 Edition](https://github.blog/2021-12-03-release-radar-nov-2021/)
-- [Quick video editing on Linux with Flowblade](https://opensource.com/article/21/11/flowblade-linux-video-editing)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
