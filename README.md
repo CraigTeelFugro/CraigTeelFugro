@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
+- [Precise code navigation for Python, and code navigation in pull requests](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/)
 - [Make music on Linux with Ardour](https://opensource.com/article/21/12/music-linux-ardour)
 - [Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/)
 - [Open source photo processing with Darktable](https://opensource.com/article/21/12/open-source-photo-processing-darktable)
-- [Vanilla Vim is fun](https://opensource.com/article/21/12/vanilla-vim-config)
-- [GitHub Enterprise Server 3.3 is generally available](https://github.blog/2021-12-07-github-enterprise-server-3-3-is-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
