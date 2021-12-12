@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source 3D pixel art with Goxel](https://opensource.com/article/21/12/3d-pixel-art-goxel)
 - [Open source digital painting with Krita](https://opensource.com/article/21/12/krita-digital-paint)
 - [Film compositing on Linux with Natron](https://opensource.com/article/21/12/film-compositing-linux-natron)
 - [Reveal your source code with Jinja2 and Git](https://opensource.com/article/21/12/reveal-source-code-jinja2-git)
 - [Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
-- [Precise code navigation for Python, and code navigation in pull requests](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
