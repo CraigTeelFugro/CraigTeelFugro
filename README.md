@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Mycroft AI voice assistant on Raspberry Pi using Ansible](https://opensource.com/article/21/12/mycroft-raspberry-pi-ansible)
 - [4 ways you can edit a PDF with the pdftk-java command](https://opensource.com/article/21/12/edit-pdf-linux-pdftk)
 - [Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/)
 - [How to define security requirements for your OSS project](https://github.blog/2021-12-14-how-to-define-security-requirements-for-your-oss-project/)
 - [Play the drums on Linux with Hydrogen](https://opensource.com/article/21/12/open-source-drum-hydrogen)
-- [6 ideas for building an equitable partner program for your open source project](https://opensource.com/article/21/12/open-source-project-partner-program)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
