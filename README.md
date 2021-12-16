@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Play a digital orchestra with Linux Sampler](https://opensource.com/article/21/12/linux-sampler)
+- [A guide to Kubernetes pod eviction](https://opensource.com/article/21/12/kubernetes-pod-eviction)
 - [Being autistic in an open organization](https://opensource.com/open-organization/21/12/being-autistic-open-organization)
 - [A brief history of code search at GitHub](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 - [Deploy Mycroft AI voice assistant on Raspberry Pi using Ansible](https://opensource.com/article/21/12/mycroft-raspberry-pi-ansible)
-- [4 ways you can edit a PDF with the pdftk-java command](https://opensource.com/article/21/12/edit-pdf-linux-pdftk)
-- [Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
