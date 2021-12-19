@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source file sharing with this Linux tool](https://opensource.com/article/21/12/file-sharing-linux-samba)
+- [My favorite MyPaint features for digital painting](https://opensource.com/article/21/12/mypaint)
 - [How I play Tetris on the mainframe](https://opensource.com/article/21/12/mainframe-tetris)
 - [Explore 3D scans with this open source tool](https://opensource.com/article/21/12/3d-scans-meshlab)
 - [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
-- [Write your screenplay on Linux in Fountain markdown](https://opensource.com/article/21/12/linux-fountain)
-- [Manage your APC battery backup system with this Linux command](https://opensource.com/article/21/12/linux-apcupsd)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
