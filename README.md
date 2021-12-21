@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source desktop publishing with Scribus](https://opensource.com/article/21/12/desktop-publishing-scribus)
 - [How to leverage security frameworks and libraries for secure code](https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/)
 - [Open source design collaboration with Penpot](https://opensource.com/article/21/12/open-source-design-penpot)
 - [Open source file sharing with this Linux tool](https://opensource.com/article/21/12/file-sharing-linux-samba)
 - [My favorite MyPaint features for digital painting](https://opensource.com/article/21/12/mypaint)
-- [How I play Tetris on the mainframe](https://opensource.com/article/21/12/mainframe-tetris)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
