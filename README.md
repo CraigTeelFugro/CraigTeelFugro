@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 open source career lessons from 2021](https://opensource.com/article/21/12/open-source-career-lessons)
+- [What Kubernetes taught me about development](https://opensource.com/article/21/12/kubernetes-developer)
+- [Gamify your creativity on Linux with Dot Matrix](https://opensource.com/article/21/12/dot-matrix)
 - [5 open source security resources from 2021](https://opensource.com/article/21/12/open-source-security)
 - [Implement governance on your Kubernetes cluster](https://opensource.com/article/21/12/kubernetes-gatekeeper)
-- [Create your own animations with this open source motion graphics tool](https://opensource.com/article/21/12/synfig-motion-graphics)
-- [How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/)
-- [Open source desktop publishing with Scribus](https://opensource.com/article/21/12/desktop-publishing-scribus)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
