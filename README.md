@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Raspberry Pi project ideas from 2021](https://opensource.com/article/21/12/raspberry-pi-projects)
+- [4 conscious steps to engage people in your open source community](https://opensource.com/article/21/12/how-give-gift-open-source)
+- [Make MIDI loops on Linux with this open source tool](https://opensource.com/article/21/12/midi-loops-seq24)
 - [10 reasons to love Linux in 2021](https://opensource.com/article/21/12/reasons-love-linux)
 - [Get started with Zyn-Fusion, an open source synthesizer](https://opensource.com/article/21/12/zyn-fusion)
-- [10 open source career lessons from 2021](https://opensource.com/article/21/12/open-source-career-lessons)
-- [What Kubernetes taught me about development](https://opensource.com/article/21/12/kubernetes-developer)
-- [Gamify your creativity on Linux with Dot Matrix](https://opensource.com/article/21/12/dot-matrix)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
