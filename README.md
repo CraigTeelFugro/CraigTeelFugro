@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 DIY IoT projects to try using open source tools](https://opensource.com/article/22/1/open-source-internet-of-things)
 - [New year, new Opensource.com community manager](https://opensource.com/article/22/1/open-source-community-writing-topics)
 - [15 ways to advance your Kubernetes journey in 2022](https://opensource.com/article/21/12/learn-kubernetes-2022)
 - [12 inspiring examples of open source in education this year](https://opensource.com/article/21/12/open-source-education)
 - [Open source tools for running a small business in 2022](https://opensource.com/article/21/12/open-source-business-tools)
-- [GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
