@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/)
 - [Create bookmarks for your PDF with pdftk](https://opensource.com/article/22/1/pdf-metadata-pdftk)
 - [5 ways to learn the C programming language in 2022](https://opensource.com/article/22/1/c-programming)
 - [10 Git tutorials to level up your open source skills in 2022](https://opensource.com/article/22/1/git-tutorials)
 - [5 tips for learning a new programming language in 2022](https://opensource.com/article/22/1/learn-programming)
-- [13 examples of how DevOps facilitated transformation in 2021](https://opensource.com/article/22/1/devops-transformation)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
