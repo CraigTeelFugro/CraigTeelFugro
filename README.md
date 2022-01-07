@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lock your camera to a specific USB port in OBS](https://opensource.com/article/22/1/cameras-usb-ports-obs)
+- [Try FreeDOS in 2022](https://opensource.com/article/22/1/try-freedos)
 - [Must-have open source cheat sheets for 2022](https://opensource.com/article/22/1/open-source-cheat-sheets)
 - [Send desktop notifications and reminders from Linux terminal](https://opensource.com/article/22/1/linux-desktop-notifications)
 - [GitHub Availability Report: December 2021](https://github.blog/2022-01-05-github-availability-report-december-2021/)
-- [How the community powers GitHub Advanced Security with CodeQL queries](https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/)
-- [Create bookmarks for your PDF with pdftk](https://opensource.com/article/22/1/pdf-metadata-pdftk)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
