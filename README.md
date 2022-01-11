@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 surprising things I learned about Python in 2021](https://opensource.com/article/22/1/python-roundup)
+- [Run containers on Linux without sudo in Podman](https://opensource.com/article/22/1/run-containers-without-sudo-podman)
 - [Why we built an open source testing framework](https://opensource.com/article/22/1/open-source-testing-framework)
 - [9 ways to learn Ansible this year](https://opensource.com/article/22/1/learn-ansible)
 - [11 open source ideas for being more eco-friendly in 2022](https://opensource.com/article/22/1/open-source-eco-friendly)
-- [Lock your camera to a specific USB port in OBS](https://opensource.com/article/22/1/cameras-usb-ports-obs)
-- [Try FreeDOS in 2022](https://opensource.com/article/22/1/try-freedos)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
