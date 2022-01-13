@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Open Source Software Security Summit: securing the world’s code together](https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/)
 - [Learn Rust in 2022](https://opensource.com/article/22/1/rust-cheat-sheet)
 - [An open source developer&amp;#039;s guide to 12-Factor App methodology](https://opensource.com/article/21/11/open-source-12-factor-app-methodology)
 - [How we ship GitHub Mobile every week](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
 - [Set up a build system with CMake and VSCodium](https://opensource.com/article/22/1/devops-cmake)
-- [How to build an open source metaverse](https://opensource.com/article/22/1/open-source-metaverse)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
