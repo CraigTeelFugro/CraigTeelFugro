@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make a video game with Bitsy](https://opensource.com/article/22/1/bitsy-game-design)
+- [What you need to know about fuzz testing and Go](https://opensource.com/article/22/1/native-go-fuzz-testing)
 - [Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/)
 - [Solve network fragmentation with MTU](https://opensource.com/article/22/1/solve-network-fragmentation-mtu)
 - [How to back your open source project&amp;#039;s stack](https://opensource.com/article/22/1/back-your-stack)
-- [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/)
-- [Manage your passwords in the Linux terminal](https://opensource.com/article/22/1/manage-passwords-linux-terminal)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
