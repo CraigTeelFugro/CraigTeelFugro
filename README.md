@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
 - [Why choose Rocket.Chat for your open source chat tool](https://opensource.com/article/22/1/rocketchat-data-privacy)
 - [7 strategies for success when contributing to open source](https://opensource.com/article/22/1/open-source-contributions-career)
 - [How I use Linux accessibility settings](https://opensource.com/article/22/1/linux-accessibility-settings)
 - [Our favorite Linux commands to use just for fun](https://opensource.com/article/22/1/fun-linux-commands)
-- [Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
