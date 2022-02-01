@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [View your Linux server&amp;#039;s network connections with netstat](https://opensource.com/article/22/2/linux-network-security-netstat)
+- [3 ways I configure SSH for privacy](https://opensource.com/article/22/2/configure-ssh-privacy)
 - [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/)
 - [Try Turris Omnia, the open source router](https://opensource.com/article/22/1/turris-omnia-open-source-router)
 - [How to set up a CI pipeline on GitLab](https://opensource.com/article/22/2/setup-ci-pipeline-gitlab)
-- [Open source tools to make your Wordle results accessible](https://opensource.com/article/22/1/open-source-accessibility-wordle)
-- [6 predictions for open source tech in 2022](https://opensource.com/article/22/1/open-source-predictions-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
