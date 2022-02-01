@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/)
+- [Top-100 npm package maintainers now require 2FA, and additional security-focused improvements to npm](https://github.blog/2022-02-01-top-100-npm-package-maintainers-require-2fa-additional-security/)
 - [View your Linux server&amp;#039;s network connections with netstat](https://opensource.com/article/22/2/linux-network-security-netstat)
 - [3 ways I configure SSH for privacy](https://opensource.com/article/22/2/configure-ssh-privacy)
 - [Dependency graph now supports GitHub Actions](https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/)
-- [Try Turris Omnia, the open source router](https://opensource.com/article/22/1/turris-omnia-open-source-router)
-- [How to set up a CI pipeline on GitLab](https://opensource.com/article/22/2/setup-ci-pipeline-gitlab)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
