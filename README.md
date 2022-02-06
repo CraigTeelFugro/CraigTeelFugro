@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write code inspired by Shakespeare with esolang](https://opensource.com/article/22/2/shakespeare-esolang)
 - [Create an app with this Arnold Schwarzenegger-themed programming language](https://opensource.com/article/22/2/arnoldc-create-app)
 - [Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/)
 - [How we hired an open source developer](https://opensource.com/article/22/2/how-we-hired-open-source-developer)
 - [Build your own container on Linux](https://opensource.com/article/22/2/build-your-own-container-linux-buildah)
-- [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
