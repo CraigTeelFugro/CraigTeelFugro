@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 steps to migrate your application to containers](https://opensource.com/article/22/2/migrate-application-containers)
+- [My tips for maintaining dotfiles in source control](https://opensource.com/article/22/2/dotfiles-source-control)
 - [Customize your shell prompt with Starship](https://opensource.com/article/22/2/customize-prompt-starship)
 - [Accumulating into lists in Java and Groovy](https://opensource.com/article/22/2/accumulating-lists-groovy-vs-java)
 - [Write code inspired by Shakespeare with esolang](https://opensource.com/article/22/2/shakespeare-esolang)
-- [Create an app with this Arnold Schwarzenegger-themed programming language](https://opensource.com/article/22/2/arnoldc-create-app)
-- [Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
