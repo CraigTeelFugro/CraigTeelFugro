@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Perl in 2022](https://opensource.com/article/22/2/perl-cheat-sheet)
 - [Coordinated vulnerability disclosure &lpar;CVD&rpar; for open source projects](https://github.blog/2022-02-09-coordinated-vulnerability-disclosure-cvd-open-source-projects/)
 - [6 Linux metacharacters I love to use on the command line](https://opensource.com/article/22/2/metacharacters-linux)
 - [3 ideas for bringing innersource to your company](https://opensource.com/article/22/2/3-ways-innersource-company)
 - [Improving the developer experience for Dependabot alerts](https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/)
-- [5 steps to migrate your application to containers](https://opensource.com/article/22/2/migrate-application-containers)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
