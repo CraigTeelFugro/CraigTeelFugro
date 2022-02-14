@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [A guide to Kubernetes architecture](https://opensource.com/article/22/2/kubernetes-architecture)
 - [How I configure Vim as my default editor on Linux](https://opensource.com/article/22/2/configure-vim-default-editor)
 - [26 open source creative apps to try in 2022](https://opensource.com/article/22/2/open-source-creative-apps)
 - [5 levels of transparency for open source communities](https://opensource.com/article/22/2/transparency-open-source-communities)
-- [Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
