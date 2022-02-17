@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edit text on Linux with KWrite and Kate](https://opensource.com/article/22/2/edit-text-linux-kde)
+- [A guide to installing applications on Linux](https://opensource.com/article/22/2/installing-applications-desktop-linux)
 - [How to make the most out of a mentoring relationship](https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/)
 - [Encoding and escaping untrusted data to prevent injection attacks](https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/)
 - [Archive files on your Linux desktop with Ark for KDE](https://opensource.com/article/22/2/archives-files-linux-ark-kde)
-- [Integrating fuzzing into your open source project with OSS-Fuzz](https://opensource.com/article/22/2/debug-open-source-project-oss-fuzz)
-- [GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD](https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
