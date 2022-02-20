@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use different time zones on your Linux KDE desktop](https://opensource.com/article/22/2/use-different-time-zones-linux-kde)
 - [Crop and resize photos on Linux with Gwenview](https://opensource.com/article/22/2/crop-resize-photos-gwenview-kde)
 - [Add, switch, delete, and manage Linux users in KDE](https://opensource.com/article/22/2/manage-linux-users-kde)
 - [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
 - [Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/)
-- [Edit text on Linux with KWrite and Kate](https://opensource.com/article/22/2/edit-text-linux-kde)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
