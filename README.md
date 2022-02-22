@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
 - [How to make KDE look like GNOME on Linux](https://opensource.com/article/22/2/make-kde-look-like-gnome)
 - [4 levels of DevOps documentation maturity](https://opensource.com/article/22/2/devops-documentation-maturity)
 - [Why I love KDE for my Linux desktop](https://opensource.com/article/22/2/why-i-love-linux-kde)
 - [3 steps to start running containers today](https://opensource.com/article/22/2/start-running-containers)
-- [Use different time zones on your Linux KDE desktop](https://opensource.com/article/22/2/use-different-time-zones-linux-kde)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
