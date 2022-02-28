@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Put sticky notes on your Linux KDE desktop](https://opensource.com/article/22/2/sticky-notes-linux-kde)
+- [A visual map of a Kubernetes deployment](https://opensource.com/article/22/3/visual-map-kubernetes-deployment)
 - [Math is fun with this Linux graphing calculator](https://opensource.com/article/22/2/kalgebra-linux-calculator)
 - [My favorite casual games to play on Linux](https://opensource.com/article/22/2/casual-gaming-linux-kde)
 - [How to screen share with the Linux KDE Plasma Desktop](https://opensource.com/article/22/2/screen-share-linux-kde)
-- [Scan documents and old photos on Linux with Skanlite](https://opensource.com/article/22/2/scan-documents-skanlite-linux-kde)
-- [5 ways to involve people who don’t write code in the DevOps process](https://opensource.com/article/22/2/involve-people-who-dont-code-devops)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
