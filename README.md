@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Collect sudo session recordings with the Raspberry Pi](https://opensource.com/article/22/3/sudo-session-recordings-raspberry-pi)
+- [22 Raspberry Pi projects to try in 2022](https://opensource.com/article/22/3/raspberry-pi-projects-2022)
 - [Use your Raspberry Pi as a data logger](https://opensource.com/article/22/3/raspberry-pi-data-logger)
 - [Understanding the Digital World: My honest book review](https://opensource.com/article/22/3/review-understanding-digital-world)
 - [How I run my blog on a Raspberry Pi](https://opensource.com/article/22/3/run-drupal-raspberry-pi)
-- [Improved management for GitHub Enterprise owners](https://github.blog/2022-03-10-improved-management-github-enterprise-owners/)
-- [How I use Drupal as an advanced blogging platform](https://opensource.com/article/22/3/drupal-advanced-blogging-platform)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
