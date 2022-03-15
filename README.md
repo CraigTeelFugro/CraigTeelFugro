@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manage Java versions with SDKMan](https://opensource.com/article/22/3/manage-java-versions-sdkman)
 - [Open exchange, open doors, open minds: A recipe for global progress](https://opensource.com/open-organization/22/3/open-history-human-progress)
 - [Collect sudo session recordings with the Raspberry Pi](https://opensource.com/article/22/3/sudo-session-recordings-raspberry-pi)
 - [22 Raspberry Pi projects to try in 2022](https://opensource.com/article/22/3/raspberry-pi-projects-2022)
 - [Use your Raspberry Pi as a data logger](https://opensource.com/article/22/3/raspberry-pi-data-logger)
-- [Understanding the Digital World: My honest book review](https://opensource.com/article/22/3/review-understanding-digital-world)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
