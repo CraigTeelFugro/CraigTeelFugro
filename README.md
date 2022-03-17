@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Maven to manage your Java dependencies](https://opensource.com/article/22/3/maven-manage-java-dependencies)
 - [Save time with partial re-runs in GitHub Actions](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/)
 - [How to find your Java Home when running multiple versions](https://opensource.com/article/22/3/find-java-home)
 - [Manage Java versions with SDKMan](https://opensource.com/article/22/3/manage-java-versions-sdkman)
 - [Open exchange, open doors, open minds: A recipe for global progress](https://opensource.com/open-organization/22/3/open-history-human-progress)
-- [22 Raspberry Pi projects to try in 2022](https://opensource.com/article/22/3/raspberry-pi-projects-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
