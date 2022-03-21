@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Validate all the things: improve your security with input validation!](https://github.blog/2022-03-21-validate-all-things-input-validation/)
 - [My favorite Linux top command options](https://opensource.com/article/22/3/linux-top-command)
 - [Upstream first or the path lifting property of a covering space](https://opensource.com/article/22/3/upstream-first-or-path-lifting-property-covering-space)
 - [Why academia chooses open source](https://opensource.com/article/22/3/open-source-academia)
 - [How to beautify your Java applications](https://opensource.com/article/22/3/beautify-java-applications)
-- [Release Radar · February 2022 Edition](https://github.blog/2022-03-17-release-radar-feb-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
