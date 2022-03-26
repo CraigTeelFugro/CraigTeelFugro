@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock all the GitHub secrets within Next.Tech’s newest experience: Break the Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
+- [Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
 - [Balancing transparency as an open source community manager](https://opensource.com/article/22/3/transparency-open-source-community-manager)
 - [A guide to implementing DevSecOps](https://opensource.com/article/22/3/guide-implementing-devsecops)
 - [Making the case for openness as the engine of human progress](https://opensource.com/open-organization/22/3/making-case-openness-engine-human-progress)
