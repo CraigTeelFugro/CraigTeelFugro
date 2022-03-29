@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/)
+- [Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/)
 - [Virtual Kubernetes clusters: A new model for multitenancy](https://opensource.com/article/22/3/virtual-kubernetes-clusters-new-model-multitenancy)
 - [5 key insights for open source project sustainability in 2022](https://opensource.com/article/22/3/open-source-project-sustainability)
 - [How to secure your end-to-end supply chain on GitHub](https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/)
-- [Scheduling tasks with the Linux cron command](https://opensource.com/article/22/3/scheduling-tasks-linux-cron)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
