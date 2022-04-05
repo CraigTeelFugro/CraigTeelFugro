@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 ways we use GitHub Actions to build GitHub](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/)
 - [4 questions about the essence of openness](https://opensource.com/open-organization/22/4/essence-of-openness-norberg-review)
 - [What Git aliases are in your .bashrc?](https://opensource.com/article/22/4/git-aliases-bashrc)
 - [My guide to understanding Git rebase -i](https://opensource.com/article/22/4/manage-git-commits-rebase-i-command)
 - [Proactively prevent secret leaks with GitHub Advanced Security secret scanning](https://github.blog/2022-04-04-push-protection-github-advanced-security/)
-- [Extend Kubernetes service discovery with Stork and Quarkus](https://opensource.com/article/22/4/kubernetes-service-discovery-stork-quarkus)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
