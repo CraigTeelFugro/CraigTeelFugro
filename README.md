@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy anniversary, Git! Here are our favorite Git commands](https://opensource.com/article/22/4/our-favorite-git-commands)
 - [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/)
 - [Prevent the introduction of known vulnerabilities into your code](https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/)
 - [How Dependabot empowers you to keep your projects secure](https://github.blog/2022-04-06-how-dependabot-empowers-you-to-keep-your-projects-secure/)
 - [10 Git tips we can&#39;t live without](https://opensource.com/article/22/4/git-tips)
-- [Make your own Git subcommands](https://opensource.com/article/22/4/customize-git-subcommands)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
