@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peek inside your Git repo with rev-parse](https://opensource.com/article/22/4/git-repo-rev-parse)
+- [My guide to using the Git push command safely](https://opensource.com/article/22/4/git-push)
 - [Git Credential Manager: authentication for everyone](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/)
 - [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
 - [Happy anniversary, Git! Here are our favorite Git commands](https://opensource.com/article/22/4/our-favorite-git-commands)
-- [GitHub Availability Report: March 2022](https://github.blog/2022-04-06-github-availability-report-march-2022/)
-- [Prevent the introduction of known vulnerabilities into your code](https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
