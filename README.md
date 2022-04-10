@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New book teaches readers how to tell data stories with PostgreSQL](https://opensource.com/article/22/4/book-review-practical-sql-2nd-edition)
 - [Explaining Git branches with a LEGO analogy](https://opensource.com/article/22/4/git-branches)
 - [Release Radar · March 2022 Edition](https://github.blog/2022-04-08-release-radar-mar-2022/)
 - [Peek inside your Git repo with rev-parse](https://opensource.com/article/22/4/git-repo-rev-parse)
 - [My guide to using the Git push command safely](https://opensource.com/article/22/4/git-push)
-- [Git Credential Manager: authentication for everyone](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
