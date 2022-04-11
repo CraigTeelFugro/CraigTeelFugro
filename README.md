@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance at GitHub: deferring stats with rack.after_reply](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/)
 - [6 reasons this nonprofit chose Backdrop for its open source CMS](https://opensource.com/article/22/4/backdrop-cms)
 - [5 open source alternatives to Doodle polls](https://opensource.com/article/22/4/open-source-alternatives-doodle-polls)
 - [Automate checking for flaws in Python with Thoth](https://opensource.com/article/22/4/automate-security-checks-open-source-libraries-thoth)
 - [New book teaches readers how to tell data stories with PostgreSQL](https://opensource.com/article/22/4/book-review-practical-sql-2nd-edition)
-- [Explaining Git branches with a LEGO analogy](https://opensource.com/article/22/4/git-branches)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
