@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My favorite build options for Go](https://opensource.com/article/22/4/go-build-options)
+- [A guide to JVM parameters for Java developers](https://opensource.com/article/22/4/jvm-parameters-java-developers)
 - [How to join Apache Cassandra during Google Summer of Code](https://opensource.com/article/22/4/apache-cassandra-google-summer-code-program)
 - [5 open source tools for developing on the cloud](https://opensource.com/article/22/4/open-source-tools-developing-cloud)
 - [Git security vulnerability announced](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
-- [What’s new in GitHub Discussions: Organization Discussions, polls, and more](https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/)
-- [Try this open source alternative to Salesforce](https://opensource.com/article/22/4/civicrm-open-source-crm)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
