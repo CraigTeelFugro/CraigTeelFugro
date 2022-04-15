@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the C programming language has grown](https://opensource.com/article/22/3/how-c-programming-language-has-grown)
 - [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
 - [My favorite build options for Go](https://opensource.com/article/22/4/go-build-options)
 - [A guide to JVM parameters for Java developers](https://opensource.com/article/22/4/jvm-parameters-java-developers)
 - [How to join Apache Cassandra during Google Summer of Code](https://opensource.com/article/22/4/apache-cassandra-google-summer-code-program)
-- [5 open source tools for developing on the cloud](https://opensource.com/article/22/4/open-source-tools-developing-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
