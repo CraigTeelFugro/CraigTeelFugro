@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 open source tools for people with learning difficulties](https://opensource.com/article/22/4/open-source-tools-learning-difficulties)
+- [What Linux users and packagers need to know about Podman 4.0 on Fedora](https://opensource.com/article/22/4/fedora-podman-40)
 - [How I scan family photos on Linux](https://opensource.com/article/22/4/scan-family-photos-linux)
 - [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
 - [How the C programming language has grown](https://opensource.com/article/22/3/how-c-programming-language-has-grown)
-- [Dependabot alerts now surface if your code is calling a vulnerability](https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/)
-- [My favorite build options for Go](https://opensource.com/article/22/4/go-build-options)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
