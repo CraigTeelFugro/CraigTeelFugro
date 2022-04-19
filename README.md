@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 guides for developing applications on the cloud with Quarkus](https://opensource.com/article/22/4/developing-applications-cloud-quarkus)
 - [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/)
 - [3 open source tools for people with learning difficulties](https://opensource.com/article/22/4/open-source-tools-learning-difficulties)
 - [What Linux users and packagers need to know about Podman 4.0 on Fedora](https://opensource.com/article/22/4/fedora-podman-40)
 - [How I scan family photos on Linux](https://opensource.com/article/22/4/scan-family-photos-linux)
-- [Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
