@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 cheat sheets I can&#39;t live without](https://opensource.com/article/22/4/favorite-cheat-sheets)
 - [Get started with NetworkManager on Linux](https://opensource.com/article/22/4/networkmanager-linux)
 - [Sharing security expertise through CodeQL packs &lpar;Part I&rpar;](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/)
 - [7 guides for developing applications on the cloud with Quarkus](https://opensource.com/article/22/4/developing-applications-cloud-quarkus)
 - [Highlights from Git 2.36](https://github.blog/2022-04-18-highlights-from-git-2-36/)
-- [3 open source tools for people with learning difficulties](https://opensource.com/article/22/4/open-source-tools-learning-difficulties)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
