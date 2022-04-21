@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 open source tips to reduce waste in web design](https://opensource.com/article/22/4/zero-waste-web-design)
+- [Linux KDE receives first-ever eco-certification for Okular](https://opensource.com/article/22/4/linux-kde-eco-certification-okular)
+- [How Linux rescues slow computers &lpar;and the planet&rpar;](https://opensource.com/article/22/4/how-linux-saves-earth)
 - [Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/)
 - [Codespaces for multi-repository and monorepo scenarios](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/)
-- [4 cheat sheets I can&#39;t live without](https://opensource.com/article/22/4/favorite-cheat-sheets)
-- [Get started with NetworkManager on Linux](https://opensource.com/article/22/4/networkmanager-linux)
-- [Sharing security expertise through CodeQL packs &lpar;Part I&rpar;](https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
