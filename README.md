@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40th-birthday/)
+- [Keep your Exif metadata private with this open source tool](https://opensource.com/article/22/4/keep-exif-data-private-exifcleaner)
 - [Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/)
 - [5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/)
 - [3 things to know about Drupal in 2022](https://opensource.com/article/22/4/new-drupal-features-2022)
-- [Your guide to GitHub InFocus: Improving the way software development teams work in 2022](https://github.blog/2022-04-21-guide-to-github-infocus-2022/)
-- [Improving Git push times through faster server side hooks](https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
