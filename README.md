@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An open source developer&#39;s guide to systems programming](https://opensource.com/article/22/4/systems-programming)
+- [5 tips to avoid these common agile mistakes](https://opensource.com/article/22/4/agile-tips)
 - [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
 - [Create a blog post series with navigation in Jekyll](https://opensource.com/article/22/4/blog-series-navigation-jekyll)
 - [Why use Apache Druid for your open source analytics database](https://opensource.com/article/22/4/apache-druid-open-source-analytics)
-- [How I grew my product management career with open source](https://opensource.com/article/22/4/product-management-open-source)
-- [A practical guide to light and dark mode in Jekyll](https://opensource.com/article/22/4/light-dark-mode-jekyll)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
