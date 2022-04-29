@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/)
 - [An open source developer&#39;s guide to systems programming](https://opensource.com/article/22/4/systems-programming)
 - [5 tips to avoid these common agile mistakes](https://opensource.com/article/22/4/agile-tips)
 - [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
 - [Create a blog post series with navigation in Jekyll](https://opensource.com/article/22/4/blog-series-navigation-jekyll)
-- [Why use Apache Druid for your open source analytics database](https://opensource.com/article/22/4/apache-druid-open-source-analytics)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
