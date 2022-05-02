@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make community recognition more inclusive](https://opensource.com/article/22/5/inclusive-community-recognition)
+- [10 Argo CD best practices I follow](https://opensource.com/article/22/5/argo-cd-best-practices)
 - [Parsing data with strtok in C](https://opensource.com/article/22/4/parsing-data-strtok-c)
 - [Bringing code navigation to communities](https://github.blog/2022-04-29-bringing-code-navigation-to-communities/)
 - [An open source developer&#39;s guide to systems programming](https://opensource.com/article/22/4/systems-programming)
-- [5 tips to avoid these common agile mistakes](https://opensource.com/article/22/4/agile-tips)
-- [Best practices to keep your projects secure on GitHub](https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
