@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhanced 2FA experience for your npm account](https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/)
 - [6 easy ways to make your first open source contribution with LibreOffice](https://opensource.com/article/22/5/first-open-source-contribution-libreoffice)
 - [My open source journey with C from a neurodiverse perspective](https://opensource.com/article/22/5/my-journey-c-neurodiverse-perspective)
 - [How to &lpar;safely&rpar; read user input with the getline function](https://opensource.com/article/22/5/safely-read-user-input-getline)
 - [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
-- [Prepare for next semester with GitHub Global Campus and Codespaces](https://github.blog/2022-05-09-prepare-for-next-semester-with-github-global-campus-and-codespaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
