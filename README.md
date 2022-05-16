@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 benefits of switching from Google Analytics to Plausible](https://opensource.com/article/22/5/plausible-analytics)
+- [Use Composer to require Git repositories within PHP projects](https://opensource.com/article/22/5/composer-git-repositories)
 - [5 reasons to apply for B Corp certification](https://opensource.com/article/22/5/b-corp-open-source)
 - [When open source meets academic publishing: Platinum open access journals](https://opensource.com/article/22/5/platinum-open-access-academic-journals)
 - [How collaborative commons and open organization principles align](https://opensource.com/open-organization/22/5/zero-marginal-cost-collaborative-commons)
-- [Get started with Bareos, an open source client-server backup solution](https://opensource.com/article/22/5/bareos-open-source-client-server-backup-solution)
-- [5 reasons to use sudo on Linux](https://opensource.com/article/22/5/use-sudo-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
