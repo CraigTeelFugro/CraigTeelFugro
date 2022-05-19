@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use this open source screen reader on Windows](https://opensource.com/article/22/5/open-source-screen-reader-windows-nvda)
+- [Near zero marginal cost societies and the impact on why we work](https://opensource.com/open-organization/22/5/near-zero-marginal-cost-societies-and-impact-why-we-work)
 - [Securing and delivering high-quality code with innersource metrics](https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/)
 - [A guide to Pipy, a programmable network proxy for cloud](https://opensource.com/article/22/5/pipy-programmable-network-proxy-cloud)
 - [Travel off the grid and still send emails with putmail](https://opensource.com/article/22/5/send-email-putmail)
-- [4 ways you can preserve the Earth&#39;s livability with open source](https://opensource.com/article/22/5/preserve-earths-livability-open-source)
-- [How to measure innersource across your organization](https://github.blog/2022-05-16-how-to-measure-innersource-across-your-organization/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
