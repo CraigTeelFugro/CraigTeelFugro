@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrate databases to Kubernetes using Konveyor](https://opensource.com/article/22/5/migrating-databases-kubernetes-using-konveyor)
 - [Improve network performance with this open source framework](https://opensource.com/article/22/5/improve-network-performance-pbench)
 - [Improved REST API documentation](https://github.blog/2022-05-24-improved-rest-api-documentation/)
 - [12 essential Linux commands for beginners](https://opensource.com/article/22/5/essential-linux-commands)
 - [Build a Quarkus reactive application using Kubernetes Secrets](https://opensource.com/article/22/5/quarkus-kubernetes-secrets)
-- [GitHub Sponsors launches in India](https://github.blog/2022-05-23-github-sponsors-launches-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
