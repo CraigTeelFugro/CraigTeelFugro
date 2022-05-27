@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 practical tips for agile transformation](https://opensource.com/article/22/5/practical-tips-agile)
+- [Looking into the future of collaborative commons](https://opensource.com/open-organization/22/5/looking-future-collaborative-commons)
 - [npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
 - [Document your source code with Doxygen on Linux](https://opensource.com/article/22/5/document-source-code-doxygen-linux)
 - [Write C applications using Vely on Linux](https://opensource.com/article/22/5/write-c-appplications-vely-linux)
-- [How we use Dependabot to secure GitHub](https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/)
-- [Migrate databases to Kubernetes using Konveyor](https://opensource.com/article/22/5/migrating-databases-kubernetes-using-konveyor)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
