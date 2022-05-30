@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamically linking libraries while compiling code](https://opensource.com/article/22/5/compile-code-ldlibrarypath)
 - [How I automate plant care using Raspberry Pi and open source tools](https://opensource.com/article/22/5/plant-care)
 - [3 practical tips for agile transformation](https://opensource.com/article/22/5/practical-tips-agile)
 - [Looking into the future of collaborative commons](https://opensource.com/open-organization/22/5/looking-future-collaborative-commons)
 - [npm security update: Attack campaign using stolen OAuth tokens](https://github.blog/2022-05-26-npm-security-update-oauth-tokens/)
-- [Document your source code with Doxygen on Linux](https://opensource.com/article/22/5/document-source-code-doxygen-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
