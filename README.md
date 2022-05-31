@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top games + source code from Gamedev.js Jam 2022](https://github.blog/2022-05-31-top-games-source-code-from-gamedev-js-jam-2022/)
 - [How dynamic linking for modular libraries works on Linux](https://opensource.com/article/22/5/dynamic-linking-modular-libraries-linux)
 - [Dynamically linking libraries while compiling code](https://opensource.com/article/22/5/compile-code-ldlibrarypath)
 - [How I automate plant care using Raspberry Pi and open source tools](https://opensource.com/article/22/5/plant-care)
 - [3 practical tips for agile transformation](https://opensource.com/article/22/5/practical-tips-agile)
-- [Looking into the future of collaborative commons](https://opensource.com/open-organization/22/5/looking-future-collaborative-commons)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
