@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Maintainer Month! 🎉](https://github.blog/2022-06-01-welcome-to-maintainer-month/)
 - [GitHub Availability Report: May 2022](https://github.blog/2022-06-01-github-availability-report-may-2022/)
 - [Connecting to a private network from GitHub-hosted Actions runners](https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/)
 - [GitHub Sponsors launches in Brazil](https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/)
 - [A visual guide to Kubernetes networking fundamentals](https://opensource.com/article/22/6/kubernetes-networking-fundamentals)
-- [Linux desktops: KDE vs GNOME](https://opensource.com/article/22/6/kde-vs-gnome-linux-desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
