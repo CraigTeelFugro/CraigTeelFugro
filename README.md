@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Linux word processors you need to try](https://opensource.com/article/22/6/word-processors-linux)
+- [A Drupal developer&#39;s guide to Progressive Web Apps](https://opensource.com/article/22/6/drupal-pwa)
 - [Attract contributors to your open source project with authenticity](https://opensource.com/article/22/6/attract-contributors-open-source-project)
 - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/)
-- [How static linking works on Linux](https://opensource.com/article/22/6/static-linking-linux)
-- [What’s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
