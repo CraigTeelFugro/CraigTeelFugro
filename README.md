@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I gave my old laptop new life with the Linux Xfce desktop](https://opensource.com/article/22/6/linux-xfce-old-laptop)
+- [Using Ansible to automate software installation on my Mac](https://opensource.com/article/22/6/install-software-macos-ansible-homebrew)
 - [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/)
 - [How Garbage Collection works inside a Java Virtual Machine](https://opensource.com/article/22/6/garbage-collection-java-virtual-machine)
 - [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/)
-- [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
-- [6 Linux word processors you need to try](https://opensource.com/article/22/6/word-processors-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
