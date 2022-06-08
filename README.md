@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
+- [Start your open source journey with Community Exchange](https://github.blog/2022-06-08-start-your-open-source-journey-with-community-exchange/)
 - [How I gave my old laptop new life with the Linux Xfce desktop](https://opensource.com/article/22/6/linux-xfce-old-laptop)
 - [Using Ansible to automate software installation on my Mac](https://opensource.com/article/22/6/install-software-macos-ansible-homebrew)
 - [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/)
-- [How Garbage Collection works inside a Java Virtual Machine](https://opensource.com/article/22/6/garbage-collection-java-virtual-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
