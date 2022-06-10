@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
 - [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
 - [Handling maps in Groovy vs Java](https://opensource.com/article/22/6/maps-groovy-vs-java)
 - [Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/)
 - [Introducing Entitlements: GitHub’s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/)
-- [Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
