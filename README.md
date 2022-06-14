@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/)
 - [Building the metaverse with open source](https://opensource.com/article/22/6/open-source-metaverse)
 - [Share your Linux terminal with tmate](https://opensource.com/article/22/6/share-linux-terminal-tmate)
 - [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/)
 - [Use Terraform to manage TrueNAS](https://opensource.com/article/22/6/terraform-truenas)
-- [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
