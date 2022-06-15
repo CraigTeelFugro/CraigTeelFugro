@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I use LibreOffice keyboard shortcuts](https://opensource.com/article/22/6/libreoffice-keyboard-shortcuts)
+- [A beginner&#39;s guide to cloud-native open source communities](https://opensource.com/article/22/6/cloud-native-open-source-communities)
 - [Accelerating GitHub theme creation with color tooling](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
 - [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/)
 - [Building the metaverse with open source](https://opensource.com/article/22/6/open-source-metaverse)
-- [Share your Linux terminal with tmate](https://opensource.com/article/22/6/share-linux-terminal-tmate)
-- [Open Source Monthly: June 2022 Edition](https://github.blog/2022-06-13-open-source-monthly-june-2022-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
