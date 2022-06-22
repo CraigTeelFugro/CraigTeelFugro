@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in Codespaces for Organizations](https://github.blog/2022-06-22-whats-new-in-codespaces-for-organizations/)
 - [Manage your Rust toolchain using rustup](https://opensource.com/article/22/6/rust-toolchain-rustup)
 - [A site reliability engineer&#39;s guide to change management](https://opensource.com/article/22/6/change-management-site-reliability-engineers)
 - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 - [How SREs can achieve effective incident response](https://opensource.com/article/22/6/effective-incident-response-site-reliability-engineers)
-- [7 summer book recommendations from open source enthusiasts](https://opensource.com/article/22/6/2022-opensourcecom-summer-reading-list)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
