@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manage your Rust toolchain using rustup](https://opensource.com/article/22/6/rust-toolchain-rustup)
+- [A site reliability engineer&#39;s guide to change management](https://opensource.com/article/22/6/change-management-site-reliability-engineers)
 - [GitHub Copilot is generally available to all developers](https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/)
 - [How SREs can achieve effective incident response](https://opensource.com/article/22/6/effective-incident-response-site-reliability-engineers)
 - [7 summer book recommendations from open source enthusiasts](https://opensource.com/article/22/6/2022-opensourcecom-summer-reading-list)
-- [GitHub enables the development of functional safety applications by adding support for coding standards AUTOSAR C++  and CERT C++](https://github.blog/2022-06-20-adding-support-for-coding-standards-autosar-c-and-cert-c/)
-- [How I use the attr command with my Linux filesystem](https://opensource.com/article/22/6/linux-attr-command)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
