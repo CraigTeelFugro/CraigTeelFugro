@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make a temporary file on Linux with Bash](https://opensource.com/article/22/6/make-temporary-file-bash)
+- [What is distributed consensus for site reliability engineering?](https://opensource.com/article/22/6/distributed-consensus-site-reliability-engineering)
 - [An open source project that opens the internet for all](https://opensource.com/article/22/6/equalify-open-internet-accessibility)
 - [Free RPG Day: Create maps for your Dungeons &amp; Dragons game with Mipui](https://opensource.com/article/22/6/create-maps-dd-game-mipui-free-rpg-day)
 - [Thank you to our maintainers](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)
-- [How I sketchnote with open source tools](https://opensource.com/article/22/6/open-source-sketchnotes)
-- [Create a more diverse and equitable open source project with open standards](https://opensource.com/article/22/6/open-source-standards-diversity)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
