@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving Git protocol security on GitHub Enterprise Server](https://github.blog/2022-06-28-improving-git-protocol-security-on-github-enterprise-server/)
 - [Linux su vs sudo: what&#39;s the difference?](https://opensource.com/article/22/6/linux-su-vs-sudo-sysadmin)
 - [Why organizations need site reliability engineers](https://opensource.com/article/22/6/benefits-sre-site-reliability-engineering)
 - [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
 - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
-- [Make a temporary file on Linux with Bash](https://opensource.com/article/22/6/make-temporary-file-bash)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
