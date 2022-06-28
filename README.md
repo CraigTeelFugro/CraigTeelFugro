@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux su vs sudo: what&#39;s the difference?](https://opensource.com/article/22/6/linux-su-vs-sudo-sysadmin)
+- [Why organizations need site reliability engineers](https://opensource.com/article/22/6/benefits-sre-site-reliability-engineering)
 - [GitHub Advisory Database now supports Erlang and Elixir packages!](https://github.blog/2022-06-27-github-advisory-database-now-supports-erlang-and-elixir-packages/)
 - [Highlights from Git 2.37](https://github.blog/2022-06-27-highlights-from-git-2-37/)
 - [Make a temporary file on Linux with Bash](https://opensource.com/article/22/6/make-temporary-file-bash)
-- [What is distributed consensus for site reliability engineering?](https://opensource.com/article/22/6/distributed-consensus-site-reliability-engineering)
-- [An open source project that opens the internet for all](https://opensource.com/article/22/6/equalify-open-internet-accessibility)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
