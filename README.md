@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I switched from Apple Music to Jellyfin and Raspberry Pi](https://opensource.com/article/22/7/media-library-jellyfin-raspberry-pi)
 - [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
 - [What to do when your open source project becomes a community?](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/)
 - [Announcing the summer 2022 MLH Fellowship GitHub Contributors](https://github.blog/2022-06-30-announcing-the-summer-2022-mlh-fellowship-github-contributors/)
 - [Package a new Python module in 4 steps](https://opensource.com/article/22/6/package-python-module-rpm)
-- [The Chromium super &lpar;inline cache&rpar; type confusion](https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
