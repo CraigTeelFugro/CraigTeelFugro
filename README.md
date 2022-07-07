@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/)
 - [Check disk usage in Linux](https://opensource.com/article/22/7/check-disk-usage-linux)
 - [Use secret keyboard keys on Linux](https://opensource.com/article/22/7/linux-compose-key-cheat-sheet)
 - [GitHub Availability Report: June 2022](https://github.blog/2022-07-06-github-availability-report-june-2022/)
 - [Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/)
-- [3 steps to create an awesome UX in a CLI application](https://opensource.com/article/22/7/awesome-ux-cli-application)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
