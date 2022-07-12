@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenWrt, an open source alternative to firmware for home routers](https://opensource.com/article/22/7/openwrt-open-source-firmware)
+- [7 kinds of garbage collection for Java](https://opensource.com/article/22/7/garbage-collection-java)
 - [An open conversation about open societies](https://opensource.com/open-organization/22/7/interview-johan-norberg-video)
 - [Why Agile coaches need internal cooperation](https://opensource.com/article/22/7/agile-coach-internal-cooperation)
 - [Meet Free Software Foundation Executive Director Zoë Kooyman](https://opensource.com/article/22/7/meet-fsf-executive-director-zoe-kooyman)
-- [Top tips for creating a healthy and sustainable open source community](https://github.blog/2022-07-07-healthy-and-sustainable-communities/)
-- [Check disk usage in Linux](https://opensource.com/article/22/7/check-disk-usage-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
