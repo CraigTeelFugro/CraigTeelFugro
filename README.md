@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
 - [How one European bank embraces open source](https://opensource.com/article/22/7/european-bank-open-source)
 - [5 ways to learn C programming on Linux](https://opensource.com/article/22/7/learn-c-linux)
 - [A guide to productivity management in open source projects](https://opensource.com/article/22/7/productivity-management-open-source-projects)
 - [How I create music playlists on Linux](https://opensource.com/article/22/7/c-linux-mp3)
-- [OpenWrt, an open source alternative to firmware for home routers](https://opensource.com/article/22/7/openwrt-open-source-firmware)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
