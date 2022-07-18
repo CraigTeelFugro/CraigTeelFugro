@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Monthly: July 2022 Edition](https://github.blog/2022-07-18-open-source-monthly-july-2022-edition/)
 - [How I configure a DHCP server on my personal network](https://opensource.com/article/22/7/configure-dhcp-server)
 - [Create a JavaScript API in 6 minutes](https://opensource.com/article/22/7/javascript-api-express)
 - [Monitor your Linux firewall with nftwatch](https://opensource.com/article/22/7/nftwatch-linux-firewall)
 - [Listen to music on Linux with Rhythmbox](https://opensource.com/article/22/7/listen-music-rhythmbox-linux)
-- [3 open source GUI disk usage analyzers for Linux](https://opensource.com/article/22/7/gui-disk-usage-analyzers-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
