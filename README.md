@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I configure a DHCP server on my personal network](https://opensource.com/article/22/7/configure-dhcp-server)
+- [Create a JavaScript API in 6 minutes](https://opensource.com/article/22/7/javascript-api-express)
+- [Monitor your Linux firewall with nftwatch](https://opensource.com/article/22/7/nftwatch-linux-firewall)
 - [Listen to music on Linux with Rhythmbox](https://opensource.com/article/22/7/listen-music-rhythmbox-linux)
 - [3 open source GUI disk usage analyzers for Linux](https://opensource.com/article/22/7/gui-disk-usage-analyzers-linux)
-- [Research: How GitHub Copilot helps improve developer productivity](https://github.blog/2022-07-14-research-how-github-copilot-helps-improve-developer-productivity/)
-- [How one European bank embraces open source](https://opensource.com/article/22/7/european-bank-open-source)
-- [5 ways to learn C programming on Linux](https://opensource.com/article/22/7/learn-c-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
