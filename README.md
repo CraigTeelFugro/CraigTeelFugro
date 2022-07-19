@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Turn your Python script into a command-line application](https://opensource.com/article/22/7/bootstrap-python-command-line-application)
+- [Code your first React UI app](https://opensource.com/article/22/7/code-first-react-app)
+- [Event-driven architecture explained in a coloring book](https://opensource.com/article/22/7/event-driven-architecture-coloring-book)
 - [Open Source Monthly: July 2022 Edition](https://github.blog/2022-07-18-open-source-monthly-july-2022-edition/)
 - [How I configure a DHCP server on my personal network](https://opensource.com/article/22/7/configure-dhcp-server)
-- [Create a JavaScript API in 6 minutes](https://opensource.com/article/22/7/javascript-api-express)
-- [Monitor your Linux firewall with nftwatch](https://opensource.com/article/22/7/nftwatch-linux-firewall)
-- [Listen to music on Linux with Rhythmbox](https://opensource.com/article/22/7/listen-music-rhythmbox-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
