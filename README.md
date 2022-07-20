@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how academic research is shaping GitHub Discussions](https://github.blog/2022-07-20-heres-how-academic-research-is-shaping-github-discussions/)
 - [Put Design Thinking into practice with the Open Practice Library](https://opensource.com/article/22/7/design-thinking-open-practice-library)
 - [How much JavaScript do you need to know before learning ReactJS?](https://opensource.com/article/22/7/learn-javascript-before-reactjs)
 - [6 strategic ways to level up your CI/CD pipeline](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/)
 - [Turn your Python script into a command-line application](https://opensource.com/article/22/7/bootstrap-python-command-line-application)
-- [Code your first React UI app](https://opensource.com/article/22/7/code-first-react-app)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
