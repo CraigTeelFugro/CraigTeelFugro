@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [How movie posters inspire engagement on our open source team](https://opensource.com/article/22/7/design-thinking-engagement-movie-poster)
 - [Create conditional pipelines with CEL](https://opensource.com/article/22/7/conditional-tekton-pipelines-cel)
-- [Tips &amp; tricks for using GitHub projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/)
+- [Tips &amp; tricks for using GitHub Projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/)
 - [How I use the Linux fmt command to format text](https://opensource.com/article/22/7/fmt-trivial-text-formatter)
 - [Build Design Thinking into your team processes](https://opensource.com/article/22/7/design-thinking-process)
 <!-- BLOG-POST-LIST:END -->
