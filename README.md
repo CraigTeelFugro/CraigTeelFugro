@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planning next to your code – GitHub Projects is now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
 - [How I manage files from the Linux command line](https://opensource.com/article/22/7/manage-files-linux-command-line)
 - [My honest review of the HP Dev One](https://opensource.com/article/22/7/hp-dev-one-review)
 - [Launching GitHub Community: Powered by GitHub Discussions](https://github.blog/2022-07-26-launching-github-community-powered-by-github-discussions/)
 - [Introducing even more security enhancements to npm](https://github.blog/2022-07-26-introducing-even-more-security-enhancements-to-npm/)
-- [How I use Bash to automate tasks on Linux](https://opensource.com/article/22/7/use-bash-automate-tasks-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
