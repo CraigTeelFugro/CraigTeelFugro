@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use this nifty Unix tool to process text on Linux](https://opensource.com/article/22/7/process-text-linux-pr)
 - [Release Radar · June 2022 Edition](https://github.blog/2022-07-27-release-radar-jun-2022/)
 - [Corrupting memory without memory corruption](https://github.blog/2022-07-27-corrupting-memory-without-memory-corruption/)
 - [Planning next to your code – GitHub Projects is now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
 - [How I manage files from the Linux command line](https://opensource.com/article/22/7/manage-files-linux-command-line)
-- [My honest review of the HP Dev One](https://opensource.com/article/22/7/hp-dev-one-review)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
