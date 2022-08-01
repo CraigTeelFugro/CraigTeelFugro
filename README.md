@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I disabled IPv6 on Linux](https://opensource.com/article/22/8/disable-ipv6)
+- [Why program management matters in open source](https://opensource.com/article/22/8/why-program-management-matters-open-source)
 - [Learn Rust by debugging Rust](https://opensource.com/article/22/7/learn-rust-rustlings)
 - [Fix bugs in Bash scripts by printing a stack trace](https://opensource.com/article/22/7/print-stack-trace-bash-scripts)
 - [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/)
-- [GitHub Sponsors available in 30 new regions](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/)
-- [Use this nifty Unix tool to process text on Linux](https://opensource.com/article/22/7/process-text-linux-pr)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
