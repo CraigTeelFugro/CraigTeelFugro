@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 simple things you can do with GitHub Packages to level up your workflows](https://github.blog/2022-08-02-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/)
 - [Streamline virtual hackathon events with the new Hackathon in the Cloud Experience](https://github.blog/2022-08-02-streamline-virtual-hackathon-events-with-the-new-hackathon-in-the-cloud-experience/)
 - [How I use the Linux sed command to automate file edits](https://opensource.com/article/22/8/automate-file-edits-sed-linux)
 - [How I disabled IPv6 on Linux](https://opensource.com/article/22/8/disable-ipv6)
 - [Why program management matters in open source](https://opensource.com/article/22/8/why-program-management-matters-open-source)
+- [Learn Rust by debugging Rust](https://opensource.com/article/22/7/learn-rust-rustlings)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
