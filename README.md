@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix file permission errors on Linux](https://opensource.com/article/22/8/fix-file-permission-errors-linux)
+- [How open organizations can harness energy disruptions](https://opensource.com/open-organization/22/8/energy-disruption)
 - [Why we chose the Clojure programming language for Penpot](https://opensource.com/article/22/7/why-we-chose-clojure-penpot)
 - [Old-school technical writing with groff](https://opensource.com/article/22/8/old-school-technical-writing-groff)
 - [Release Radar · July 2022 Edition](https://github.blog/2022-08-05-release-radar-jul-2022/)
-- [Scalable storage for the masses to debut in ownCloud Infinite Scale](https://opensource.com/article/22/8/scalable-storage-masses-ownclouds-ocis)
-- [Delete the local reference to a remote branch in Git](https://opensource.com/article/22/8/delete-local-reference-remote-branch-git)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
