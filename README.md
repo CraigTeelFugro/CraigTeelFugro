@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing solar power to traditional power generation the open way](https://opensource.com/open-organization/22/8/solar-power-vs-traditional-power)
+- [A gentle introduction to HTML](https://opensource.com/article/22/8/gentle-introduction-html)
 - [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
 - [Our favorite Linux replacements for antiquated open source tools](https://opensource.com/article/22/8/replace-antiquated-linux-tools)
 - [Create beautiful PDFs in LaTeX](https://opensource.com/article/22/8/pdf-latex)
-- [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
-- [A guide to JVM interpretation and compilation](https://opensource.com/article/22/8/interpret-compile-java)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
