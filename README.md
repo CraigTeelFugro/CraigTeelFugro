@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Try Asciidoc instead of Markdown](https://opensource.com/article/22/8/drop-markdown-asciidoc)
+- [How ODT files are structured](https://opensource.com/article/22/8/odt-files)
 - [Level up your HTML document with CSS](https://opensource.com/article/22/8/css-html-project-documentation)
 - [Writing project documentation in HTML](https://opensource.com/article/22/8/writing-project-documentation-html)
 - [How I get students excited about math with Python and Raspberry Pi](https://opensource.com/article/22/8/math-python-raspberry-pi)
-- [Comparing solar power to traditional power generation the open way](https://opensource.com/open-organization/22/8/solar-power-vs-traditional-power)
-- [A gentle introduction to HTML](https://opensource.com/article/22/8/gentle-introduction-html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
