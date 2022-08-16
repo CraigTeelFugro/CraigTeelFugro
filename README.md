@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/)
 - [My practical advice for new programmers](https://opensource.com/article/22/8/coding-advice-new-programmers)
 - [A look inside an EPUB file](https://opensource.com/article/22/8/epub-file)
 - [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/)
 - [Try Asciidoc instead of Markdown](https://opensource.com/article/22/8/drop-markdown-asciidoc)
-- [How ODT files are structured](https://opensource.com/article/22/8/odt-files)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
