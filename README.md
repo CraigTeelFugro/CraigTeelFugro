@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy birthday, Linux! Here are 6 Linux origin stories](https://opensource.com/article/22/8/linux-birthday-origin-stories)
 - [Using eBPF for network observability in the cloud](https://opensource.com/article/22/8/ebpf-network-observability-cloud)
 - [7 sudo myths debunked](https://opensource.com/article/22/8/debunk-sudo-myths)
 - [Your guide to DistSQL&#39;s cluster governance capability](https://opensource.com/article/22/8/your-guide-distsqls-cluster-governance-capability)
 - [The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/)
-- [How I migrated to NetworkManager keyfiles for configuration](https://opensource.com/article/22/8/migrate-networkmanager-keyfiles-configuration)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
