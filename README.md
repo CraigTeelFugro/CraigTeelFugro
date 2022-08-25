@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/)
 - [Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
 - [Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/)
 - [Happy birthday, Linux! Here are 6 Linux origin stories](https://opensource.com/article/22/8/linux-birthday-origin-stories)
 - [Using eBPF for network observability in the cloud](https://opensource.com/article/22/8/ebpf-network-observability-cloud)
-- [7 sudo myths debunked](https://opensource.com/article/22/8/debunk-sudo-myths)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
