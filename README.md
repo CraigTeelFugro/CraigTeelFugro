@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 ways every company can get started with an open-source software strategy](https://github.blog/2022-08-26-3-ways-every-company-can-get-started-with-an-open-source-software-strategy/)
 - [How I analyze my music directory with Groovy](https://opensource.com/article/22/8/groovy-script-java-music)
 - [My open source journey from user to contributor to CTO](https://opensource.com/article/22/8/my-open-source-career-story)
 - [Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/)
 - [Introducing Trilogy: a new database adapter for Ruby on Rails](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
-- [Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
