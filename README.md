@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git’s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 - [Clean up unwanted files in your music directory using Groovy](https://opensource.com/article/22/8/remove-files-music-directory-groovy)
 - [4 ways to use the Linux tar command](https://opensource.com/article/22/8/linux-tar-command)
 - [How I use Groovy to analyze album art in my music directory](https://opensource.com/article/22/8/groovy-album-music-directory)
 - [My favorite open source library for analyzing music files](https://opensource.com/article/22/8/analyze-music-files-jaudiotagger)
-- [3 ways every company can get started with an open-source software strategy](https://github.blog/2022-08-26-3-ways-every-company-can-get-started-with-an-open-source-software-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
