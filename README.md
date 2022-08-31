@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git’s Database Internals III: File History Queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
 - [Make your own music tagging framework with Groovy](https://opensource.com/article/22/8/music-tagging-framework-groovy)
 - [How we track the community health of our open source project](https://opensource.com/article/22/8/open-source-community-health-metrics-savannah)
 - [Git’s database internals II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/)
 - [Clean up music tags with a Groovy script](https://opensource.com/article/22/8/groovy-script-music-tags)
-- [Share screens on Linux with GNOME Connections](https://opensource.com/article/22/8/share-screens-linux-gnome-connections)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
