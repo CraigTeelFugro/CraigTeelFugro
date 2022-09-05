@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saving home energy using open organization principles](https://opensource.com/open-organization/22/9/saving-home-energy-open-organization-principles)
+- [3 things to know about planning for OTA updates in your homelab](https://opensource.com/article/22/9/plan-ota-updates-edge)
 - [Infuse your awk scripts with Groovy](https://opensource.com/article/22/9/awk-groovy)
 - [Release Radar · August 2022 Edition](https://github.blog/2022-09-02-release-radar-aug-2022/)
 - [Git’s database internals V: scalability](https://github.blog/2022-09-02-gits-database-internals-v-scalability/)
-- [How to display the presence and absence of nth-highest group-wise values in SQL](https://opensource.com/article/22/9/nth-highest-values-sql)
-- [GitHub Actions: introducing the new, larger GitHub-hosted runners beta](https://github.blog/2022-09-01-github-actions-introducing-the-new-larger-github-hosted-runners-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
