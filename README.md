@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source events: 4 goals to set and how to measure them](https://opensource.com/article/22/9/measure-success-your-open-source-event)
 - [Join us for OctogatosConf 2022](https://github.blog/2022-09-06-join-us-for-octogatosconf-2022/)
 - [Contributing to open source at GitHub](https://github.blog/2022-09-06-contributing-to-open-source-at-github/)
 - [Applying open organization principles to save factory energy](https://opensource.com/open-organization/22/9/saving-factory-energy-open-organization-principles)
 - [A beginner&#39;s guide to making a dark theme for a website](https://opensource.com/article/22/9/dark-theme-website)
-- [Saving home energy using open organization principles](https://opensource.com/open-organization/22/9/saving-home-energy-open-organization-principles)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
