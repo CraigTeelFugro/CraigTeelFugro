@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Research: open source software in India, Kenya, Egypt, and Mexico](https://github.blog/2022-09-08-research-open-source-software-in-india-kenya-egypt-and-mexico/)
+- [How to use modern Python packaging and setuptools plugins together](https://opensource.com/article/22/9/modern-python-packaging-setuptools-plugins)
 - [GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/)
 - [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [Open source events: 4 goals to set and how to measure them](https://opensource.com/article/22/9/measure-success-your-open-source-event)
-- [Join us for OctogatosConf 2022](https://github.blog/2022-09-06-join-us-for-octogatosconf-2022/)
-- [Contributing to open source at GitHub](https://github.blog/2022-09-06-contributing-to-open-source-at-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
