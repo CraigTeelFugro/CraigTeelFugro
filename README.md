@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source matters in data analytics: Here&#39;s why](https://opensource.com/article/22/9/open-source-data-analytics)
 - [GitHub Copilot now available for teachers](https://github.blog/2022-09-08-github-copilot-now-available-for-teachers/)
 - [Research: open source software in India, Kenya, Egypt, and Mexico](https://github.blog/2022-09-08-research-open-source-software-in-india-kenya-egypt-and-mexico/)
 - [How to use modern Python packaging and setuptools plugins together](https://opensource.com/article/22/9/modern-python-packaging-setuptools-plugins)
 - [GitHub Availability Report: August 2022](https://github.blog/2022-09-07-github-availability-report-august-2022/)
-- [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
