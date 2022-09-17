@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is OpenRAN?](https://opensource.com/article/22/9/open-radio-access-networks)
 - [How we tripled max concurrent jobs to boost performance of GitHub Actions](https://github.blog/2022-09-16-how-we-tripled-max-concurrent-jobs-to-boost-performance-of-github-actions/)
 - [Fix the apt-key deprecation error in Linux](https://opensource.com/article/22/9/deprecated-linux-apt-key)
 - [24 of our favorite articles in a downloadable eBook](https://opensource.com/article/22/9/opensource-yearbook-2022)
 - [How I switched from Docker Desktop to Colima](https://opensource.com/article/22/9/docker-desktop-colima)
-- [8 things you didn’t know you could do with GitHub Copilot](https://github.blog/2022-09-14-8-things-you-didnt-know-you-could-do-with-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
