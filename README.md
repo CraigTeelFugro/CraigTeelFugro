@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a dynamic distributed database with DistSQL](https://opensource.com/article/22/9/dynamic-distributed-database-distsql)
+- [Install JDBC on Linux in 3 steps](https://opensource.com/article/22/9/install-jdbc-linux)
 - [GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available/)
 - [5 Git configurations I make on Linux](https://opensource.com/article/22/9/git-configuration-linux)
 - [Security alert: new phishing campaign targets GitHub users](https://github.blog/2022-09-21-security-alert-new-phishing-campaign-targets-github-users/)
-- [Applications for micro-mentoring at GitHub Universe 2022 are now live](https://github.blog/2022-09-21-applications-for-micro-mentoring-at-github-universe-2022-are-now-live/)
-- [The ReadME Project: Built for you!](https://github.blog/2022-09-21-the-readme-project-built-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
