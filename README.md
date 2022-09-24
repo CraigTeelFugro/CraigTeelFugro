@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drop your database for PostgreSQL](https://opensource.com/article/22/9/drop-your-database-for-postgresql)
 - [Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-23-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/)
 - [How to build a dynamic distributed database with DistSQL](https://opensource.com/article/22/9/dynamic-distributed-database-distsql)
 - [Install JDBC on Linux in 3 steps](https://opensource.com/article/22/9/install-jdbc-linux)
 - [GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available/)
-- [5 Git configurations I make on Linux](https://opensource.com/article/22/9/git-configuration-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
