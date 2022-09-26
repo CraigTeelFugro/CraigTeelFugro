@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSSF: on a mission to improve security of open source software](https://opensource.com/article/22/9/openssf-open-source-software-security)
+- [The story behind Joplin, the open source note-taking app](https://opensource.com/article/22/9/joplin-interview)
 - [Drop your database for PostgreSQL](https://opensource.com/article/22/9/drop-your-database-for-postgresql)
 - [Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-23-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/)
 - [How to build a dynamic distributed database with DistSQL](https://opensource.com/article/22/9/dynamic-distributed-database-distsql)
-- [Install JDBC on Linux in 3 steps](https://opensource.com/article/22/9/install-jdbc-linux)
-- [GitHub for Startups is generally available](https://github.blog/2022-09-22-github-for-startups-is-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
