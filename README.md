@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an open source project using this essential advice](https://opensource.com/article/22/9/build-open-source-project)
 - [165+ JavaScript terms you need to know](https://opensource.com/article/22/9/javascript-glossary)
 - [Get change alerts from any website with this open source tool](https://opensource.com/article/22/9/changedetection-io-open-source-website-changes)
 - [OpenSSF: on a mission to improve security of open source software](https://opensource.com/article/22/9/openssf-open-source-software-security)
 - [The story behind Joplin, the open source note-taking app](https://opensource.com/article/22/9/joplin-interview)
-- [Drop your database for PostgreSQL](https://opensource.com/article/22/9/drop-your-database-for-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
