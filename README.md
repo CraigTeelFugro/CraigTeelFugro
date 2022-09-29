@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After the offer: staying in tech long-term](https://github.blog/2022-09-29-after-the-offer-staying-in-tech-long-term/)
 - [How Podman packaging works on Linux](https://opensource.com/article/22/9/podman-packages-linux)
 - [Best practices on rolling out code scanning at enterprise scale](https://github.blog/2022-09-28-best-practices-on-rolling-out-code-scanning-at-enterprise-scale/)
 - [Build an open source project using this essential advice](https://opensource.com/article/22/9/build-open-source-project)
 - [165+ JavaScript terms you need to know](https://opensource.com/article/22/9/javascript-glossary)
-- [Get change alerts from any website with this open source tool](https://opensource.com/article/22/9/changedetection-io-open-source-website-changes)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
