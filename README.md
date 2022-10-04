@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn the OSI model in 5 minutes](https://opensource.com/article/22/10/osi-model-network-communications)
+- [5 new improvements in Apache ShardingSphere](https://opensource.com/article/22/9/improvements-apache-shardingsphere)
 - [Highlights from Git 2.38](https://github.blog/2022-10-03-highlights-from-git-2-38/)
 - [Is your old computer &#39;obsolete&#39;, or is it a Linux opportunity?](https://opensource.com/article/22/10/obsolete-computer-linux-opportunity)
 - [What&#39;s new with Awk?](https://opensource.com/article/22/10/whats-new-awk)
-- [How I dock my Linux laptop](https://opensource.com/article/22/9/docking-linux-laptop)
-- [GitHub supports internet freedom and global availability in Iran](https://github.blog/2022-09-29-github-supports-internet-freedom-and-global-availability-in-iran/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
