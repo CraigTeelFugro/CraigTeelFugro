@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detect secrets in your code more accurately with dry runs for custom patterns now available in GitHub Advanced Security](https://github.blog/2022-10-05-detect-secrets-in-your-code-more-accurately-with-dry-runs-for-custom-patterns/)
 - [GitHub Availability Report: September 2022](https://github.blog/2022-10-05-github-availability-report-september-2022/)
 - [Working on a creative project? Unleash your originality and start to tinker with the Aspiring Creatives Experience](https://github.blog/2022-10-05-working-on-a-creative-project-unleash-your-originality-and-start-to-tinker-with-the-aspiring-creatives-experience/)
 - [Two ways you can experience GitHub Universe](https://github.blog/2022-10-05-two-ways-you-can-experience-github-universe/)
 - [Use OCI containers to run WebAssembly workloads](https://opensource.com/article/22/10/wasm-containers)
-- [Expand your open source contributions during Hacktoberfest 2022](https://github.blog/2022-10-04-expand-your-open-source-contributions-during-hacktoberfest-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
