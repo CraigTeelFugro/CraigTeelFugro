@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What you need to know about compiling code](https://opensource.com/article/22/10/compiling-code)
+- [Asynchronous programming in Rust](https://opensource.com/article/22/10/asynchronous-programming-rust)
 - [Deploy applications using Foreman ACD](https://opensource.com/article/22/10/deploy-applications-foreman-acd)
 - [The GitHub Universe 2022 agenda is live](https://github.blog/2022-10-11-the-github-universe-2022-agenda-is-live/)
 - [View GitHub code scanning findings directly in VS Code and GitHub Codespaces](https://github.blog/2022-10-11-view-github-code-scanning-findings-directly-in-vs-code-and-github-codespaces/)
-- [On the go with GitHub Projects on GitHub Mobile &lpar;public beta&rpar;](https://github.blog/2022-10-11-on-the-go-with-github-projects-on-github-mobile-public-beta/)
-- [Happy Ada Lovelace Day! Here are our favorite tech books for kids](https://opensource.com/article/22/10/ada-lovelace-day-tech-books-kids)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
