@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in GNOME 43?](https://opensource.com/article/22/10/whats-new-gnome-43-linux)
 - [OSI’s Deep Dive is an essential discussion on the future of AI and open source](https://github.blog/2022-10-14-osis-deep-dive-is-an-essential-discussion-on-the-future-of-ai-and-open-source/)
 - [Can Kubernetes help solve automation challenges?](https://opensource.com/article/22/10/kubernetes-solve-automation-challenges)
 - [Introducing GitHub Advanced Security SIEM integrations for security professionals](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/)
 - [The Story of Scalar](https://github.blog/2022-10-13-the-story-of-scalar/)
-- [What you need to know about compiling code](https://opensource.com/article/22/10/compiling-code)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
