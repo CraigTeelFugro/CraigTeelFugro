@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring innovative Open Organization charts](https://opensource.com/article/22/10/innovative-open-organization-chart)
 - [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
 - [5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/)
 - [Open source DevOps tools in a platform future](https://opensource.com/article/22/10/open-source-devops-tools)
 - [Why you should consider Rexx for scripting](https://opensource.com/article/22/10/rexx-scripting-language)
-- [What’s new in GNOME 43?](https://opensource.com/article/22/10/whats-new-gnome-43-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
