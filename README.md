@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git security vulnerabilities announced](https://github.blog/2022-10-18-git-security-vulnerabilities-announced/)
 - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 - [Exploring innovative Open Organization charts](https://opensource.com/article/22/10/innovative-open-organization-chart)
-- [Git security vulnerabilities announced](https://github.blog/2022-10-17-git-security-vulnerabilities-announced/)
 - [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
 - [5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/)
 <!-- BLOG-POST-LIST:END -->
