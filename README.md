@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our open source startup journey](https://opensource.com/article/22/10/tooljet-open-source-journey)
+- [How to contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
 - [Git security vulnerabilities announced](https://github.blog/2022-10-18-git-security-vulnerabilities-announced/)
 - [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 - [Exploring innovative Open Organization charts](https://opensource.com/article/22/10/innovative-open-organization-chart)
-- [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
-- [5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
