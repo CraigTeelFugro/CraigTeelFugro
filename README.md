@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 open source editors I use for my writing](https://opensource.com/article/22/10/open-source-editors)
+- [Test your IoT platform with open source tools](https://opensource.com/article/22/10/iot-test-jmeter)
 - [Our open source startup journey](https://opensource.com/article/22/10/tooljet-open-source-journey)
 - [How to contribute to Hacktoberfest 2022](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest)
 - [Git security vulnerabilities announced](https://github.blog/2022-10-18-git-security-vulnerabilities-announced/)
-- [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
-- [Exploring innovative Open Organization charts](https://opensource.com/article/22/10/innovative-open-organization-chart)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
