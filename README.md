@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Merge 2022 – that’s a wrap! 🎬](https://github.blog/2022-10-21-git-merge-2022-mission-report/)
 - [Build a game this November with Game Off 2022](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/)
+- [Git Merge 2022 – that’s a wrap! 🎬](https://github.blog/2022-10-21-git-merge-2022-mission-report/)
 - [Observability-driven development with OpenTelemetry](https://opensource.com/article/22/10/observability-driven-development-opentelemetry)
 - [Unboxing fork improvements and unwrapping fork docs](https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/)
 - [Improving navigation for GitHub Actions](https://github.blog/2022-10-20-improving-navigation-for-github-actions/)
