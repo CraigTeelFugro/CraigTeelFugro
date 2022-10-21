@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability-driven development with OpenTelemetry](https://opensource.com/article/22/10/observability-driven-development-opentelemetry)
 - [Unboxing fork improvements and unwrapping fork docs](https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/)
 - [Improving navigation for GitHub Actions](https://github.blog/2022-10-20-improving-navigation-for-github-actions/)
 - [4 open source editors I use for my writing](https://opensource.com/article/22/10/open-source-editors)
 - [Test your IoT platform with open source tools](https://opensource.com/article/22/10/iot-test-jmeter)
-- [Our open source startup journey](https://opensource.com/article/22/10/tooljet-open-source-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
