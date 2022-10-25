@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Transfer files and folders from Windows to Linux with PSCP](https://opensource.com/article/22/10/transfer-files-windows-linux-pscp)
+- [How innovative Open Organization charts work in practice](https://opensource.com/article/22/10/innovative-open-organization-chart-works)
 - [How to display commits created on a specific day with the git log command](https://opensource.com/article/22/10/git-log-command)
 - [A PWA is the web browser](https://opensource.com/article/22/10/pwa-web-browser)
 - [Remixing Linux for blind and visually impaired users](https://opensource.com/article/22/9/linux-visually-impaired-users)
-- [Use open source commands in Powershell](https://opensource.com/article/22/10/set-path-powershell)
-- [Build a game this November with Game Off 2022](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
