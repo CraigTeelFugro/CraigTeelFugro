@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 strategies for consolidating your toolkit and boosting productivity](https://github.blog/2022-10-26-3-strategies-for-consolidating-your-toolkit-and-boosting-productivity/)
 - [Why and how GitHub encrypts sensitive database columns using ActiveRecord::Encryption](https://github.blog/2022-10-26-why-and-how-github-encrypts-sensitive-database-columns-using-activerecordencryption/)
 - [Doing 64-bit math on a 16-bit system](https://opensource.com/article/22/10/64-bit-math)
 - [Tips for using the Linux test command](https://opensource.com/article/22/10/test-command-linux)
 - [Why we’re excited about the Sigstore general availability](https://github.blog/2022-10-25-why-were-excited-about-the-sigstore-general-availability/)
-- [Transfer files and folders from Windows to Linux with PSCP](https://opensource.com/article/22/10/transfer-files-windows-linux-pscp)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
