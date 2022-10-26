@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - [How innovative Open Organization charts work in practice](https://opensource.com/article/22/10/innovative-open-organization-chart-works)
 <!-- BLOG-POST-LIST:END -->
 
-## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro)](https://github.com/anuraghazra/github-readme-stats)
+## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://linkedin.com/in/craig-teel-b8786771
