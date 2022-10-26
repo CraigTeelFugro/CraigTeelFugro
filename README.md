@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://linkedin.com/in/craig-teel-b8786771
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigteelfugro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
