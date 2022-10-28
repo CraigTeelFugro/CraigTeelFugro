@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity spotlight on bug bounty researcher @ahacker1](https://github.blog/2022-10-28-cybersecurity-spotlight-on-bug-bounty-researcher-ahacker1/)
 - [Release Radar · September 2022 Edition](https://github.blog/2022-10-28-release-radar-sept-2022/)
 - [Write documentation like you develop code](https://opensource.com/article/22/10/docs-as-code)
 - [Choose your own GitHub Universe 2022 adventure](https://github.blog/2022-10-27-choose-your-own-github-universe-2022-adventure/)
 - [What we learned from the Security Lab’s Community Office Hours](https://github.blog/2022-10-27-what-we-learned-from-the-security-labs-community-office-hours/)
-- [Diversity, inclusion, and belonging at GitHub in 2022](https://github.blog/2022-10-27-diversity-inclusion-and-belonging-at-github-in-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
