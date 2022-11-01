@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get started with Parseable, an open source log storage and observability platform](https://opensource.com/article/22/11/parseable-observability-platform)
+- [Transfer files and folders from Windows to Linux with WinSCP](https://opensource.com/article/22/11/transfer-files-folders-windows-linux-winscp)
 - [Creating a more inclusive security research field](https://github.blog/2022-10-31-creating-a-more-inclusive-security-research-field/)
 - [20 technology horror stories about learning the hard way](https://opensource.com/article/22/10/technology-horror-stories)
 - [10 universal steps for open source code review](https://opensource.com/article/22/10/code-review)
-- [13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️](https://github.blog/2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween/)
-- [Set up a Matrix to Discord bot](https://opensource.com/article/22/10/matrix-discord-bot)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
