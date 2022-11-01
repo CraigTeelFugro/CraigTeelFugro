@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All In for Students: expanding the next generation of open source leaders](https://github.blog/2022-11-01-all-in-for-students-expanding-the-next-generation-of-open-source-leaders/)
 - [Get started with Parseable, an open source log storage and observability platform](https://opensource.com/article/22/11/parseable-observability-platform)
 - [Transfer files and folders from Windows to Linux with WinSCP](https://opensource.com/article/22/11/transfer-files-folders-windows-linux-winscp)
 - [Creating a more inclusive security research field](https://github.blog/2022-10-31-creating-a-more-inclusive-security-research-field/)
 - [20 technology horror stories about learning the hard way](https://opensource.com/article/22/10/technology-horror-stories)
-- [10 universal steps for open source code review](https://opensource.com/article/22/10/code-review)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
