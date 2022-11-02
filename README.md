@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Achieve smart home interoperability with open source technology](https://opensource.com/article/22/11/smart-home-interoperability)
 - [Game Off 2022 theme announcement](https://github.blog/2022-11-01-game-off-2022-theme-announcement/)
 - [Preview: referencing public code in GitHub Copilot](https://github.blog/2022-11-01-preview-referencing-public-code-in-github-copilot/)
 - [All In for Students: expanding the next generation of open source leaders](https://github.blog/2022-11-01-all-in-for-students-expanding-the-next-generation-of-open-source-leaders/)
 - [Get started with Parseable, an open source log storage and observability platform](https://opensource.com/article/22/11/parseable-observability-platform)
-- [Transfer files and folders from Windows to Linux with WinSCP](https://opensource.com/article/22/11/transfer-files-folders-windows-linux-winscp)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
