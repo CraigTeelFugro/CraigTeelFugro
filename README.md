@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How GitHub converts previously encrypted and unencrypted columns to ActiveRecord encrypted columns](https://github.blog/2022-11-03-how-github-converts-previously-encrypted-and-unencrypted-columns-to-activerecord-encrypted-columns/)
 - [Is Lua worth learning?](https://opensource.com/article/22/11/lua-worth-learning)
 - [How open source weaves connections between countries](https://opensource.com/article/22/11/open-source-weaves-connections-between-countries)
 - [GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/)
 - [GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
-- [Achieve smart home interoperability with open source technology](https://opensource.com/article/22/11/smart-home-interoperability)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
