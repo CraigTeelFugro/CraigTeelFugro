@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Lua worth learning?](https://opensource.com/article/22/11/lua-worth-learning)
+- [How open source weaves connections between countries](https://opensource.com/article/22/11/open-source-weaves-connections-between-countries)
 - [GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/)
 - [GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
 - [Achieve smart home interoperability with open source technology](https://opensource.com/article/22/11/smart-home-interoperability)
-- [Game Off 2022 theme announcement](https://github.blog/2022-11-01-game-off-2022-theme-announcement/)
-- [Preview: referencing public code in GitHub Copilot](https://github.blog/2022-11-01-preview-referencing-public-code-in-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
