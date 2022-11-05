@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix scanned images with ImageMagick](https://opensource.com/article/22/11/fixing-scanned-images-imagemagick)
 - [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 - [How to iterate over tables in Lua](https://opensource.com/article/22/11/iterate-over-tables-lua)
 - [Advocating for developers to the US Copyright Office](https://github.blog/2022-11-03-advocating-for-developers-to-the-us-copyright-office/)
 - [How GitHub converts previously encrypted and unencrypted columns to ActiveRecord encrypted columns](https://github.blog/2022-11-03-how-github-converts-previously-encrypted-and-unencrypted-columns-to-activerecord-encrypted-columns/)
-- [Is Lua worth learning?](https://opensource.com/article/22/11/lua-worth-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
