@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What stickers are on your laptop?](https://opensource.com/article/22/11/laptop-stickers)
 - [What you actually need to know about open source to get started](https://opensource.com/article/22/11/get-started-open-source)
 - [Build your own SaaS on Linux with Vely](https://opensource.com/article/22/11/build-your-own-saas-vely)
 - [Fix scanned images with ImageMagick](https://opensource.com/article/22/11/fixing-scanned-images-imagemagick)
 - [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
-- [How to iterate over tables in Lua](https://opensource.com/article/22/11/iterate-over-tables-lua)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
