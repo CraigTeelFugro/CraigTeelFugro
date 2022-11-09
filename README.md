@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why sysadmins should choose Awesome window manager on Linux](https://opensource.com/article/22/11/linux-awesome-window-manager)
+- [Using Python in VS Code and Codium](https://opensource.com/article/22/11/python-vs-code-codium)
 - [GitHub Enterprise Server 3.7 is now generally available](https://github.blog/2022-11-08-github-enterprise-server-3-7-is-now-generally-available/)
 - [What stickers are on your laptop?](https://opensource.com/article/22/11/laptop-stickers)
 - [What you actually need to know about open source to get started](https://opensource.com/article/22/11/get-started-open-source)
-- [Build your own SaaS on Linux with Vely](https://opensource.com/article/22/11/build-your-own-saas-vely)
-- [Fix scanned images with ImageMagick](https://opensource.com/article/22/11/fixing-scanned-images-imagemagick)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
