@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why sysadmins should choose Awesome window manager on Linux](https://opensource.com/article/22/11/linux-awesome-window-manager)
-- [Using Python in VS Code and Codium](https://opensource.com/article/22/11/python-vs-code-codium)
-- [GitHub Enterprise Server 3.7 is now generally available](https://github.blog/2022-11-08-github-enterprise-server-3-7-is-now-generally-available/)
-- [What stickers are on your laptop?](https://opensource.com/article/22/11/laptop-stickers)
-- [What you actually need to know about open source to get started](https://opensource.com/article/22/11/get-started-open-source)
+- [Understanding the social impact of open source technologies](https://github.blog/2022-11-09-the-social-impact-of-open-source/)
+- [The changing nature of governmental policies around open source](https://github.blog/2022-11-09-open-source-government-policies/)
+- [Why more companies are investing in open source program offices](https://github.blog/2022-11-09-why-companies-are-starting-ospos/)
+- [The importance of improving supply chain security in open source](https://github.blog/2022-11-09-improving-open-source-supply-chain-security/)
+- [Bringing greater financial sustainability to open source communities](https://github.blog/2022-11-09-financial-sustainability-in-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
