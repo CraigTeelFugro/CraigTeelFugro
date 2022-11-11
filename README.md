@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to switch from Twitter to Mastodon](https://opensource.com/article/22/11/switch-twitter-mastodon)
-- [Drop swap for zram on Linux](https://opensource.com/article/22/11/zram-swap-linux)
 - [Introducing GitHub Actions Importer](https://github.blog/2022-11-10-introducing-github-actions-importer/)
 - [What’s new with Codespaces from GitHub Universe 2022](https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/)
-- [4 key differences between Twitter and Mastodon](https://opensource.com/article/22/11/twitter-vs-mastodon)
+- [Todas as novidades do GitHub Universe 2022](https://github.blog/2022-11-09-todas-as-novidades-do-github-universe-2022/)
+- [An open source economy–built by developers, for developers](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/)
+- [Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
