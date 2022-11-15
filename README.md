@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My favorite tricks for navigating the Linux terminal faster](https://opensource.com/article/22/11/navigate-linux-terminal-faster)
+- [What do you do with community metrics?](https://opensource.com/article/22/11/what-do-you-do-community-metrics)
 - [5 metrics to track in your open source community](https://opensource.com/article/22/11/community-metrics)
 - [Make swap better with zram on Linux](https://opensource.com/article/22/11/customize-zram-linux)
 - [Use a hashmap in Java](https://opensource.com/article/22/11/hashmap-java)
-- [Learn Python: 7 of my favorite resources](https://opensource.com/article/22/11/learn-python)
-- [How to switch from Twitter to Mastodon](https://opensource.com/article/22/11/switch-twitter-mastodon)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
