@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Octoverse 2022: 10 years of tracking open source](https://github.blog/2022-11-17-octoverse-2022-10-years-of-tracking-open-source/)
 - [Git concepts in less than 10 minutes](https://opensource.com/article/22/11/git-concepts)
 - [Linux commands: Drop these old utilities for modern alternatives](https://opensource.com/article/22/11/modern-linux-commands)
 - [How open source powers innovation](https://opensource.com/article/22/11/open-source-innovation)
 - [How to address challenges with community metrics](https://opensource.com/article/22/11/organizational-technical-challenges)
-- [The power of GitHub in the palm of your hand](https://github.blog/2022-11-15-the-power-of-github-in-the-palm-of-your-hand/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
