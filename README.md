@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get verified on Mastodon with WordPress](https://opensource.com/article/22/11/verified-mastodon-wordpress)
 - [17 open source technologists share their favorite keyboards](https://opensource.com/article/22/11/favorite-keyboards)
 - [My favorite Git tools](https://opensource.com/article/22/11/git-tools)
 - [Get verified on Mastodon with your website](https://opensource.com/article/22/11/verified-mastodon-website)
 - [Octoverse 2022: 10 years of tracking open source](https://github.blog/2022-11-17-octoverse-2022-10-years-of-tracking-open-source/)
-- [Git concepts in less than 10 minutes](https://opensource.com/article/22/11/git-concepts)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
