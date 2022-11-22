@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Find bugs with the git bisect command](https://opensource.com/article/22/11/git-bisect)
+- [Introducing Rust calls to C library functions](https://opensource.com/article/22/11/rust-calls-c-library-functions)
 - [Learn Git: 3 commands to level up your skill](https://opensource.com/article/22/11/advanced-git-commands)
 - [7 Git tips for technical writers](https://opensource.com/article/22/11/git-tips-technical-writers)
 - [Get verified on Mastodon with WordPress](https://opensource.com/article/22/11/verified-mastodon-wordpress)
-- [17 open source technologists share their favorite keyboards](https://opensource.com/article/22/11/favorite-keyboards)
-- [My favorite Git tools](https://opensource.com/article/22/11/git-tools)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
