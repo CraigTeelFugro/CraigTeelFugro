@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up automated software testing with this open source platform](https://opensource.com/article/22/11/cerberus-testing)
+- [Build an interactive timeline in React with this open source tool](https://opensource.com/article/22/11/react-timeline-planby)
 - [Exciting New GitHub Features Powering Machine Learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/)
 - [Find bugs with the git bisect command](https://opensource.com/article/22/11/git-bisect)
 - [Introducing Rust calls to C library functions](https://opensource.com/article/22/11/rust-calls-c-library-functions)
-- [Learn Git: 3 commands to level up your skill](https://opensource.com/article/22/11/advanced-git-commands)
-- [7 Git tips for technical writers](https://opensource.com/article/22/11/git-tips-technical-writers)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
