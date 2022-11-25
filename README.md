@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 holiday gift ideas for open source enthusiasts in 2022](https://opensource.com/article/22/11/gift-ideas-open-source-enthusiasts)
 - [Write a C++ extension module for Python](https://opensource.com/article/22/11/extend-c-python)
 - [Use arrays in Java](https://opensource.com/article/22/11/arrays-java)
 - [Set up automated software testing with this open source platform](https://opensource.com/article/22/11/cerberus-testing)
 - [Build an interactive timeline in React with this open source tool](https://opensource.com/article/22/11/react-timeline-planby)
-- [Exciting New GitHub Features Powering Machine Learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
