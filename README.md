@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Give back to open source on Giving Tuesday](https://opensource.com/article/22/11/open-source-giving-tuesday)
 - [To infinity and beyond: enabling the future of GitHub’s REST API with API versioning](https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/)
 - [How open source is revitalizing the payphone](https://opensource.com/article/22/11/open-source-payphone-philtel)
 - [3 open source audio tools for creators](https://opensource.com/article/22/11/open-source-audio-tools)
 - [Create a holiday light display with your Raspberry Pi and ping pong balls](https://opensource.com/article/22/11/raspberry-pi-holiday-light-display)
-- [9 holiday gift ideas for open source enthusiasts in 2022](https://opensource.com/article/22/11/gift-ideas-open-source-enthusiasts)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
