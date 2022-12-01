@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn JavaScript in 2023](https://opensource.com/article/22/12/learn-javascript-2023)
+- [Intangible gift ideas with open source in mind](https://opensource.com/article/22/12/open-source-intangible-gift-ideas)
+- [5 reasons I use the Dolphin file manager on Linux](https://opensource.com/article/22/12/linux-file-manager-dolphin)
 - [Is sustainability still a thing in open source?](https://opensource.com/article/22/11/sustainability-open-source)
 - [Get to know Lua for loops in 4 minutes](https://opensource.com/article/22/11/lua-for-loops)
-- [Build test scripts for your IoT platform](https://opensource.com/article/22/11/test-scripts-iot-jmeter)
-- [Parse arguments with Lua](https://opensource.com/article/22/11/lua-command-arguments)
-- [Give back to open source on Giving Tuesday](https://opensource.com/article/22/11/open-source-giving-tuesday)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
