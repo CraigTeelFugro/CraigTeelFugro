@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)
 - [8 ideas for measuring your open source software usage](https://opensource.com/article/22/12/open-source-usage-metrics)
 - [Try this Java file manager on Linux](https://opensource.com/article/22/12/linux-file-manager-jfileprocessor)
 - [How empowering developers helps teams ship secure software faster](https://github.blog/2022-12-01-how-empowering-developers-helps-teams-ship-secure-software-faster/)
 - [An enterprise account is coming to all Enterprise customers](https://github.blog/2022-12-01-an-enterprise-account-is-coming-to-all-enterprise-customers/)
-- [Learn JavaScript in 2023](https://opensource.com/article/22/12/learn-javascript-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
