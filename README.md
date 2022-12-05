@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ICYMI: A look back at GitHub Universe 2022](https://github.blog/2022-12-05-icymi-a-look-back-at-github-universe-2022/)
 - [6 steps to get verified on Mastodon with encrypted keys](https://opensource.com/article/22/12/verified-mastodon-pgp-keyoxide)
 - [Why you should try the Nemo file manager on Linux](https://opensource.com/article/22/12/linux-file-manager-nemo)
 - [Make your Linux computer feel faster with the Xfe file manager](https://opensource.com/article/22/12/linux-file-manager-xfe)
 - [Feel like a Linux wizard with the Thunar file manager](https://opensource.com/article/22/12/linux-file-manager-thunar)
-- [GitHub, accessibility, and the disability divide](https://github.blog/2022-12-02-github-accessibility-and-the-disability-divide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
