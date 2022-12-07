@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16 reasons DDEV will be your new favorite development environment](https://opensource.com/article/22/12/ddev)
+- [Why I use the Enlightenment file manager on Linux](https://opensource.com/article/22/12/linux-file-manager-enlightenment)
 - [New npm features for secure publishing and safe consumption](https://github.blog/2022-12-06-new-npm-features-for-secure-publishing-and-safe-consumption/)
 - [A data scientist&#39;s guide to open source community analysis](https://opensource.com/article/22/12/data-scientists-guide-open-source-community-analysis)
 - [A 10-minute guide to the Linux ABI](https://opensource.com/article/22/12/linux-abi)
-- [How the Linux Worker file manager can work for you](https://opensource.com/article/22/12/linux-file-manager-worker)
-- [ICYMI: A look back at GitHub Universe 2022](https://github.blog/2022-12-05-icymi-a-look-back-at-github-universe-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
