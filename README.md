@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Experiment: The hidden costs of waiting on slow build times](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
 - [Git Commit Uruguay: Lowering barriers to make software development more inclusive and diverse](https://github.blog/2022-12-08-git-commit-uruguay-lowering-barriers-to-make-software-development-more-inclusive-and-diverse/)
 - [Hello from GitHub’s new Chief Product Officer](https://github.blog/2022-12-08-hello-from-githubs-new-chief-product-officer/)
 - [7 pro tips for using the GDB step command](https://opensource.com/article/22/12/gdb-step-command)
 - [Our favorite markup languages for documentation](https://opensource.com/article/22/12/markup-languages-documentation)
-- [Manage your file system from the Linux terminal](https://opensource.com/article/22/12/linux-file-manager-nnn)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
