@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 pro tips for using the GDB step command](https://opensource.com/article/22/12/gdb-step-command)
+- [Our favorite markup languages for documentation](https://opensource.com/article/22/12/markup-languages-documentation)
+- [Manage your file system from the Linux terminal](https://opensource.com/article/22/12/linux-file-manager-nnn)
 - [GitHub Copilot is generally available for businesses](https://github.blog/2022-12-07-github-copilot-is-generally-available-for-businesses/)
 - [GitHub Availability Report: November 2022](https://github.blog/2022-12-07-github-availability-report-november-2022/)
-- [16 reasons DDEV will be your new favorite development environment](https://opensource.com/article/22/12/ddev)
-- [Why I use the Enlightenment file manager on Linux](https://opensource.com/article/22/12/linux-file-manager-enlightenment)
-- [New npm features for secure publishing and safe consumption](https://github.blog/2022-12-06-new-npm-features-for-secure-publishing-and-safe-consumption/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
