@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplify the installation of Drupal modules with Project Browser](https://opensource.com/article/22/12/install-drupal-modules-project-browser)
+- [Experience Linux desktop nostalgia with Rox](https://opensource.com/article/22/12/linux-file-manager-rox)
 - [Creating an accessible search experience with the QueryBuilder component](https://github.blog/2022-12-13-creating-an-accessible-search-experience-with-the-querybuilder-component/)
 - [Use Django to send emails with SMTP](https://opensource.com/article/22/12/django-send-emails-smtp)
 - [Drupal 10 is worth a fresh look](https://opensource.com/article/22/12/drupal-10-fresh-look)
-- [Try this Linux web browser as your file manager](https://opensource.com/article/22/12/linux-file-manager-konqueror)
-- [Highlights from Git 2.39](https://github.blog/2022-12-12-highlights-from-git-2-39/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
