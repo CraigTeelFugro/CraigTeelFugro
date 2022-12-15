@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaked a secret? Check your GitHub alerts…for free](https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/)
+- [GitHub Advanced Security customers can now push protect their custom patterns](https://github.blog/2022-12-15-github-advanced-security-customers-can-now-push-protect-their-custom-patterns/)
 - [Why Drupal is the future of content strategy](https://opensource.com/article/22/12/drupal-content-strategy)
 - [Improve your documentation with JavaScript](https://opensource.com/article/22/12/dynamic-documentation-javascript)
 - [Enjoy two-panel file management on Linux with far2l](https://opensource.com/article/22/12/linux-file-manager-far2l)
-- [Raising the bar for software security: next steps for GitHub.com 2FA](https://github.blog/2022-12-14-raising-the-bar-for-software-security-next-steps-for-github-com-2fa/)
-- [Simplify the installation of Drupal modules with Project Browser](https://opensource.com/article/22/12/install-drupal-modules-project-browser)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
