@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new generation of tools for open source vulnerability management](https://opensource.com/article/22/12/tools-open-source-vulnerability-management)
+- [5 reasons to love Linux GNOME Files](https://opensource.com/article/22/12/linux-file-manager-gnome)
 - [Leaked a secret? Check your GitHub alerts…for free](https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/)
 - [GitHub Advanced Security customers can now push protect their custom patterns](https://github.blog/2022-12-15-github-advanced-security-customers-can-now-push-protect-their-custom-patterns/)
 - [Why Drupal is the future of content strategy](https://opensource.com/article/22/12/drupal-content-strategy)
-- [Improve your documentation with JavaScript](https://opensource.com/article/22/12/dynamic-documentation-javascript)
-- [Enjoy two-panel file management on Linux with far2l](https://opensource.com/article/22/12/linux-file-manager-far2l)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
