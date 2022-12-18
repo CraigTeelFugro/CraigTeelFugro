@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use my Groovy color wheel calculator](https://opensource.com/article/22/12/groovy-color-wheel)
+- [Try this Python-based file manager on Linux](https://opensource.com/article/22/12/linux-file-manager-dragonfly-navigator)
 - [How I wrote an open source video game for Open Jam in a weekend](https://opensource.com/article/22/12/open-source-video-game-open-jam)
 - [Travel back in time with the mc file manager on Linux](https://opensource.com/article/22/12/linux-file-manager-midnight-commander)
 - [Release Radar · November 2022 Edition](https://github.blog/2022-12-16-release-radar-nov-2022/)
-- [A new generation of tools for open source vulnerability management](https://opensource.com/article/22/12/tools-open-source-vulnerability-management)
-- [5 reasons to love Linux GNOME Files](https://opensource.com/article/22/12/linux-file-manager-gnome)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
