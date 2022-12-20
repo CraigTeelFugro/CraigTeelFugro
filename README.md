@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How we use GitHub to be more productive, collaborative, and secure](https://github.blog/2022-12-20-how-we-use-github-to-be-more-productive-collaborative-and-secure/)
 - [How I use Artipie, a PyPI repo](https://opensource.com/article/22/12/python-package-index-repository-artipie)
 - [Explore the features of the Linux Double Commander file manager](https://opensource.com/article/22/12/linux-file-manager-double-commander)
 - [[Video] How has open source changed in the last 10 years?](https://github.blog/2022-12-19-video-how-has-open-source-changed-in-the-last-10-years/)
 - [Use Rexx for scripting in 2023](https://opensource.com/article/22/12/rexx-scripting)
-- [How I use my old camera as a webcam with Linux](https://opensource.com/article/22/12/old-camera-webcam-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
