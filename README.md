@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 resources for Python programmers](https://opensource.com/article/22/12/best-python)
 - [5 Raspberry Pi tutorials to inspire DIY creativity](https://opensource.com/article/22/12/raspberry-pi-tutorials)
 - [9 resources about open source for educators and students](https://opensource.com/article/22/12/open-source-education)
 - [How to use your Linux terminal as a file manager](https://opensource.com/article/22/12/linux-terminal-file-manager)
 - [What’s with all the ducks?](https://github.blog/2022-12-23-whats-with-all-the-ducks/)
-- [Experience the power of the Linux Krusader file manager](https://opensource.com/article/22/12/linux-krusader-file-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
