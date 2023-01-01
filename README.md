@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to write about on Opensource.com in 2023](https://opensource.com/article/23/1/writing-topics-2023)
+- [6 articles to get you excited about programming](https://opensource.com/article/23/1/get-excited-about-programming)
 - [12 resources for open source community management in 2023](https://opensource.com/article/22/12/open-source-community-management)
 - [GitHub and the Ekoparty 2022 Capture the Flag](https://github.blog/2022-12-30-github-and-the-ekoparty-2022-capture-the-flag/)
 - [5 ways to bring open source to your job](https://opensource.com/article/22/12/open-source-at-work)
-- [GitHub’s top 10 blog posts of 2022](https://github.blog/2022-12-29-githubs-top-10-blog-posts-of-2022/)
-- [How open source provides accessibility for the neurodivergent community](https://opensource.com/article/22/12/accessibility-neurodiversity)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
