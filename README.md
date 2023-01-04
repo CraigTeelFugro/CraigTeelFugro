@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
 - [Customize Apache ShardingSphere high availability with MySQL](https://opensource.com/article/23/1/high-availability-apache-shardingsphere-mysql)
 - [Learn to code with my retro computer program](https://opensource.com/article/23/1/learn-machine-language-retro-computer)
 - [Create a highly available distributed database with Apache ShardingSphere](https://opensource.com/article/23/1/distributed-database-high-availability-apache-shardingsphere)
 - [Document with BookStack, an open source Confluence alternative](https://opensource.com/article/23/1/bookstack-open-source-documentation)
-- [7 Git articles every open source practitioner should read](https://opensource.com/article/23/1/git-articles)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
