@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customize Apache ShardingSphere high availability with MySQL](https://opensource.com/article/23/1/high-availability-apache-shardingsphere-mysql)
+- [Learn to code with my retro computer program](https://opensource.com/article/23/1/learn-machine-language-retro-computer)
 - [Create a highly available distributed database with Apache ShardingSphere](https://opensource.com/article/23/1/distributed-database-high-availability-apache-shardingsphere)
 - [Document with BookStack, an open source Confluence alternative](https://opensource.com/article/23/1/bookstack-open-source-documentation)
 - [7 Git articles every open source practitioner should read](https://opensource.com/article/23/1/git-articles)
-- [How to read and write files in Rust](https://opensource.com/article/23/1/read-write-files-rust)
-- [What to write about on Opensource.com in 2023](https://opensource.com/article/23/1/writing-topics-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
