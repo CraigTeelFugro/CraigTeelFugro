@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock academic research with this open source open access tool for librarians](https://opensource.com/article/23/1/aperta-accessum-open-access-library)
 - [Use time-series data to power your edge projects with open source tools](https://opensource.com/article/23/1/time-series-data-edge-open-source-tools)
 - [An introduction to DocArray, an open source AI library](https://opensource.com/article/23/1/docarray-open-source-ai)
 - [What&#39;s your favorite Mastodon app?](https://opensource.com/article/23/1/favorite-mastodon-app)
 - [6 tips for building an effective DevOps culture](https://opensource.com/article/23/1/tips-effective-devops-culture)
-- [GitHub Availability Report: December 2022](https://github.blog/2023-01-04-github-availability-report-december-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
