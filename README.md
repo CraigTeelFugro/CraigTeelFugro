@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to strings in MySQL](https://opensource.com/article/23/1/strings-mysql)
 - [GitHub Discussions just got better with Category Forms!](https://github.blog/2023-01-09-github-discussions-just-got-better-with-category-forms/)
 - [Default setup: A new way to enable GitHub code scanning](https://github.blog/2023-01-09-default-setup-a-new-way-to-enable-github-code-scanning/)
 - [Learn the Ada programming language by writing a simple game](https://opensource.com/article/23/1/learn-ada-simple-game)
 - [Use this open source API gateway to scale your API](https://opensource.com/article/23/1/api-gateway-apache-apisix)
-- [Unlock academic research with this open source open access tool for librarians](https://opensource.com/article/23/1/aperta-accessum-open-access-library)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
