@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Passwordless deployments to the cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/)
 - [7 interesting metrics about open source in sustainability](https://opensource.com/article/23/1/open-source-sustainability)
 - [Why developers choose open source in the hybrid cloud](https://opensource.com/article/23/1/open-source-hybrid-cloud)
 - [Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/)
 - [How to use methods in Java](https://opensource.com/article/23/1/java-methods)
-- [A guide to strings in MySQL](https://opensource.com/article/23/1/strings-mysql)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
