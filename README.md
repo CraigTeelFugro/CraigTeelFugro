@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A smarter, quieter Dependabot](https://github.blog/2023-01-12-a-smarter-quieter-dependabot/)
 - [Fork our open source onboarding program](https://opensource.com/article/23/1/open-source-contributors)
 - [Open source software is transforming healthcare](https://opensource.com/article/23/1/open-source-software-transforming-healthcare)
 - [Passwordless deployments to the cloud](https://github.blog/2023-01-11-passwordless-deployments-to-the-cloud/)
 - [7 interesting metrics about open source in sustainability](https://opensource.com/article/23/1/open-source-sustainability)
-- [Why developers choose open source in the hybrid cloud](https://opensource.com/article/23/1/open-source-hybrid-cloud)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
