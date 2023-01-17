@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s new in Apache ShardingSphere 5.3.0?](https://opensource.com/article/23/1/apache-shardingsphere-new-features)
+- [How open source is addressing food sovereignty](https://opensource.com/article/23/1/food-sovereignty-open-source)
 - [Recover from an unsuccessful git rebase with the git reflog command](https://opensource.com/article/23/1/git-reflog)
 - [How to use the open source MQTT plug-in in JMeter](https://opensource.com/article/23/1/mqtt-plug-in-jmeter)
 - [A 4-minute guide to Java loops](https://opensource.com/article/23/1/java-loops)
-- [Game Off 2022 winners 🏆](https://github.blog/2023-01-13-game-off-2022-winners/)
-- [New GitHub CLI extension tools](https://github.blog/2023-01-13-new-github-cli-extension-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
