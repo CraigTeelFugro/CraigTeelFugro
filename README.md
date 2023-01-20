@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to Java for loops](https://opensource.com/article/23/1/java-for-loops)
 - [Unlocking security updates for transitive dependencies with npm](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm/)
 - [How GitHub coordinates product releases with GitHub Projects and GitHub Actions](https://github.blog/2023-01-19-how-github-coordinates-product-releases-with-github-projects-and-github-actions/)
 - [Remediation made simple: Introducing new validity checks for GitHub tokens](https://github.blog/2023-01-19-remediation-made-simple-introducing-new-validity-checks-for-github-tokens/)
 - [Community thinking patterns and the role of the introducer-in-chief](https://opensource.com/article/23/1/community-leadership-introducer-chief)
-- [How to fix an IndexError in Python](https://opensource.com/article/23/1/fix-indexerror-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
