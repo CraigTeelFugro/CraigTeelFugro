@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
 - [Create your own website with Joomla!, an open source CMS](https://opensource.com/article/23/1/open-source-cms-guide-joomla)
 - [3 predictions for open source in confidential computing](https://opensource.com/article/23/1/open-source-confidential-computing)
 - [How Linux rescued precious audio files with FFmpeg](https://opensource.com/article/23/1/linux-ffmpeg)
 - [Reflecting on my first Linux conference](https://opensource.com/article/23/1/my-first-linux-conference)
-- [Unpacking the value of open source and code collaboration](https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
