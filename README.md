@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating the 2023 Opensource.com Community Choice authors](https://opensource.com/article/23/1/community-choice-authors-2023)
+- [Count magical bunnies with LibreOffice Calc](https://opensource.com/article/23/1/count-magical-bunnies-libreoffice-calc)
+- [Why sysadmins should license their code for open source](https://opensource.com/article/23/1/why-sysadmins-should-license-code-open-source)
 - [Update your edge devices with this open source bootloader](https://opensource.com/article/23/1/update-edge-devices-open-source-bootloader)
 - [What you need to know about software bills of materials](https://opensource.com/article/23/1/software-bills-materials-sbom)
-- [Introducing the GitHub Bug Bounty swag store](https://github.blog/2023-01-23-introducing-the-github-bug-bounty-swag-store/)
-- [Pwning the all Google phone with a non-Google bug](https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/)
-- [Create your own website with Joomla!, an open source CMS](https://opensource.com/article/23/1/open-source-cms-guide-joomla)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
