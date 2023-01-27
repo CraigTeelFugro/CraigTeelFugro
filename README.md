@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/)
 - [A beginner&#39;s guide to Mastodon](https://opensource.com/article/23/1/mastodon-beginners-guide)
 - [Packaging Python modules with wheels](https://opensource.com/article/23/1/packaging-python-modules-wheels)
 - [Setting the foundations for compliance](https://github.blog/2023-01-26-setting-the-foundations-for-compliance/)
 - [How to add margin notes to a LibreOffice document](https://opensource.com/article/23/1/margin-notes-libreoffice-document)
-- [100 million developers and counting](https://github.blog/2023-01-25-100-million-developers-and-counting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
