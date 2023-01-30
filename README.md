@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Action needed for GitHub Desktop and Atom users](https://github.blog/2023-01-30-action-needed-for-github-desktop-and-atom-users/)
 - [How to use GitOps to automate Terraform](https://opensource.com/article/23/1/automate-terraform-gitops)
 - [Learn to code a simple game in Zig](https://opensource.com/article/23/1/learn-zig-programming)
 - [4 open source technologies to make writing easier](https://opensource.com/article/23/1/open-source-tools-tech-writing)
 - [Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/)
-- [A beginner&#39;s guide to Mastodon](https://opensource.com/article/23/1/mastodon-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
