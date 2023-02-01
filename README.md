@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to fuzzy queries with Apache ShardingSphere](https://opensource.com/article/23/2/fuzzy-query-apache-shardingsphere)
+- [What&#39;s your community thinking pattern?](https://opensource.com/article/23/2/community-thinking-pattern)
 - [Skilling for the future: How GitHub is advancing diversity, equity, and inclusion within open source communities](https://github.blog/2023-01-31-skilling-for-the-future-how-github-is-advancing-diversity-equity-and-inclusion-within-open-source-communities/)
 - [Merge design and code with Penpot](https://opensource.com/article/23/1/merge-design-code-penpot)
 - [Use Terraform to manage an OpenStack cluster](https://opensource.com/article/23/1/terraform-manage-openstack-cluster)
-- [Automate Mastodon interactions with Python](https://opensource.com/article/23/1/mastodon-api-python)
-- [Action needed for GitHub Desktop and Atom users](https://github.blog/2023-01-30-action-needed-for-github-desktop-and-atom-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
