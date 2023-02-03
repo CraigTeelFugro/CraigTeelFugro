@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How upstream contributions power scientific research](https://opensource.com/article/23/2/open-science-upstream-contributions)
+- [How I apply open source principles to filmmaking](https://opensource.com/article/23/2/open-filmmaking)
 - [How the GitHub Docs team uses GitHub Projects](https://github.blog/2023-02-02-how-the-github-docs-team-uses-github-projects/)
 - [Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/)
 - [Learn Basic by coding a game](https://opensource.com/article/23/2/learn-basic-coding-game)
-- [Announcing the launch of the All In for Maintainers DEI Resource Hub](https://github.blog/2023-02-01-announcing-the-launch-of-the-all-in-for-maintainers-dei-resource-hub/)
-- [Open source’s impact on the world’s 100 million developers](https://github.blog/2023-02-01-open-sources-impact-on-the-worlds-100-million-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
