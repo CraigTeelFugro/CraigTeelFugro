@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wordsmith on the Linux command line with dict](https://opensource.com/article/23/2/linux-dict-command)
+- [Reinvent your release strategy with an API gateway](https://opensource.com/article/23/2/api-gateway)
 - [Open source video captioning on Linux](https://opensource.com/article/23/2/live-captions-linux)
 - [Ludum Dare 52 staff picks 🕹](https://github.blog/2023-02-03-ludum-dare-52-staff-picks/)
 - [Europe’s chance to be a leader in the age of AI](https://github.blog/2023-02-03-europes-chance-to-be-a-leader-in-the-age-of-ai/)
-- [How upstream contributions power scientific research](https://opensource.com/article/23/2/open-science-upstream-contributions)
-- [How I apply open source principles to filmmaking](https://opensource.com/article/23/2/open-filmmaking)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
