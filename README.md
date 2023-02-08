@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve your coding skills with temporal values in MySQL](https://opensource.com/article/23/2/temporal-values-mysql)
+- [Kubernetes migration made simple with Konveyor Move2Kube](https://opensource.com/article/23/2/kubernetes-migration-konveyor-move2kube)
 - [A brief history of LibreOffice](https://opensource.com/article/23/2/libreoffice-history)
 - [How the Gherkin language bridges the gap between customers and developers](https://opensource.com/article/23/2/gherkin-language-developers)
 - [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
-- [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2023-02-06-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
-- [Wordsmith on the Linux command line with dict](https://opensource.com/article/23/2/linux-dict-command)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
