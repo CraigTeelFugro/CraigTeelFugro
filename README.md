@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start developing for WebAssembly with our new guide](https://opensource.com/article/23/2/webassembly-guide)
+- [Learn Tcl by writing a simple game](https://opensource.com/article/23/2/learn-tcl-writing-simple-game)
+- [3 types of leadership for open organizations](https://opensource.com/article/23/2/leadership-open-organizations)
 - [Release Radar, Festive Edition · December 2022 – January 2023](https://github.blog/2023-02-08-release-radar-dec-2022-jan-2023/)
 - [Improve your coding skills with temporal values in MySQL](https://opensource.com/article/23/2/temporal-values-mysql)
-- [Kubernetes migration made simple with Konveyor Move2Kube](https://opensource.com/article/23/2/kubernetes-migration-konveyor-move2kube)
-- [A brief history of LibreOffice](https://opensource.com/article/23/2/libreoffice-history)
-- [How the Gherkin language bridges the gap between customers and developers](https://opensource.com/article/23/2/gherkin-language-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
