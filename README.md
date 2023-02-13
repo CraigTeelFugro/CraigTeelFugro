@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A 10-step guide for a successful hackathon](https://opensource.com/article/23/2/hackathon-guide)
+- [Learn Expect by writing and automating a simple game](https://opensource.com/article/23/2/learn-expect-automate-simple-game)
 - [How open source leaders can foster an inclusive environment](https://opensource.com/article/23/2/open-source-leaders-inclusive-environment)
 - [What an open license means to gamers](https://opensource.com/article/23/2/what-open-license-means-gamers)
 - [Start developing for WebAssembly with our new guide](https://opensource.com/article/23/2/webassembly-guide)
-- [Learn Tcl by writing a simple game](https://opensource.com/article/23/2/learn-tcl-writing-simple-game)
-- [3 types of leadership for open organizations](https://opensource.com/article/23/2/leadership-open-organizations)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
