@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a modern user interface with the Tkinter Python library](https://opensource.com/article/23/2/user-interface-tkinter-python)
+- [Lua loops: how to use while and repeat until](https://opensource.com/article/23/2/lua-loops-while-repeat-until)
 - [Yout amicus: fighting for developers’ right to innovate](https://github.blog/2023-02-13-yout-amicus-fighting-for-developers-right-to-innovate/)
 - [A 10-step guide for a successful hackathon](https://opensource.com/article/23/2/hackathon-guide)
 - [Learn Expect by writing and automating a simple game](https://opensource.com/article/23/2/learn-expect-automate-simple-game)
-- [How open source leaders can foster an inclusive environment](https://opensource.com/article/23/2/open-source-leaders-inclusive-environment)
-- [What an open license means to gamers](https://opensource.com/article/23/2/what-open-license-means-gamers)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
