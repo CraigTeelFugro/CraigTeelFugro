@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git security vulnerabilities announced](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/)
 - [GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
 - [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/)
 - [Create a modern user interface with the Tkinter Python library](https://opensource.com/article/23/2/user-interface-tkinter-python)
 - [Lua loops: how to use while and repeat until](https://opensource.com/article/23/2/lua-loops-while-repeat-until)
-- [Yout amicus: fighting for developers’ right to innovate](https://github.blog/2023-02-13-yout-amicus-fighting-for-developers-right-to-innovate/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
