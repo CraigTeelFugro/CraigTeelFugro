@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2022 Transparency Report](https://github.blog/2023-02-15-2022-transparency-report/)
 - [Manage OpenStack using Terraform and GitLab](https://opensource.com/article/23/2/manage-openstack-using-terraform-and-gitlab)
 - [How I use Ansible to add a feature to my Linux KDE desktop](https://opensource.com/article/23/2/linux-kde-desktop-ansible)
 - [Git security vulnerabilities announced](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/)
 - [GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/)
-- [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
