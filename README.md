@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ICYMI: CodeQL enhancements](https://github.blog/2023-02-16-icymi-codeql-enhancements/)
 - [5 escape sequences for your Linux shell](https://opensource.com/article/23/2/escape-sequences-linux-shell)
 - [A guide to SLEs and SLAs for open source projects](https://opensource.com/article/23/2/sle-sla-open-source-projects)
 - [2022 Transparency Report](https://github.blog/2023-02-15-2022-transparency-report/)
 - [Manage OpenStack using Terraform and GitLab](https://opensource.com/article/23/2/manage-openstack-using-terraform-and-gitlab)
-- [How I use Ansible to add a feature to my Linux KDE desktop](https://opensource.com/article/23/2/linux-kde-desktop-ansible)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
