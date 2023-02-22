@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I do automated accessibility testing for my website](https://opensource.com/article/23/2/automated-accessibility-testing)
+- [Mapping the program counter back to the function name in your code](https://opensource.com/article/23/2/function-name)
 - [Update on the future stability of source code archives and hashes](https://github.blog/2023-02-21-update-on-the-future-stability-of-source-code-archives-and-hashes/)
 - [Automate OpenStack using Ansible](https://opensource.com/article/23/2/automate-openstack-ansible)
 - [My favorite open source tools for personal finance](https://opensource.com/article/23/2/open-source-tools-personal-finance)
-- [4 questions open source engineers should ask to mitigate risk at scale](https://opensource.com/article/23/2/open-source-mitigate-risk)
-- [Kubernetes policy engines: OPA vs. Kyverno vs. jsPolicy](https://opensource.com/article/23/2/kubernetes-policy-engines)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
