@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The code that wasn’t there: Reading memory on an Android device by accident](https://github.blog/2023-02-23-the-code-that-wasnt-there-reading-memory-on-an-android-device-by-accident/)
 - [Learn Lua with our new downloadable guide](https://opensource.com/article/23/2/learn-lua-guide)
+- [A beginner’s guide to learning to code with GitHub Codespaces](https://github.blog/2023-02-22-a-beginners-guide-to-learning-to-code-with-github-codespaces/)
 - [Responsible AI pair programming with GitHub Copilot](https://github.blog/2023-02-22-responsible-ai-pair-programming-with-github-copilot/)
 - [How I do automated accessibility testing for my website](https://opensource.com/article/23/2/automated-accessibility-testing)
-- [Mapping the program counter back to the function name in your code](https://opensource.com/article/23/2/function-name)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
