@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a consistent workflow for development and operations teams](https://github.blog/2023-02-28-how-to-build-a-consistent-workflow-for-development-and-operations-teams/)
 - [10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/2023-02-28-10-things-you-didnt-know-you-could-do-with-github-codespaces/)
 - [Secret scanning alerts are now available &lpar;and free&rpar; for all public repositories](https://github.blog/2023-02-28-secret-scanning-alerts-are-now-available-and-free-for-all-public-repositories/)
 - [3 tips to manage large Postgres databases](https://opensource.com/article/23/2/manage-large-postgres-databases)
 - [Delegate common tasks with an open source automation tool](https://opensource.com/article/23/2/automate-common-tasks-rundeck)
-- [Essential tips and tricks for your first tech job](https://opensource.com/article/23/2/your-first-tech-job)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
