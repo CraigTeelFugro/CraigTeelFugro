@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 tips to manage large Postgres databases](https://opensource.com/article/23/2/manage-large-postgres-databases)
+- [Delegate common tasks with an open source automation tool](https://opensource.com/article/23/2/automate-common-tasks-rundeck)
 - [Essential tips and tricks for your first tech job](https://opensource.com/article/23/2/your-first-tech-job)
 - [AI robot wrestling with open source](https://opensource.com/article/23/2/ai-robot-wrestling-open-source)
 - [3 ways to meet compliance needs without slowing down agility](https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/)
-- [5 open source tools to take control of your own data](https://opensource.com/article/23/2/open-source-tools-data)
-- [Measuring government policy on open source with a new dataset](https://github.blog/2023-02-23-measuring-government-policy-on-open-source-with-a-new-dataset/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
