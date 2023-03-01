@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: February 2023](https://github.blog/2023-03-01-github-availability-report-february-2023/)
 - [GitHub Actions Importer is now generally available](https://github.blog/2023-03-01-github-actions-importer-is-now-generally-available/)
 - [GitHub Actions: Introducing faster GitHub-hosted x64 macOS runners](https://github.blog/2023-03-01-github-actions-introducing-faster-github-hosted-x64-macos-runners/)
 - [3 myths about open source CMS platforms](https://opensource.com/article/23/3/open-source-cms-myths)
 - [Use your Raspberry Pi as a streaming server](https://opensource.com/article/23/3/raspberry-pi-streaming-server)
-- [How to build a consistent workflow for development and operations teams](https://github.blog/2023-02-28-how-to-build-a-consistent-workflow-for-development-and-operations-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
