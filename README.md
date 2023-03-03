@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A trivia vending machine made with a Raspberry Pi](https://opensource.com/article/23/3/raspberry-pi-trivia-vending-machine)
+- [How I automate graphics creation with Inkscape](https://opensource.com/article/23/3/automate-graphics-production-inkscape)
 - [Why Python keeps growing, explained](https://github.blog/2023-03-02-why-python-keeps-growing-explained/)
 - [How Web3 and a mesh organizational design can turn challenges into opportunities](https://opensource.com/article/23/3/web3-mesh-organizational-design-challenges-opportunities)
 - [Parallel and distributed computing with Raspberry Pi clusters](https://opensource.com/article/23/3/parallel-distributed-computing-raspberry-pi-clusters)
-- [GitHub Availability Report: February 2023](https://github.blog/2023-03-01-github-availability-report-february-2023/)
-- [GitHub Actions Importer is now generally available](https://github.blog/2023-03-01-github-actions-importer-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
