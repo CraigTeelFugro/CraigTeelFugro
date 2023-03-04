@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create templates for your video graphics with Inkscape](https://opensource.com/article/23/3/video-templates-inkscape)
 - [GitHub Security Lab audited DataHub: Here’s what they found](https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/)
 - [GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/)
 - [See you at SCALE! 🐧](https://github.blog/2023-03-03-see-you-at-scale/)
 - [A trivia vending machine made with a Raspberry Pi](https://opensource.com/article/23/3/raspberry-pi-trivia-vending-machine)
-- [How I automate graphics creation with Inkscape](https://opensource.com/article/23/3/automate-graphics-production-inkscape)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
