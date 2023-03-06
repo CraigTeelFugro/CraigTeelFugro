@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to automate your dev environment with dev containers and GitHub Codespaces](https://github.blog/2023-03-06-how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/)
 - [Switch from Google Workspace to Nextcloud](https://opensource.com/article/23/3/switch-google-nextcloud)
 - [How Wikipedia helps keep the internet open](https://opensource.com/article/23/3/how-wikipedia-helps-keep-internet-open)
 - [Build a Raspberry Pi monitoring dashboard in under 30 minutes](https://opensource.com/article/23/3/build-raspberry-pi-dashboard-appsmith)
 - [Release Radar · February 2023 Edition](https://github.blog/2023-03-05-release-radar-feb-2023/)
-- [Create templates for your video graphics with Inkscape](https://opensource.com/article/23/3/video-templates-inkscape)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
