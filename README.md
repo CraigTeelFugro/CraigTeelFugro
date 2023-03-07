@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Career Day at SCaLE 20x](https://opensource.com/article/23/3/open-source-career-day-scale-20x)
 - [Switch from iCloud to Nextcloud](https://opensource.com/article/23/3/switch-icloud-nextcloud)
 - [10 ways Wikimedia does developer advocacy](https://opensource.com/article/23/3/developer-advocacy-wikimedia)
 - [Unleash your potential with GitHub Octernships: a path to a thriving tech career](https://github.blog/2023-03-06-unleash-your-potential-with-github-octernships-a-path-to-a-thriving-tech-career/)
-- [Open Source Career Day at SCaLE 20x](https://opensource.com/article/23/3/open-source-career-day-scale-20x)
 - [How to automate your dev environment with dev containers and GitHub Codespaces](https://github.blog/2023-03-06-how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/)
 <!-- BLOG-POST-LIST:END -->
 
