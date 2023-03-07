@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Enterprise Server 3.8 is now generally available](https://github.blog/2023-03-07-github-enterprise-server-3-8-is-now-generally-available/)
 - [File editing on GitHub Mobile keeps leveling up](https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/)
 - [Open Source Career Day at SCaLE 20x](https://opensource.com/article/23/3/open-source-career-day-scale-20x)
 - [Switch from iCloud to Nextcloud](https://opensource.com/article/23/3/switch-icloud-nextcloud)
 - [10 ways Wikimedia does developer advocacy](https://opensource.com/article/23/3/developer-advocacy-wikimedia)
-- [Unleash your potential with GitHub Octernships: a path to a thriving tech career](https://github.blog/2023-03-06-unleash-your-potential-with-github-octernships-a-path-to-a-thriving-tech-career/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
