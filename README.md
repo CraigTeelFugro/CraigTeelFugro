@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Switch from iCloud to Nextcloud](https://opensource.com/article/23/3/switch-icloud-nextcloud)
+- [10 ways Wikimedia does developer advocacy](https://opensource.com/article/23/3/developer-advocacy-wikimedia)
 - [Unleash your potential with GitHub Octernships: a path to a thriving tech career](https://github.blog/2023-03-06-unleash-your-potential-with-github-octernships-a-path-to-a-thriving-tech-career/)
 - [How to automate your dev environment with dev containers and GitHub Codespaces](https://github.blog/2023-03-06-how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/)
 - [Switch from Google Workspace to Nextcloud](https://opensource.com/article/23/3/switch-google-nextcloud)
-- [How Wikipedia helps keep the internet open](https://opensource.com/article/23/3/how-wikipedia-helps-keep-internet-open)
-- [Build a Raspberry Pi monitoring dashboard in under 30 minutes](https://opensource.com/article/23/3/build-raspberry-pi-dashboard-appsmith)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
