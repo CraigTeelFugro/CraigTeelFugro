@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Galaxy 2023: your guide to building a more flexible and productive software development cycle](https://github.blog/2023-03-08-github-galaxy-2023-your-guide-to-building-a-more-flexible-and-productive-software-development-cycle/)
 - [8 examples of influential women in tech](https://opensource.com/article/23/3/international-womens-day-tech-influence)
 - [What cloud developers need to know about hardware](https://opensource.com/article/23/3/cloud-hardware)
 - [Own your cloud with NextcloudPi on the Raspberry Pi](https://opensource.com/article/23/3/nextcloudpi-nextcloud-raspberry-pi)
 - [The power of sisterhood and allyship in open source](https://opensource.com/article/23/3/power-sisterhood-allyship-open-source)
-- [GitHub Enterprise Server 3.8 is now generally available](https://github.blog/2023-03-07-github-enterprise-server-3-8-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
