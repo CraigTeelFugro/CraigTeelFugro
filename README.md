@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 examples of influential women in tech](https://opensource.com/article/23/3/international-womens-day-tech-influence)
+- [What cloud developers need to know about hardware](https://opensource.com/article/23/3/cloud-hardware)
+- [Own your cloud with NextcloudPi on the Raspberry Pi](https://opensource.com/article/23/3/nextcloudpi-nextcloud-raspberry-pi)
+- [The power of sisterhood and allyship in open source](https://opensource.com/article/23/3/power-sisterhood-allyship-open-source)
 - [GitHub Enterprise Server 3.8 is now generally available](https://github.blog/2023-03-07-github-enterprise-server-3-8-is-now-generally-available/)
-- [File editing on GitHub Mobile keeps leveling up](https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/)
-- [Open Source Career Day at SCaLE 20x](https://opensource.com/article/23/3/open-source-career-day-scale-20x)
-- [Switch from iCloud to Nextcloud](https://opensource.com/article/23/3/switch-icloud-nextcloud)
-- [10 ways Wikimedia does developer advocacy](https://opensource.com/article/23/3/developer-advocacy-wikimedia)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
