@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is an edge-native application?](https://opensource.com/article/23/3/what-edge-native-application)
+- [How the GDB debugger and other tools use call frame information to determine the active function calls](https://opensource.com/article/23/3/gdb-debugger-call-frame-active-function-calls)
 - [How GitHub accelerates development for embedded systems](https://github.blog/2023-03-09-how-github-accelerates-development-for-embedded-systems/)
 - [Raising the bar for software security: GitHub 2FA begins March 13](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
 - [How GitHub Docs’ new search works](https://github.blog/2023-03-09-how-github-docs-new-search-works/)
-- [Multi-repository variant analysis: a powerful new way to perform security research across GitHub](https://github.blog/2023-03-09-multi-repository-variant-analysis-a-powerful-new-way-to-perform-security-research-across-github/)
-- [Postgres DevOps database administrator: A day in the life](https://opensource.com/article/23/3/postgres-devops-dba)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
