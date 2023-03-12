@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our favorite tech books written by women](https://opensource.com/article/23/3/tech-books-written-by-women)
 - [Open source reimagines the traditional keyboard](https://opensource.com/article/23/3/open-source-circular-one-handed-keyboard)
 - [Introducing GitHub vulnerability management integrations for security professionals](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/)
 - [Don’t leave developers behind in the Section 230 debate](https://github.blog/2023-03-10-dont-leave-developers-behind-in-the-section-230-debate/)
 - [What is an edge-native application?](https://opensource.com/article/23/3/what-edge-native-application)
-- [How the GDB debugger and other tools use call frame information to determine the active function calls](https://opensource.com/article/23/3/gdb-debugger-call-frame-active-function-calls)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
