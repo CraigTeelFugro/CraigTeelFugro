@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 questions for the OSI board candidates](https://opensource.com/article/23/3/questions-osi-board-candidates)
+- [Monitor Kubernetes cloud costs with open source tools](https://opensource.com/article/23/3/kubernetes-cloud-cost-monitoring)
+- [Keep the solar system in your pocket with a Raspberry Pi](https://opensource.com/article/23/3/stellarium-raspberry-pi)
 - [Our favorite tech books written by women](https://opensource.com/article/23/3/tech-books-written-by-women)
 - [Open source reimagines the traditional keyboard](https://opensource.com/article/23/3/open-source-circular-one-handed-keyboard)
-- [Introducing GitHub vulnerability management integrations for security professionals](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/)
-- [Don’t leave developers behind in the Section 230 debate](https://github.blog/2023-03-10-dont-leave-developers-behind-in-the-section-230-debate/)
-- [What is an edge-native application?](https://opensource.com/article/23/3/what-edge-native-application)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
