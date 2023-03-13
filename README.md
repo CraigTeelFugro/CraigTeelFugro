@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Activating Developers and the new Digital Public Goods Open Source Community Manager Program](https://github.blog/2023-03-13-introducing-activating-developers-and-the-new-digital-public-goods-open-source-community-manager-program/)
 - [7 questions for the OSI board candidates](https://opensource.com/article/23/3/questions-osi-board-candidates)
 - [Monitor Kubernetes cloud costs with open source tools](https://opensource.com/article/23/3/kubernetes-cloud-cost-monitoring)
 - [Keep the solar system in your pocket with a Raspberry Pi](https://opensource.com/article/23/3/stellarium-raspberry-pi)
 - [Our favorite tech books written by women](https://opensource.com/article/23/3/tech-books-written-by-women)
-- [Open source reimagines the traditional keyboard](https://opensource.com/article/23/3/open-source-circular-one-handed-keyboard)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
