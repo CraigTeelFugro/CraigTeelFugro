@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up your own open source DNS server](https://opensource.com/article/23/3/open-source-dns-server)
+- [Synchronize databases more easily with open source tools](https://opensource.com/article/23/3/synchronize-databases-apache-seatunnel)
 - [GitHub celebrates the ingenuity of developers with disabilities in new video series](https://github.blog/2023-03-14-github-celebrates-the-ingenuity-of-developers-with-disabilities-in-new-video-series/)
 - [5 of the most curious uses of the Raspberry Pi](https://opensource.com/article/23/3/most-curious-uses-raspberry-pi)
 - [Calculate pi by counting pixels](https://opensource.com/article/23/3/calculate-pi-counting-pixels)
-- [How I destroyed my Raspberry Pi](https://opensource.com/article/23/3/how-i-destroyed-my-raspberry-pi)
-- [Control your Raspberry Pi with Lua](https://opensource.com/article/23/3/control-your-raspberry-pi-lua)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
