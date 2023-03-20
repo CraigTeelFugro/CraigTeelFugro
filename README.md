@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create accessible websites with Drupal](https://opensource.com/article/23/3/create-accessible-websites-drupal)
+- [Develop on Kubernetes with open source tools](https://opensource.com/article/23/3/crossplane-okteto-develop-kubernetes)
 - [How I got my first job in tech and helped others do the same](https://opensource.com/article/23/3/my-first-job-tech)
 - [Partnering with EU policymakers to ensure the Cyber Resilience Act works for developers](https://github.blog/2023-03-17-partnering-with-eu-policymakers-to-ensure-the-cyber-resilience-act-works-for-developers/)
 - [How being open at work results in happy customers](https://opensource.com/article/23/3/open-customer-support)
-- [My first pull request at age 14](https://opensource.com/article/23/3/my-first-code-contribution-age-14)
-- [Godot 4.0 Release Party 🎉](https://github.blog/2023-03-16-godot-4-0-release-party/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
