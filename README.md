@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 surprising things Linux sysadmins can do with systemd](https://opensource.com/article/23/3/3-things-you-didnt-know-systemd-could-do)
+- [How to encourage positive online communication in your open source community](https://opensource.com/article/23/3/positive-communication-open-source)
 - [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [8 steps to refurbish an old computer with Linux](https://opensource.com/article/23/3/refurbish-old-computer-linux)
 - [Why your open source project needs a content strategy](https://opensource.com/article/23/3/open-source-project-content-strategy)
-- [A 5-minute tour of the Fediverse](https://opensource.com/article/23/3/tour-the-fediverse)
-- [Assess security risks in your open source project with Scorecard](https://opensource.com/article/23/3/open-source-security-scorecard)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
