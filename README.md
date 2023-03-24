@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source tools for mind mapping](https://opensource.com/article/23/3/open-source-mind-mapping)
+- [Open source maps and open data help humanitarian response](https://opensource.com/article/23/3/open-source-open-data-humanitarian-response)
 - [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 - [Build a secure code mindset with the GitHub Secure Code Game](https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/)
 - [3 surprising things Linux sysadmins can do with systemd](https://opensource.com/article/23/3/3-things-you-didnt-know-systemd-could-do)
-- [How to encourage positive online communication in your open source community](https://opensource.com/article/23/3/positive-communication-open-source)
-- [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
