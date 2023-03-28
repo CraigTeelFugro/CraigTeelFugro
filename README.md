@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing self-service SBOMs](https://github.blog/2023-03-28-introducing-self-service-sboms/)
+- [GitHub Galaxy 2023: Empower developer teams with a new developer experience](https://github.blog/2023-03-28-github-galaxy-2023-empower-developer-teams-with-a-new-developer-experience/)
 - [Announcing the GitHub Actions extension for VS Code](https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/)
 - [How to use Podman in GitLab Runners](https://opensource.com/article/23/3/podman-gitlab-runners)
 - [Why you should use Python and Rust together](https://opensource.com/article/23/3/python-loves-rust)
-- [Use this open source accounting app to run your small business](https://opensource.com/article/23/3/open-source-accounting-run-business)
-- [Create a ChatBot in Mattermost with Python](https://opensource.com/article/23/3/chatbot-mattermost-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
