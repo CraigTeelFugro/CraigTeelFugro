@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Podman in GitLab Runners](https://opensource.com/article/23/3/podman-gitlab-runners)
+- [Why you should use Python and Rust together](https://opensource.com/article/23/3/python-loves-rust)
 - [Use this open source accounting app to run your small business](https://opensource.com/article/23/3/open-source-accounting-run-business)
 - [Create a ChatBot in Mattermost with Python](https://opensource.com/article/23/3/chatbot-mattermost-python)
 - [Open source tools for mind mapping](https://opensource.com/article/23/3/open-source-mind-mapping)
-- [Open source maps and open data help humanitarian response](https://opensource.com/article/23/3/open-source-open-data-humanitarian-response)
-- [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
