@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using mocks in Python](https://opensource.com/article/23/4/using-mocks-python)
+- [Write a cute program with Emojicode](https://opensource.com/article/23/4/emojicode)
 - [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)
 - [Measure pi with a Raspberry Pi](https://opensource.com/article/23/3/measure-pi-raspberry-pi)
 - [Improvements to CodeQL’s data flow library for C++](https://github.blog/2023-03-30-improvements-to-codeqls-data-flow-library-for-c/)
-- [3 reasons my Linux team uses Penpot](https://opensource.com/article/23/3/linux-penpot)
-- [How to encourage positive online communication in your open source community](https://opensource.com/article/23/3/positive-communication-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
