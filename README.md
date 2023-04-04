@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to resolve Git merge conflicts](https://opensource.com/article/23/4/resolve-git-merge-conflicts)
 - [Level up monitoring and reporting for your enterprise](https://github.blog/2023-04-03-level-up-monitoring-and-reporting-for-your-enterprise/)
 - [Calling all open source maintainers](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
 - [Handle any type of document with this open source tool](https://opensource.com/article/23/4/open-source-collabora-online-interoperability)
 - [Open source text editing for your website with CKEditor](https://opensource.com/article/23/4/website-text-editor-ckeditor)
-- [Using mocks in Python](https://opensource.com/article/23/4/using-mocks-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
