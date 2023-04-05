@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/)
 - [Open source community analysis with actionable insights](https://opensource.com/article/23/4/open-source-community-analysis-actionable-insights)
 - [How I learned the hard way to keep my website updated](https://opensource.com/article/23/4/my-website-compromised)
 - [BASIC vs. FORTRAN 77: Comparing programming blasts from the past](https://opensource.com/article/23/4/basic-vs-fortran-77)
 - [Our favorite fonts for the Linux terminal](https://opensource.com/article/23/4/linux-terminal-fonts)
-- [What’s new with GitHub Sponsors](https://github.blog/2023-04-04-whats-new-with-github-sponsors/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
