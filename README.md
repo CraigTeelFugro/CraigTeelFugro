@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make a web-safe color guide with Bash](https://opensource.com/article/23/4/web-safe-color-guide-bash)
+- [How to lead through change with open leadership](https://opensource.com/article/23/4/open-leadership-through-change)
 - [Bring your enterprise together with enterprise accounts for all](https://github.blog/2023-04-05-bring-your-enterprise-together-with-enterprise-accounts-for-all/)
 - [GitHub Availability Report: March 2023](https://github.blog/2023-04-05-github-availability-report-march-2023/)
 - [Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/)
-- [Open source community analysis with actionable insights](https://opensource.com/article/23/4/open-source-community-analysis-actionable-insights)
-- [How I learned the hard way to keep my website updated](https://opensource.com/article/23/4/my-website-compromised)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
