@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
+- [Game Bytes · April 2023](https://github.blog/2023-04-07-game-bytes-april-2023/)
 - [5 best practices for PatternFly, an open source design system](https://opensource.com/article/23/4/open-source-design-system-patternfly)
 - [Building GitHub with Ruby and Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 - [Pwning Pixel 6 with a leftover patch](https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/)
-- [Make a web-safe color guide with Bash](https://opensource.com/article/23/4/web-safe-color-guide-bash)
-- [How to lead through change with open leadership](https://opensource.com/article/23/4/open-leadership-through-change)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
