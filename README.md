@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove the background from an image with this Linux command](https://opensource.com/article/23/4/image-editing-linux-python)
 - [A search engine for Creative Commons](https://opensource.com/article/23/4/search-engine-creative-commons-openverse)
 - [What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
 - [Game Bytes · April 2023](https://github.blog/2023-04-07-game-bytes-april-2023/)
 - [5 best practices for PatternFly, an open source design system](https://opensource.com/article/23/4/open-source-design-system-patternfly)
-- [Building GitHub with Ruby and Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
