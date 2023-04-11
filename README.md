@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI-enabled compliance for software development](https://github.blog/2023-04-11-generative-ai-enabled-compliance-for-software-development/)
 - [5 open source principles that help organizational governance](https://opensource.com/article/23/4/open-source-principals-organizational-governance)
 - [7 tips to make the most of your next tech conference](https://opensource.com/article/23/4/tips-tech-conference)
 - [How enabling developers can help drive financial inclusion](https://github.blog/2023-04-10-how-enabling-developers-can-help-drive-financial-inclusion/)
 - [Remove the background from an image with this Linux command](https://opensource.com/article/23/4/image-editing-linux-python)
-- [A search engine for Creative Commons](https://opensource.com/article/23/4/search-engine-creative-commons-openverse)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
