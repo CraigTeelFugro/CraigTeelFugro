@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ensuring compliance in developer workflows](https://github.blog/2023-04-13-ensuring-compliance-in-developer-workflows/)
 - [5 reasons virtual machines still matter](https://opensource.com/article/23/4/5-reasons-virtual-machines-still-matter)
 - [Run Git on a mainframe](https://opensource.com/article/23/4/git-mainframe)
 - [GitHub Accelerator: our first cohort and what’s next](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
 - [7 open source modules to make your website accessible](https://opensource.com/article/23/4/drupal-modules-website-accessibility)
-- [Know your inner quantum with open leadership](https://opensource.com/article/23/4/inner-quantum-open-leadership)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
