@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 benefits of migrating and consolidating your source code](https://github.blog/2023-04-14-3-benefits-of-migrating-and-consolidating-your-source-code/)
 - [How generative AI is changing the way developers work](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/)
 - [A distributed database load-balancing architecture with ShardingSphere](https://opensource.com/article/23/4/distributed-database-load-balancing-architecture-shardingsphere)
 - [5 Raspberry Pi projects to do with this open source data tool](https://opensource.com/article/23/4/raspberry-pi-projects-influxdb)
 - [Ensuring compliance in developer workflows](https://github.blog/2023-04-13-ensuring-compliance-in-developer-workflows/)
-- [5 reasons virtual machines still matter](https://opensource.com/article/23/4/5-reasons-virtual-machines-still-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
