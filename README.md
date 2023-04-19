@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private vulnerability reporting now generally available](https://github.blog/2023-04-19-private-vulnerability-reporting-now-generally-available/)
+- [Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/)
 - [The sharing economy and the open organization](https://opensource.com/article/23/4/sharing-economy-open-organization)
 - [Explore data visually with Python tools](https://opensource.com/article/23/4/data-visualization-pygwalker-jupyter-notebook)
 - [GitHub joins industry commitment to curb cyber mercenaries](https://github.blog/2023-04-18-github-joins-industry-commitment-to-curb-cyber-mercenaries/)
-- [Use autoloading and namespaces in PHP](https://opensource.com/article/23/4/autoloading-namespaces-php)
-- [Talk to your cluster with this open source Python API wrapper](https://opensource.com/article/23/4/cluster-open-source-python-api-wrapper)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
