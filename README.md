@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The future of the sharing business model](https://opensource.com/article/23/4/future-sharing-business-model)
+- [How I teach Python with open source tools](https://opensource.com/article/23/4/how-i-teach-python)
 - [Announcing GitHub Actions Deployment Protection Rules, now in public beta](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/)
 - [Real-world examples of the sharing economy](https://opensource.com/article/23/4/sharing-economy-examples)
 - [What you need to know about the Drupal 9 to 10 migration](https://opensource.com/article/23/4/drupal-9-10-migration)
-- [Private vulnerability reporting now generally available](https://github.blog/2023-04-19-private-vulnerability-reporting-now-generally-available/)
-- [Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
