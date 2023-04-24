@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Tcl/Tk and Wish with this simple game](https://opensource.com/article/23/4/learn-tcltk-wish-simple-game)
+- [C vs. Go: Comparing programming languages](https://opensource.com/article/23/4/c-vs-go-programming-languages)
 - [10 ways to celebrate Earth Day with open source](https://opensource.com/article/23/4/celebrate-earth-day-open-source)
 - [The future of the sharing business model](https://opensource.com/article/23/4/future-sharing-business-model)
 - [How I teach Python with open source tools](https://opensource.com/article/23/4/how-i-teach-python)
-- [Announcing GitHub Actions Deployment Protection Rules, now in public beta](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/)
-- [Real-world examples of the sharing economy](https://opensource.com/article/23/4/sharing-economy-examples)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
