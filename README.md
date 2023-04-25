@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git security vulnerabilities announced](https://github.blog/2023-04-25-git-security-vulnerabilities-announced-4/)
 - [Gearing up for Maintainer Month this May!](https://github.blog/2023-04-25-gearing-up-for-maintainer-month-this-may/)
 - [Shaping the GitHub of the future as COO](https://github.blog/2023-04-25-shaping-the-github-of-the-future-as-coo/)
 - [What&#39;s new in GNOME 44?](https://opensource.com/article/23/4/linux-gnome-44-features)
 - [Retry your Python code until it fails](https://opensource.com/article/23/4/retry-your-python-code-until-it-fails)
-- [Learn Tcl/Tk and Wish with this simple game](https://opensource.com/article/23/4/learn-tcltk-wish-simple-game)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
