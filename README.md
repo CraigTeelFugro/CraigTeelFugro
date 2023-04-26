@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Test your Drupal website with Cypress](https://opensource.com/article/23/4/website-test-drupal-cypress)
+- [5 open ways to help UX designers and developers collaborate better](https://opensource.com/article/23/4/designers-developers-collaborate)
 - [Git security vulnerabilities announced](https://github.blog/2023-04-25-git-security-vulnerabilities-announced-4/)
 - [Gearing up for Maintainer Month this May!](https://github.blog/2023-04-25-gearing-up-for-maintainer-month-this-may/)
 - [Shaping the GitHub of the future as COO](https://github.blog/2023-04-25-shaping-the-github-of-the-future-as-coo/)
-- [What&#39;s new in GNOME 44?](https://opensource.com/article/23/4/linux-gnome-44-features)
-- [Retry your Python code until it fails](https://opensource.com/article/23/4/retry-your-python-code-until-it-fails)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
