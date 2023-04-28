@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I used guilt as a motivator for good](https://opensource.com/article/23/4/guilt-motivation)
+- [3 reasons to host a docathon for your open source project](https://opensource.com/article/23/4/open-source-docathon)
 - [Run a virtual conference using only open source tools](https://opensource.com/article/23/4/open-source-tools-virtual-conference)
 - [3 key open source challenges in developing countries](https://opensource.com/article/23/4/challenges-open-source-developing-countries)
 - [CLI tricks every developer should know](https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/)
-- [Test your Drupal website with Cypress](https://opensource.com/article/23/4/website-test-drupal-cypress)
-- [5 open ways to help UX designers and developers collaborate better](https://opensource.com/article/23/4/designers-developers-collaborate)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
