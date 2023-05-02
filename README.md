@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generate web pages from Markdown with Docsify-This](https://opensource.com/article/23/5/docsify-markdown-html)
 - [This month on The ReadME Podcast: exploring the fusion of technology and progress](https://github.blog/2023-04-28-this-month-on-the-readme-podcast-exploring-the-fusion-of-technology-and-progress/)
 - [How I used guilt as a motivator for good](https://opensource.com/article/23/4/guilt-motivation)
 - [3 reasons to host a docathon for your open source project](https://opensource.com/article/23/4/open-source-docathon)
 - [Run a virtual conference using only open source tools](https://opensource.com/article/23/4/open-source-tools-virtual-conference)
-- [3 key open source challenges in developing countries](https://opensource.com/article/23/4/challenges-open-source-developing-countries)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
