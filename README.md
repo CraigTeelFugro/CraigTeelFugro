@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/)
 - [Push protection is generally available, and free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
 - [How we work: inclusive retrospectives for the GitHub Accessibility leadership team](https://github.blog/2023-05-08-how-we-work-inclusive-retrospectives-for-the-github-accessibility-leadership-team/)
 - [GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
 - [Building a culture of innovation in your business with GitHub](https://github.blog/2023-05-08-building-a-culture-of-innovation-in-your-business-with-github/)
-- [Building a more inclusive GitHub Global Campus](https://github.blog/2023-05-05-building-a-more-inclusive-github-global-campus/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
