@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub celebrates developers with disabilities on Global Accessibility Awareness Day](https://github.blog/2023-05-18-github-celebrates-developers-with-disabilities-on-global-accessibility-awareness-day/)
 - [Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
 - [How GitHub Copilot is getting better at understanding your code](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/)
 - [Design’s journey towards accessibility](https://github.blog/2023-05-17-designs-journey-towards-accessibility/)
 - [Addressing GitHub’s recent availability issues](https://github.blog/2023-05-16-addressing-githubs-recent-availability-issues/)
-- [This month on The ReadME Podcast: Balancing openness and control](https://github.blog/2023-05-12-this-month-on-the-readme-podcast-balancing-openness-and-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
