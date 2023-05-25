@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rooting with root cause: finding a variant of a Project Zero bug](https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/)
 - [How to automate a Microsoft Power Platform deployment using GitHub Actions](https://github.blog/2023-05-24-how-to-automate-a-microsoft-power-platform-deployment-using-github-actions/)
 - [Kelsey Hightower on leadership in open source and the future of Kubernetes](https://github.blog/2023-05-24-kelsey-hightower-on-leadership-in-open-source-and-the-future-of-kubernetes/)
 - [Announcing the public preview of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-05-23-announcing-the-public-preview-of-github-advanced-security-for-azure-devops/)
 - [9 tips to go from attendee to speaker at a tech conference](https://github.blog/2023-05-18-9-tips-to-go-from-attendee-to-speaker-at-a-tech-conference/)
-- [GitHub celebrates developers with disabilities on Global Accessibility Awareness Day](https://github.blog/2023-05-18-github-celebrates-developers-with-disabilities-on-global-accessibility-awareness-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
