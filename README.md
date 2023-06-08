@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maintainer Month 2023: How the community gathered to spread some maintainer love](https://github.blog/2023-06-08-maintainer-month-2023-how-the-community-gathered-to-spread-some-maintainer-love/)
 - [Developer experience: what is it and why should you care?](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)
 - [Announcing the All In CHAOSS DEI Badging pilot initiative](https://github.blog/2023-06-07-announcing-the-all-in-chaoss-dei-badging-pilot-initiative/)
 - [New developments at Opensource.com](https://opensource.com/article/23/6/new-developments-opensourcecom)
 - [Swift support brings broader mobile application security to GitHub Advanced Security](https://github.blog/2023-06-06-swift-support-brings-broader-mobile-application-security-to-github-advanced-security/)
-- [Announcing the Stale Repos Action](https://github.blog/2023-06-05-announcing-the-stale-repos-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
