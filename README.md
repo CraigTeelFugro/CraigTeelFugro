@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Survey reveals AI’s impact on the developer experience](https://github.blog/2023-06-12-survey-reveals-ais-impact-on-the-developer-experience/)
 - [Make your GitHub projects more accessible with accessibility-alt-text-bot](https://github.blog/2023-06-12-make-your-github-projects-more-accessible-with-accessibility-alt-text-bot/)
 - [Cloud migration made easy: introducing GitHub Enterprise Importer](https://github.blog/2023-06-12-cloud-migration-made-easy-introducing-github-enterprise-importer/)
 - [Maintainer Month 2023: How the community gathered to spread some maintainer love](https://github.blog/2023-06-08-maintainer-month-2023-how-the-community-gathered-to-spread-some-maintainer-love/)
 - [Developer experience: what is it and why should you care?](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)
-- [Announcing the All In CHAOSS DEI Badging pilot initiative](https://github.blog/2023-06-07-announcing-the-all-in-chaoss-dei-badging-pilot-initiative/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
