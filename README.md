@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Enterprise Server 3.9 is now generally available](https://github.blog/2023-06-29-github-enterprise-server-3-9-is-now-generally-available/)
 - [The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/)
 - [New tool to secure your GitHub Actions](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/)
 - [Open Source challenge results from Gamedev.js Jam 2023](https://github.blog/2023-06-21-gamedev-js-2023/)
 - [Bridging code and community](https://github.blog/2023-06-21-bridging-code-and-community/)
-- [Crafting a better, faster code view](https://github.blog/2023-06-21-crafting-a-better-faster-code-view/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
