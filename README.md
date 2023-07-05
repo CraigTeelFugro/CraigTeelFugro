@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub achieves ISO/IEC 27701:2019, 27018:2019, and CSA STAR certifications](https://github.blog/2023-07-05-github-achieves-iso-iec-277012019-270182019-and-csa-star-certifications/)
 - [Introduction to SELinux](https://github.blog/2023-07-05-introduction-to-selinux/)
 - [Leading your platform migration with developer experience](https://github.blog/2023-07-03-leading-your-platform-migration-with-developer-experience/)
 - [Game Bytes · June 2023](https://github.blog/2023-06-30-game-bytes-june-2023/)
 - [GitHub Enterprise Server 3.9 is now generally available](https://github.blog/2023-06-29-github-enterprise-server-3-9-is-now-generally-available/)
-- [The economic impact of the AI-powered developer lifecycle and lessons from GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
