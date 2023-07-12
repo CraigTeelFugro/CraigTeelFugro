@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing passwordless authentication on GitHub.com](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/)
 - [GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/)
 - [Demonstrating end-to-end traceability with pull requests](https://github.blog/2023-07-11-demonstrating-end-to-end-traceability-with-pull-requests/)
 - [Accessibility considerations behind code search and code view](https://github.blog/2023-07-06-accessibility-considerations-behind-code-search-and-code-view/)
 - [Keeping up with big shifts in tech](https://github.blog/2023-07-06-keeping-up-with-big-shifts-in-tech/)
-- [GitHub achieves ISO/IEC 27701:2019, 27018:2019, and CSA STAR certifications](https://github.blog/2023-07-05-github-achieves-iso-iec-277012019-270182019-and-csa-star-certifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
