@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving from a product to a service mindset](https://github.blog/2023-07-13-moving-from-a-product-to-a-service-mindset/)
 - [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
 - [No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 - [Introducing passwordless authentication on GitHub.com](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/)
-- [GitHub CLI project command is now generally available!](https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
