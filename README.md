@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A developer’s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/)
 - [Release Radar · Spring 2023 Edition](https://github.blog/2023-07-13-release-radar-spring-23/)
 - [&lpar;De&rpar;coding conventions](https://github.blog/2023-07-13-decoding-conventions/)
 - [Moving from a product to a service mindset](https://github.blog/2023-07-13-moving-from-a-product-to-a-service-mindset/)
 - [GitHub Availability Report: June 2023](https://github.blog/2023-07-12-github-availability-report-june-2023/)
-- [No cyber resilience without open source sustainability](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
