@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to designing and shipping AI developer tools](https://github.blog/2023-08-08-a-guide-to-designing-and-shipping-ai-developer-tools/)
 - [A checklist and guide to get your repository collaboration-ready](https://github.blog/2023-08-04-a-checklist-and-guide-to-get-your-repository-collaboration-ready/)
 - [Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/)
 - [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
 - [How we build containerized services at GitHub using GitHub](https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/)
-- [Smarter, more efficient coding: GitHub Copilot goes beyond Codex with improved AI model](https://github.blog/2023-07-28-smarter-more-efficient-coding-github-copilot-goes-beyond-codex-with-improved-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
