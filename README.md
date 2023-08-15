@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/)
 - [Nine years of the GitHub Security Bug Bounty program](https://github.blog/2023-08-14-nine-years-of-the-github-security-bug-bounty-program/)
 - [Enhanced push protection features for developers and organizations](https://github.blog/2023-08-09-enhanced-push-protection-features-for-developers-and-organizations/)
 - [GitHub Availability Report: July 2023](https://github.blog/2023-08-09-github-availability-report-july-2023/)
 - [Four tips to keep your GitHub Actions workflows secure](https://github.blog/2023-08-09-four-tips-to-keep-your-github-actions-workflows-secure/)
-- [A guide to designing and shipping AI developer tools](https://github.blog/2023-08-08-a-guide-to-designing-and-shipping-ai-developer-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
