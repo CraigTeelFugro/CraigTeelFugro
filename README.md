@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Game Bytes · August 2023](https://github.blog/2023-08-25-game-bytes-august-2023/)
 - [A faster way to manage version updates with Dependabot](https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/)
 - [Unleashing GitHub Codespaces templates to ignite your development](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/)
 - [AI-powered impact: GitHub Social Impact’s year ahead](https://github.blog/2023-08-23-ai-powered-impact-github-social-impacts-year-ahead/)
 - [Highlights from Git 2.42](https://github.blog/2023-08-21-highlights-from-git-2-42/)
-- [mTLS: When certificate authentication is done wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
