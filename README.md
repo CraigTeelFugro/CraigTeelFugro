@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)
 - [Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/)
-- [How GitHub reduces costs with upgraded Codespaces](https://github.blog/2023-08-31-how-github-reduces-costs-with-upgraded-codespaces/)
+- [Optimize your GitHub Codespaces costs with upgraded virtual machines](https://github.blog/2023-08-31-how-github-reduces-costs-with-upgraded-codespaces/)
 - [Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/)
 - [GitHub Enterprise Server 3.10 is now generally available](https://github.blog/2023-08-29-github-enterprise-server-3-10-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
