@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/)
 - [Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/)
 - [CodeQL team uses AI to power vulnerability detection in code](https://github.blog/2023-09-12-codeql-team-uses-ai-to-power-vulnerability-detection-in-code/)
 - [How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)
 - [Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/)
-- [Optimize your GitHub Codespaces costs with upgraded virtual machines](https://github.blog/2023-08-31-how-github-reduces-costs-with-upgraded-codespaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
