@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Learning Paths on Global Campus](https://github.blog/2023-09-20-introducing-learning-paths-on-global-campus/)
 - [Announcing general availability of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-09-20-announcing-general-availability-of-github-advanced-security-for-azure-devops/)
 - [Switching from Bitbucket Server and Bamboo to GitHub just got easier](https://github.blog/2023-09-18-switching-from-bitbucket-server-and-bamboo-to-github-just-got-easier/)
 - [Introducing auto-triage rules for Dependabot](https://github.blog/2023-09-14-introducing-auto-triage-rules-for-dependabot/)
 - [GitHub Availability Report: August 2023](https://github.blog/2023-09-13-github-availability-report-august-2023/)
-- [Apply now for GitHub Universe 2023 micro-mentoring](https://github.blog/2023-09-13-apply-now-for-github-universe-2023-micro-mentoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
