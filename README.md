@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/)
 - [Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
 - [Announcing the GitHub Innovation Graph](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/)
 - [GitHub Copilot Chat beta now available for all individuals](https://github.blog/2023-09-20-github-copilot-chat-beta-now-available-for-all-individuals/)
 - [Introducing Learning Paths on Global Campus](https://github.blog/2023-09-20-introducing-learning-paths-on-global-campus/)
-- [Announcing general availability of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-09-20-announcing-general-availability-of-github-advanced-security-for-azure-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
