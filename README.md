@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/)
 - [Measuring Git performance with OpenTelemetry](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/)
 - [js13kGames 2023 winners 🏆](https://github.blog/2023-10-13-js13k-2023-winners/)
 - [Ensuring the next generation of open source leaders are truly “all in”](https://github.blog/2023-10-12-ensuring-the-next-generation-of-open-source-leaders-are-truly-all-in/)
 - [GitHub Availability Report: September 2023](https://github.blog/2023-10-11-github-availability-report-september-2023/)
-- [Enforcing code reliability by requiring workflows with GitHub Repository Rules](https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
