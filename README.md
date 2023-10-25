@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity spotlight on bug bounty researcher @Ammar Askar](https://github.blog/2023-10-25-cybersecurity-spotlight-on-bug-bounty-researcher-ammar-askar/)
 - [How to gain insight into your project contributors](https://github.blog/2023-10-23-how-to-gain-insight-into-your-project-contributors/)
 - [ICYMI: improved C++ vulnerability coverage and CodeQL support for Lombok](https://github.blog/2023-10-19-icymi-improved-c-vulnerability-coverage-and-codeql-support-for-lombok/)
 - [Your curated GitHub Universe agenda: AI, ethics, and productivity](https://github.blog/2023-10-17-your-curated-github-universe-agenda-ai-ethics-and-productivity/)
 - [The clock is ticking: Atlassian’s support for Bitbucket Server ends on February 15, 2024](https://github.blog/2023-10-17-the-clock-is-ticking-atlassians-support-for-bitbucket-server-ends-on-february-15-2024/)
-- [Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
