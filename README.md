@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
+- [Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/)
+- [Introducing AI-powered application security testing with GitHub Advanced Security](https://github.blog/2023-11-08-ai-powered-appsec/)
 - [Leveraging AI to empower all developers at GitHub Universe 2023](https://github.blog/2023-11-02-leveraging-ai-to-empower-all-developers-at-github-universe-2023/)
 - [Celebrating the first round of GitHub Accelerator and what’s next](https://github.blog/2023-11-02-celebrating-the-first-round-of-github-accelerator-and-whats-next/)
-- [GitHub Game Off 2023 theme announcement](https://github.blog/2023-11-01-github-game-off-2023-theme-announcement/)
-- [Diversity, inclusion, and belonging at GitHub in 2023](https://github.blog/2023-11-01-diversity-inclusion-and-belonging-at-github-in-2023/)
-- [Introducing the GitHub transparency center](https://github.blog/2023-10-31-introducing-the-github-transparency-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
