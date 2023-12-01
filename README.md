@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From the pages of our Insider newsletter: How to use GitHub Copilot](https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/)
+- [Insider newsletter digest: How to use GitHub Copilot](https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/)
 - [Securing our home labs: Home Assistant code review](https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/)
 - [For Good First Issue: Introducing a new way to contribute](https://github.blog/2023-11-21-for-good-first-issue-introducing-a-new-way-to-contribute/)
 - [Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/)
