@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Innovation Graph Q2 2023 Data Release](https://github.blog/2023-12-07-github-innovation-graph-q2-2023-data-release/)
 - [Cueing up a calculator: an introduction to exploit development on Linux](https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/)
 - [How we’re experimenting with LLMs to evolve GitHub Copilot](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/)
 - [GitHub Enterprise Server 3.11 is now generally available](https://github.blog/2023-12-05-github-enterprise-server-3-11-is-now-generally-available/)
 - [Addressing post-quantum cryptography with CodeQL](https://github.blog/2023-12-05-addressing-post-quantum-cryptography-with-codeql/)
-- [The ultimate gifts for the developer in your life this holiday season](https://github.blog/2023-12-04-the-ultimate-gifts-for-the-developer-in-your-life-this-holiday-season/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
