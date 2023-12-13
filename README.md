@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: November 2023](https://github.blog/2023-12-13-github-availability-report-november-2023/)
 - [Securing our home labs: Frigate code review](https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/)
 - [Default setup now includes scheduled scans and supports all languages covered by CodeQL](https://github.blog/2023-12-13-default-setup-now-includes-scheduled-scans-and-supports-all-languages-covered-by-codeql/)
 - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 - [From macOS runners to secure deployments, what’s new from GitHub Actions](https://github.blog/2023-12-07-from-macos-runners-to-secure-deployments-whats-new-from-github-actions/)
-- [GitHub Innovation Graph Q2 2023 Data Release](https://github.blog/2023-12-07-github-innovation-graph-q2-2023-data-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
