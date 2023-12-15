@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Release Radar · Thanksgiving 2023 Edition](https://github.blog/2023-12-14-release-radar-nov-2023/)
+- [Release Radar · October-November 2023 Edition](https://github.blog/2023-12-14-release-radar-nov-2023/)
 - [Scaling vulnerability management across thousands of services and more than 150 million findings](https://github.blog/2023-12-14-scaling-vulnerability-management-across-thousands-of-services-and-more-than-150-million-findings/)
 - [GitHub Availability Report: November 2023](https://github.blog/2023-12-13-github-availability-report-november-2023/)
 - [Securing our home labs: Frigate code review](https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/)
