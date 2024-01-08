@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Certifications are generally available](https://github.blog/2024-01-08-github-certifications-are-generally-available/)
 - [GitHub and the Ekoparty 2023 Capture the Flag](https://github.blog/2024-01-08-github-and-the-ekoparty-2023-capture-the-flag/)
 - [Frenemies to friends: Developers and security tools](https://github.blog/2024-01-08-frenemies-to-friends-developers-and-security-tools/)
 - [5 ways to make your DevSecOps strategy developer-friendly](https://github.blog/2024-01-05-5-ways-to-make-your-devsecops-strategy-developer-friendly/)
 - [Our move to generated SDKs](https://github.blog/2024-01-03-our-move-to-generated-sdks/)
-- [GitHub Copilot Chat now generally available for organizations and individuals](https://github.blog/2023-12-29-github-copilot-chat-now-generally-available-for-organizations-and-individuals/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
