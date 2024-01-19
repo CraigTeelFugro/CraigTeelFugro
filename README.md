@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Game Bytes · January 2024](https://github.blog/2024-01-18-game-bytes-january-2024/)
 - [Insider newsletter digest: Build from anywhere](https://github.blog/2024-01-18-insider-newsletter-digest-build-from-anywhere/)
 - [New data and visualizations highlight the resilience of international developer collaboration](https://github.blog/2024-01-18-new-data-and-visualizations-highlight-the-resilience-of-international-developer-collaboration/)
 - [GitHub Availability Report: December 2023](https://github.blog/2024-01-17-github-availability-report-december-2023/)
 - [GitHub-hosted runners: Double the power for open source](https://github.blog/2024-01-17-github-hosted-runners-double-the-power-for-open-source/)
-- [A developer’s second brain: Reducing complexity through partnership with AI](https://github.blog/2024-01-17-a-developers-second-brain-reducing-complexity-through-partnership-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
