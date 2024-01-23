@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/)
 - [How to get in the flow while coding &lpar;and why it’s important&rpar;](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/)
 - [10 unexpected ways to use GitHub Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/)
 - [Game Bytes · January 2024](https://github.blog/2024-01-18-game-bytes-january-2024/)
 - [Insider newsletter digest: Build from anywhere](https://github.blog/2024-01-18-insider-newsletter-digest-build-from-anywhere/)
-- [New data and visualizations highlight the resilience of international developer collaboration](https://github.blog/2024-01-18-new-data-and-visualizations-highlight-the-resilience-of-international-developer-collaboration/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
