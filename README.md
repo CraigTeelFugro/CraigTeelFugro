@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AppSec is harder than you think. Here’s how AI can help.](https://github.blog/2024-02-06-appsec-is-harder-than-you-think-heres-how-ai-can-help/)
 - [Release Radar · January 2024 Edition](https://github.blog/2024-02-02-release-radar-jan-2024/)
 - [Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies/)
 - [GitHub Fund 2024 and beyond: Looking to the future](https://github.blog/2024-01-25-github-fund-2024-and-beyond-looking-to-the-future/)
 - [How GitHub’s Developer Experience team improved innerloop development](https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/)
-- [A guide to open source for the social sector](https://github.blog/2024-01-23-a-guide-to-open-source-for-the-social-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
