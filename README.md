@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bringing npm registry services to GitHub Codespaces](https://github.blog/2024-02-13-bringing-npm-registry-services-to-github-codespaces/)
 - [Powering advancements of AI in the open: Apply now to GitHub Accelerator](https://github.blog/2024-02-13-powering-advancements-of-ai-in-the-open-apply-now-to-github-accelerator/)
 - [Get started with v4 of GitHub Actions Artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/)
 - [The architecture of SAST tools: An explainer for developers](https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/)
 - [Copilot in GitHub Support is now available!](https://github.blog/2024-02-09-copilot-in-github-support-is-now-available/)
-- [GitHub’s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
