@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Insider newsletter digest: Cook up a controller with GitHub Copilot](https://github.blog/2024-02-22-insider-newsletter-digest-cook-up-a-controller-with-github-copilot/)
 - [How to stay safe from repo-jacking](https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/)
 - [Empowering all developers to build without barriers](https://github.blog/2024-02-21-empowering-all-developers-to-build-without-barriers/)
 - [Build code security skills with the GitHub Secure Code Game](https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game/)
 - [GitHub Availability Report: January 2024](https://github.blog/2024-02-14-github-availability-report-january-2024/)
-- [Fixing security vulnerabilities with AI](https://github.blog/2024-02-14-fixing-security-vulnerabilities-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
