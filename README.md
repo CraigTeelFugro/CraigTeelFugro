@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How we’re using GitHub Projects to standardize our workflows and stay aligned](https://github.blog/2024-02-28-how-were-using-github-projects-to-standardize-our-workflows-and-stay-aligned/)
 - [GitHub Copilot Enterprise is now generally available](https://github.blog/2024-02-27-github-copilot-enterprise-is-now-generally-available/)
 - [Highlights from Git 2.44](https://github.blog/2024-02-23-highlights-from-git-2-44/)
 - [How AI code generation works](https://github.blog/2024-02-22-how-ai-code-generation-works/)
 - [Insider newsletter digest: Cook up a controller with GitHub Copilot](https://github.blog/2024-02-22-insider-newsletter-digest-cook-up-a-controller-with-github-copilot/)
-- [How to stay safe from repo-jacking](https://github.blog/2024-02-21-how-to-stay-safe-from-repo-jacking/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
