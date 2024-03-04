@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeping repository maintainer information accurate](https://github.blog/2024-03-04-keeping-repository-maintainer-information-accurate/)
 - [GitHub Copilot Learning Pathway: Accelerate your business with AI](https://github.blog/2024-03-04-github-copilot-learning-pathway-accelerate-your-business-with-ai/)
 - [Game Bytes · February 2024](https://github.blog/2024-02-29-game-bytes-february-2024/)
 - [Meet Kayla: A college student and open source ambassador](https://github.blog/2024-02-29-meet-kayla-a-college-student-and-open-source-ambassador/)
 - [Keeping secrets out of public repositories](https://github.blog/2024-02-29-keeping-secrets-out-of-public-repositories/)
-- [Customizing and fine-tuning LLMs: What you need to know](https://github.blog/2024-02-28-customizing-and-fine-tuning-llms-what-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
