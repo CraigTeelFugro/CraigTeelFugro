@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Empowering women through open source](https://github.blog/2024-03-28-empowering-women-through-open-source/)
 - [Game Bytes · March 2024](https://github.blog/2024-03-27-game-bytes-march-2024/)
-- [Using GitHub Copilot in your IDE: Tips, tricks and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
+- [Using GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
 - [Insider newsletter digest: 4 things you didn’t know you could do with GitHub Projects](https://github.blog/2024-03-21-insider-newsletter-digest-4-things-you-didnt-know-you-could-do-with-github-projects/)
 - [Found means fixed: Introducing code scanning autofix, powered by GitHub Copilot and CodeQL](https://github.blog/2024-03-20-found-means-fixed-introducing-code-scanning-autofix-powered-by-github-copilot-and-codeql/)
 <!-- BLOG-POST-LIST:END -->
