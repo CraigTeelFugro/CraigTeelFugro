@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The world’s fair of software: Join us at GitHub Universe 2024](https://github.blog/2024-04-16-the-worlds-fair-of-software-join-us-at-github-universe-2024/)
 - [All In Africa: New cohort now open!](https://github.blog/2024-04-11-all-in-africa-new-cohort-now-open/)
 - [Helping policymakers weigh the benefits of open source AI](https://github.blog/2024-04-10-helping-policymakers-weigh-the-benefits-of-open-source-ai/)
 - [GitHub Availability Report: March 2024](https://github.blog/2024-04-10-github-availability-report-march-2024/)
 - [4 ways GitHub engineers use GitHub Copilot](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/)
-- [Explore the seasons of software development with four full years of data](https://github.blog/2024-04-09-explore-the-seasons-of-software-development-with-four-full-years-of-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
