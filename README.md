@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/)
 - [GitHub Actions, Arm64, and the future of automotive software development](https://github.blog/2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development/)
 - [Securing millions of developers through 2FA](https://github.blog/2024-04-24-securing-millions-of-developers-through-2fa/)
 - [Using open source to help the earth](https://github.blog/2024-04-22-using-open-source-to-help-the-earth/)
 - [A short guide to mastering keyboard shortcuts on GitHub](https://github.blog/2024-04-19-a-short-guide-to-mastering-keyboard-shortcuts-on-github/)
-- [A policy proposal on our approach to deepfake tools and responsible AI](https://github.blog/2024-04-18-a-policy-proposal-on-our-approach-to-deepfake-tools-and-responsible-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
