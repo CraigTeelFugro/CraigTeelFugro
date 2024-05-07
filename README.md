@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot Chat in GitHub Mobile is now generally available](https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/)
 - [Create a home for your community with GitHub Discussions](https://github.blog/2024-05-06-create-a-home-for-your-community-with-github-discussions/)
 - [Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/)
 - [Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
 - [Celebrating 1 year of A11y Design Bootcamp: Takeaways and tips](https://github.blog/2024-05-02-celebrating-1-year-of-a11y-design-bootcamp-takeaways-and-tips/)
-- [Empowering accessibility: GitHub’s journey building an in-house Champions program](https://github.blog/2024-05-01-empowering-accessibility-githubs-journey-building-an-in-house-champions-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
