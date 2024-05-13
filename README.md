@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [Say hello to the SPORTech collection](https://github.blog/2024-05-13-say-hello-to-the-sportech-collection/)
 - [GitHub Availability Report: April 2024](https://github.blog/2024-05-10-github-availability-report-april-2024/)
 - [How AI enhances static application security testing &lpar;SAST&rpar;](https://github.blog/2024-05-09-how-ai-enhances-static-application-security-testing-sast/)
 - [Just launched: Second cohort of the DPG Open Source Community Manager Program!](https://github.blog/2024-05-08-just-launched-second-cohort-of-the-dpg-open-source-community-manager-program/)
-- [How we’re building more inclusive and accessible components at GitHub](https://github.blog/2024-05-07-how-were-building-more-inclusive-and-accessible-components-at-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
