@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling accessibility within GitHub and beyond](https://github.blog/2024-05-16-scaling-accessibility-within-github-and-beyond/)
 - [Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/)
 - [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [Say hello to the SPORTech collection](https://github.blog/2024-05-13-say-hello-to-the-sportech-collection/)
 - [GitHub Availability Report: April 2024](https://github.blog/2024-05-10-github-availability-report-april-2024/)
-- [How AI enhances static application security testing &lpar;SAST&rpar;](https://github.blog/2024-05-09-how-ai-enhances-static-application-security-testing-sast/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
