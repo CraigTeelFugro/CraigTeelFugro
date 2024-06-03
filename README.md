@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How GitHub reduced testing time for iOS apps with new runner features](https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/)
+- [Arm64 on GitHub Actions: Powering faster, more efficient build systems](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)
 - [GitHub and JFrog partner to unify code and binaries for DevSecOps](https://github.blog/2024-05-29-github-and-jfrog/)
 - [What is Git? Our beginner’s guide to version control](https://github.blog/2024-05-27-what-is-git-our-beginners-guide-to-version-control/)
 - [2024 GitHub Accelerator: Meet the 11 projects shaping open source AI](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/)
-- [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/)
-- [Scaling accessibility within GitHub and beyond](https://github.blog/2024-05-16-scaling-accessibility-within-github-and-beyond/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
