@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner’s guide to GitHub: Uploading files and folders to GitHub](https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/)
 - [Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/2024-06-26-attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 - [Beginner’s guide to GitHub repositories: How to create your first repo](https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/)
 - [Execute commands by sending JSON? Learn how unsafe deserialization vulnerabilities work in Ruby projects](https://github.blog/2024-06-20-execute-commands-by-sending-json-learn-how-unsafe-deserialization-vulnerabilities-work-in-ruby-projects/)
 - [GitHub Enterprise Server 3.13 is now generally available](https://github.blog/2024-06-18-github-enterprise-server-3-13-is-now-generally-available/)
-- [Unlocking the power of unstructured data with RAG](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
