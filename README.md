@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/)
 - [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
 - [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/)
 - [How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/)
 - [GitHub Availability Report: June 2024](https://github.blog/news-insights/company-news/github-availability-report-june-2024/)
-- [Advancing responsible practices for open source AI](https://github.blog/news-insights/policy-news-and-insights/advancing-responsible-practices-for-open-source-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
