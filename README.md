@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
-- [How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/2024-07-17-how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/)
-- [GitHub Availability Report: June 2024](https://github.blog/2024-07-12-github-availability-report-june-2024/)
-- [Advancing responsible practices for open source AI](https://github.blog/2024-07-11-advancing-responsible-practices-for-open-source-ai/)
-- [Exploring the challenges in creating an accessible sortable list &lpar;drag-and-drop&rpar;](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
+- [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/)
+- [How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/)
+- [GitHub Availability Report: June 2024](https://github.blog/news-insights/company-news/github-availability-report-june-2024/)
+- [Advancing responsible practices for open source AI](https://github.blog/news-insights/policy-news-and-insights/advancing-responsible-practices-for-open-source-ai/)
+- [Exploring the challenges in creating an accessible sortable list &lpar;drag-and-drop&rpar;](https://github.blog/engineering/user-experience/exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
