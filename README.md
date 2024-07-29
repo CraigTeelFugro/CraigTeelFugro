@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner’s guide to GitHub: Adding code to your repository](https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/)
 - [GitHub Accelerator Showcase: Celebrating our second cohort and what’s next](https://github.blog/open-source/maintainers/github-accelerator-showcase-celebrating-our-second-cohort-and-whats-next/)
 - [How we improved availability through iterative simplification](https://github.blog/engineering/engineering-principles/how-we-improved-availability-through-iterative-simplification/)
 - [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
 - [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/security/vulnerability-research/3-ways-to-get-remote-code-execution-in-kafka-ui/)
-- [How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
