@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to level up your Git game with GitHub CLI](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/)
 - [Automating open source: How Ersilia distributes AI models to advance global health equity](https://github.blog/open-source/social-impact/automating-open-source-how-ersilia-distributes-ai-models-to-advance-global-health-equity/)
 - [GitHub Availability Report: July 2024](https://github.blog/news-insights/company-news/github-availability-report-july-2024/)
 - [Found means fixed: Secure code more than three times faster with Copilot Autofix](https://github.blog/news-insights/product-news/secure-code-more-than-three-times-faster-with-copilot-autofix/)
 - [What are AI agents and why do they matter?](https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/)
-- [The ultimate guide to developer happiness](https://github.blog/engineering/engineering-principles/the-ultimate-guide-to-developer-happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
