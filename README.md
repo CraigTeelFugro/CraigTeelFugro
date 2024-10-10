@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Availability Report: September 2024](https://github.blog/news-insights/company-news/github-availability-report-september-2024/)
 - [5 tips and tricks when using GitHub Copilot Workspace](https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/)
 - [The second half of software supply chain security on GitHub](https://github.blog/security/supply-chain-security/the-second-half-of-software-supply-chain-security-on-github/)
 - [Highlights from Git 2.47](https://github.blog/open-source/git/highlights-from-git-2-47/)
 - [How students teamed up to decode 2,000-year-old texts using AI](https://github.blog/ai-and-ml/machine-learning/how-students-teamed-up-to-decode-2000-year-old-texts-using-ai/)
-- [Leading the way: 10 projects in the Open Source Zone at GitHub Universe 2024](https://github.blog/open-source/10-projects-in-the-open-source-zone-at-github-universe-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
