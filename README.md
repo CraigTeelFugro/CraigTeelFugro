@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Software is a team sport: Building the future of software development together](https://github.blog/news-insights/company-news/software-is-a-team-sport-building-the-future-of-software-development-together/)
 - [Does GitHub Copilot improve code quality? Here’s what the data says](https://github.blog/news-insights/research/does-github-copilot-improve-code-quality-heres-what-the-data-says/)
 - [GitHub Availability Report: October 2024](https://github.blog/news-insights/company-news/github-availability-report-october-2024/)
 - [How developers spend the time they save thanks to AI coding tools](https://github.blog/ai-and-ml/generative-ai/how-developers-spend-the-time-they-save-thanks-to-ai-coding-tools/)
 - [Game Off 2024 theme announcement](https://github.blog/open-source/game-off-2024-theme-announcement/)
-- [Celebrating the GitHub Awards 2024 recipients 🎉](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
