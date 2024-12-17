@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uncovering GStreamer secrets](https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets/)
 - [GitHub Availability Report: November 2024](https://github.blog/news-insights/company-news/github-availability-report-november-2024/)
 - [So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/)
 - [CodeQL zero to hero part 4: Gradio framework case study](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/)
 - [What the EU’s new software legislation means for developers](https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/)
-- [The top 10 gifts for the developer in your life](https://github.blog/news-insights/company-news/the-top-10-gifts-for-the-developer-in-your-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
