@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How we evaluate models for GitHub Copilot](https://github.blog/ai-and-ml/generative-ai/how-we-evaluate-models-for-github-copilot/)
+- [How we evaluate AI models and LLMs for GitHub Copilot](https://github.blog/ai-and-ml/generative-ai/how-we-evaluate-models-for-github-copilot/)
 - [Supporting the next generation of developers](https://github.blog/developer-skills/github-education/supporting-the-next-generation-of-developers/)
 - [GitHub Availability Report: December 2024](https://github.blog/news-insights/company-news/github-availability-report-december-2024/)
 - [Documenting and explaining legacy code with GitHub Copilot: Tips and examples](https://github.blog/ai-and-ml/github-copilot/documenting-and-explaining-legacy-code-with-github-copilot-tips-and-examples/)
