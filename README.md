@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity researchers: Digital detectives in a connected world](https://github.blog/security/vulnerability-research/cybersecurity-researchers-digital-detectives-in-a-connected-world/)
 - [Considerations for making a tree view component accessible](https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/)
 - [Open source AI is already finding its way into production](https://github.blog/ai-and-ml/generative-ai/open-source-ai-is-already-finding-its-way-into-production/)
 - [New to open source? Here’s everything you need to get started](https://github.blog/open-source/new-to-open-source-heres-everything-you-need-to-get-started/)
 - [That’s a wrap: GitHub Innovation Graph in 2024](https://github.blog/news-insights/policy-news-and-insights/thats-a-wrap-github-innovation-graph-in-2024/)
-- [Attacks on Maven proxy repositories](https://github.blog/security/vulnerability-research/attacks-on-maven-proxy-repositories/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
