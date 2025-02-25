@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Community managers in action: Leading a developer community for good](https://github.blog/open-source/social-impact/community-managers-in-action-leading-a-developer-community-for-good/)
 - [How to debug code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/)
 - [Engaging with the developer community on our approach to content moderation](https://github.blog/news-insights/policy-news-and-insights/engaging-with-the-developer-community-on-our-approach-to-content-moderation/)
 - [Support the open source projects you love this Valentine’s Day](https://github.blog/open-source/support-the-open-source-projects-you-love-this-valentines-day/)
 - [GitHub Availability Report: January 2025](https://github.blog/news-insights/company-news/github-availability-report-january-2025/)
-- [How GitHub uses CodeQL to secure GitHub](https://github.blog/engineering/how-github-uses-codeql-to-secure-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
