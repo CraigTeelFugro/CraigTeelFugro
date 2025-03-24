@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A maintainer’s guide to vulnerability disclosure: GitHub tools to make it simple](https://github.blog/security/vulnerability-research/a-maintainers-guide-to-vulnerability-disclosure-github-tools-to-make-it-simple/)
 - [World Water Day: how GitHub Copilot is helping bring clean water to communities](https://github.blog/open-source/world-water-day-how-github-copilot-is-helping-bring-clean-water-to-communities/)
 - [Video: How to create checklists in Markdown for easier task tracking](https://github.blog/developer-skills/github/video-how-to-create-checklists-in-markdown-for-easier-task-tracking/)
 - [IssueOps: Automate CI/CD &lpar;and more!&rpar; with GitHub Issues and Actions](https://github.blog/engineering/issueops-automate-ci-cd-and-more-with-github-issues-and-actions/)
 - [GitHub for Beginners: Essential features of GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-essential-features-of-github-copilot/)
-- [Highlights from Git 2.49](https://github.blog/open-source/git/highlights-from-git-2-49/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
