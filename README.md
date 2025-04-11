@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What the heck is MCP and why is everyone talking about it?](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/)
 - [How we’re making security easier for the average developer](https://github.blog/security/application-security/how-were-making-security-easier-for-the-average-developer/)
 - [How to request a change to a CVE record](https://github.blog/security/vulnerability-research/how-to-request-a-change-to-a-cve-record/)
 - [Found means fixed: Reduce security debt at scale with GitHub security campaigns](https://github.blog/security/application-security/found-means-fixed-reduce-security-debt-at-scale-with-github-security-campaigns/)
 - [Git turns 20: A Q&amp;A with Linus Torvalds](https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/)
-- [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
