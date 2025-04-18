@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the code: How to wow the acceptance committee at your next tech event](https://github.blog/developer-skills/career-growth/cracking-the-code-how-to-wow-the-acceptance-committee-at-your-next-tech-event/)
 - [Which AI model should I use with GitHub Copilot?](https://github.blog/ai-and-ml/github-copilot/which-ai-model-should-i-use-with-github-copilot/)
 - [GitHub Availability Report: March 2025](https://github.blog/news-insights/company-news/github-availability-report-march-2025/)
 - [When to choose GitHub-Hosted runners or self-hosted runners with GitHub Actions](https://github.blog/enterprise-software/ci-cd/when-to-choose-github-hosted-runners-or-self-hosted-runners-with-github-actions/)
 - [GitHub for Beginners: Security best practices with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-security-best-practices-with-github-copilot/)
-- [Introducing sub-issues: Enhancing issue management on GitHub](https://github.blog/engineering/architecture-optimization/introducing-sub-issues-enhancing-issue-management-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
