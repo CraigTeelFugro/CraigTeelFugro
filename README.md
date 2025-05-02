@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot ask, edit, and agent modes: What they do and when to use them](https://github.blog/ai-and-ml/copilot-ask-edit-and-agent-modes-what-they-do-and-when-to-use-them/)
 - [The AI-powered DevOps revolution: Redefining developer collaboration](https://github.blog/ai-and-ml/github-copilot/the-ai-powered-devops-revolution-redefining-developer-collaboration/)
 - [From MCP to multi-agents: The top 10 new open source AI projects on GitHub right now and why they matter](https://github.blog/open-source/maintainers/from-mcp-to-multi-agents-the-top-10-open-source-ai-projects-on-github-right-now-and-why-they-matter/)
 - [Cutting through the noise: How to prioritize Dependabot alerts](https://github.blog/security/application-security/cutting-through-the-noise-how-to-prioritize-dependabot-alerts/)
 - [GitHub for Beginners: Building a REST API with Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-rest-api-with-copilot/)
-- [How the GitHub CLI can now enable triangular workflows](https://github.blog/open-source/git/how-the-github-cli-can-now-enable-triangular-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
