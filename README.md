@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dos and don’ts when sunsetting open source projects](https://github.blog/open-source/maintainers/dos-and-donts-when-sunsetting-open-source-projects/)
 - [Welcome to Maintainer Month: Events, exclusive discounts, and a new security challenge](https://github.blog/open-source/maintainers/welcome-to-maintainer-month-events-exclusive-discounts-and-a-new-security-challenge/)
 - [Copilot ask, edit, and agent modes: What they do and when to use them](https://github.blog/ai-and-ml/github-copilot/copilot-ask-edit-and-agent-modes-what-they-do-and-when-to-use-them/)
 - [Building a more accessible GitHub CLI](https://github.blog/engineering/user-experience/building-a-more-accessible-github-cli/)
 - [The AI-powered DevOps revolution: Redefining developer collaboration](https://github.blog/ai-and-ml/github-copilot/the-ai-powered-devops-revolution-redefining-developer-collaboration/)
-- [From MCP to multi-agents: The top 10 new open source AI projects on GitHub right now and why they matter](https://github.blog/open-source/maintainers/from-mcp-to-multi-agents-the-top-10-open-source-ai-projects-on-github-right-now-and-why-they-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
