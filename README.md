@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understand your software’s supply chain with GitHub’s dependency graph](https://github.blog/security/supply-chain-security/understand-your-softwares-supply-chain-with-githubs-dependency-graph/)
 - [GitHub Advisory Database by the numbers: Known security vulnerabilities and what you can do about them](https://github.blog/security/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/)
 - [From pair to peer programmer: Our vision for agentic workflows in GitHub Copilot](https://github.blog/news-insights/product-news/from-pair-to-peer-programmer-our-vision-for-agentic-workflows-in-github-copilot/)
 - [Why developer expertise matters more than ever in the age of AI](https://github.blog/developer-skills/career-growth/why-developer-expertise-matters-more-than-ever-in-the-age-of-ai/)
 - [GitHub Copilot Spaces: Bring the right context to every suggestion](https://github.blog/ai-and-ml/github-copilot/github-copilot-spaces-bring-the-right-context-to-every-suggestion/)
-- [5 tips for using GitHub Copilot with issues to boost your productivity](https://github.blog/ai-and-ml/github-copilot/5-tips-for-using-github-copilot-with-issues-to-boost-your-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
