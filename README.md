@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building your first MCP server: How to extend AI tools with custom capabilities](https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/)
-- [Explore the best of GitHub Universe: 9 spaces built to spark creativity, connection, and joy](https://github.blog/news-insights/company-news/explore-the-best-of-github-universe-9-spaces-built-to-spark-creativity-connection-and-joy/)
-- [Who will maintain the future? Rethinking open source leadership for a new generation](https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/)
-- [Agents panel: Launch Copilot coding agent tasks anywhere on GitHub](https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/)
-- [Highlights from Git 2.51](https://github.blog/open-source/git/highlights-from-git-2-51/)
+- [New developments at Opensource.com](https://opensource.com/article/23/6/new-developments-opensourcecom)
+- [Tips for running virtual, in-person, and hybrid events](https://opensource.com/article/23/5/virtual-in-person-events)
+- [Generate web pages from Markdown with Docsify-This](https://opensource.com/article/23/5/docsify-markdown-html)
+- [How I used guilt as a motivator for good](https://opensource.com/article/23/4/guilt-motivation)
+- [3 reasons to host a docathon for your open source project](https://opensource.com/article/23/4/open-source-docathon)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
