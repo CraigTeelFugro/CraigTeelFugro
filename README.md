@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
-- [Building AI-powered GitHub issue triage with the Copilot SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/)
-- [GitHub expands application security coverage with AI‑powered detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)
-- [Rethinking open source mentorship in the AI era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/)
-- [How Squad runs coordinated AI agents inside your repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/)
+- [New developments at Opensource.com](https://opensource.com/article/23/6/new-developments-opensourcecom)
+- [Tips for running virtual, in-person, and hybrid events](https://opensource.com/article/23/5/virtual-in-person-events)
+- [Generate web pages from Markdown with Docsify-This](https://opensource.com/article/23/5/docsify-markdown-html)
+- [How I used guilt as a motivator for good](https://opensource.com/article/23/4/guilt-motivation)
+- [3 reasons to host a docathon for your open source project](https://opensource.com/article/23/4/open-source-docathon)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
