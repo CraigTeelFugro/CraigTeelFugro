@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently Team Lead for the Geophysical Systems team
-- 🌱 I’m currently learning everything I can
+- 🔭 I’m currently Team Lead for the MSC Digitalization team
+- 🌱 Processing bathy and sidescan sonar data
+  
 
 [<img align="left" alt="Craig Teel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
