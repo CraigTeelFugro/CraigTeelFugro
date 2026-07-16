@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 # GitHub Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub for Beginners: Your roadmap to mastering the GitHub essentials](https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/)
 - [Better tools made Copilot code review worse. Here’s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/)
 - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 - [Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/)
 - [GitHub availability report: June 2026](https://github.blog/news-insights/company-news/github-availability-report-june-2026/)
-- [How GitHub Copilot enables zero DNS configuration for GitHub Pages](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=craigteelfugro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
